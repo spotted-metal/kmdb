@@ -1,0 +1,328 @@
+[
+	{
+		"song_id": "1",
+		"name": {
+			"base": "Henshin",
+			"other": [
+				"Kimii - Henshin"
+			]
+		},
+		"artist": {
+			"main": [
+				"Kimii"
+			]
+		},
+		"misc": [
+			"https://soundcloud.com/kimiidesu/henshin",
+			"https://www.youtube.com/watch?v=H0h2hdEBlNY"
+		]
+	},
+	{
+		"song_id": "2",
+		"name": {
+			"base": "Camellia",
+			"authorized": "KarameL - Camellia"
+		},
+		"artist": {
+			"main": [
+				"KarameL"
+			]
+		},
+		"misc": [
+			"Label: Synthikate",
+			"Release Date: 25 December 2017",
+			"Album: Snowlight Vol. 2",
+			"https://soundcloud.com/synthikate/karamel-camellia",
+			"https://www.youtube.com/watch?v=MfgT22pwniM"
+		]
+	},
+	{
+		"song_id": "3",
+		"name": {
+			"base": "Jump!",
+			"authorized": "Tecchi x Elliot Hsu - Jump!",
+			"other": [
+				"Tecchi & Elliot Hsu - Jump!"
+			]
+		},
+		"artist": {
+			"main": [
+				"Tecchi",
+				"Elliot Hsu"
+			]
+		},
+		"misc": [
+			"https://soundcloud.com/tecchii/jump",
+			"https://www.youtube.com/watch?v=TZ8yQP4cTsU"
+		]
+	},
+	{
+		"song_id": "4",
+		"name": {
+			"base": "Night Parade",
+			"other": [
+				"alpha - Night Parade"
+			]
+		},
+		"artist": {
+			"main": [
+				"alpha"
+			]
+		},
+		"misc": [
+			"https://soundcloud.com/superalpha/night-parade",
+			"https://www.youtube.com/watch?v=biNXZIuHahI"
+		]
+	},
+	{
+		"song_id": "5",
+		"name": {
+			"base": "Tomori",
+			"other": [
+				"ARForest - Tomori"
+			]
+		},
+		"artist": {
+			"main": [
+				"ARForest"
+			]
+		},
+		"misc": [
+			"EP: Antique by ARForest",
+			"https://soundcloud.com/arforest/tomori",
+			"https://www.youtube.com/watch?v=MfgT22pwniM"
+		]
+	},
+	{
+		"song_id": "6",
+		"name": {
+			"base": "はんぶんこ花火",
+			"other": [
+				"Yunomi & Happy Kuru Kuru - はんぶんこ花火 (Dream Hackers Remix)"
+			]
+		},
+		"artist": {
+			"main": [
+				"Yunomi",
+				"Happy Kuru Kuru",
+				"Dream Hackers"
+			]
+		},
+		"misc": [
+			"https://soundcloud.com/realdreamhackers/happy-kuru-kuru-dream-hackers-remix",
+			"https://www.youtube.com/watch?v=QbK6KkGQs6s",
+			"NOTE: both Happy Kuru Kuru and Dream Hackers Soundcloud accounts are defunct"
+		]
+	},
+	{
+		"song_id": "7",
+		"name": {
+			"base": "Sweet",
+			"other": [
+				"PLEEG - Sweet"
+			]
+		},
+		"artist": {
+			"main": [
+				"PLEEG"
+			]
+		},
+		"misc": [
+			"https://soundcloud.com/pleegmusic/pleeg-sweet",
+			"https://www.youtube.com/watch?v=CAXbvRWv66s"
+		]
+	},
+	{
+		"song_id": "8",
+		"name": {
+			"base": "Mocha",
+			"other": [
+				"Hyp3rsleep - Mocha"
+			]
+		},
+		"artist": {
+			"main": [
+				"Hyp3rsleep"
+			]
+		},
+		"misc": [
+			"https://soundcloud.com/hyp3rsleep/mocha-buy-free-download",
+			"https://www.youtube.com/watch?v=dJDtxOhr_So"
+		]
+	},
+	{
+		"song_id": "9",
+		"name": {
+			"base": "Cocoro",
+			"authorized": "Ironami & Milkoi - Cocoro"
+		},
+		"artist": {
+			"main": [
+				"Ironami",
+				"Milkoi"
+			]
+		},
+		"misc": [
+			"https://soundcloud.com/ironami/ironami-milkoi-cocoro",
+			"https://www.youtube.com/watch?v=UT3gqD51r3c"
+		]
+	},
+	{
+		"song_id": "10",
+		"name": {
+			"base": "Lovelock",
+			"other": [
+				"Kagi - Lovelock"
+			]
+		},
+		"artist": {
+			"main": [
+				"Kagi"
+			]
+		},
+		"misc": [
+			"https://soundcloud.com/kagimusic/lovelock",
+			"https://www.youtube.com/watch?v=dPmE3_unq5Q",
+			"Soundcloud link defunct"
+		]
+	},
+	{
+		"song_id": "11",
+		"name": {
+			"authorized": "Aika x Trifect - Light The Way!",
+			"base": "Light the Way!",
+			"other": [
+				"Aika & Trifect - Light the Way!"
+			]
+		},
+		"artist": {
+			"main": [
+				"AIKA",
+				"Trifect"
+			]
+		},
+		"misc": [
+			"https://soundcloud.com/i-am-aika/aika-x-trifect-light-the-way",
+			"https://www.youtube.com/watch?v=GxK4LpMLsAE"
+		]
+	},
+	{
+		"song_id": "12",
+		"name": {
+			"base": "New Day",
+			"authorized": "KODOMOi - New Day"
+		},
+		"artist": {
+			"main": [
+				"KODOMOi"
+			]
+		},
+		"misc": [
+			"https://soundcloud.com/kodomoimusic/kodomoi-new-day",
+			"https://www.youtube.com/watch?v=ElI-axLJ0O4"
+		]
+	},
+	{
+		"song_id": "13",
+		"name": {
+			"base": "Cotton Cloud",
+			"other": [
+				"Sein & Music - Cotton Cloud"
+			]
+		},
+		"artist": {
+			"main": [
+				"Sein & Music"
+			]
+		},
+		"misc": [
+			"https://www.youtube.com/watch?v=Gjy2nQHF3K4",
+			"accounts defunct"
+		]
+	},
+	{
+		"song_id": "14",
+		"name": {
+			"authorized": "COSMICOSMO - MILK & COOKIE",
+			"base": "MILK & COOKIE"
+		},
+		"artist": {
+			"main": [
+				"COSMICOSMO"
+			]
+		},
+		"misc": [
+			"https://soundcloud.com/hyperpopcollective/milk-cookie-cosmicosmo",
+			"https://www.youtube.com/watch?v=yaODSTfK-DE"
+		]
+	},
+	{
+		"song_id": "15",
+		"name": {
+			"base": "Favorite Place",
+			"other": [
+				"Kocyamarü - Favorite place"
+			]
+		},
+		"artist": {
+			"main": [
+				"Kocyamarü"
+			]
+		},
+		"misc": [
+			"https://soundcloud.com/kocyamaru/favorite-place",
+			"https://www.youtube.com/watch?v=HRcH1SQnDAQ"
+		]
+	},
+	{
+		"song_id": "16",
+		"name": {
+			"base": "Keep It Kawaii",
+			"authorized": "NaNa - Keep It Kawaii"
+		},
+		"artist": {
+			"main": [
+				"NaNa"
+			]
+		},
+		"misc": [
+			"https://soundcloud.com/nana172025/nana-keep-it-kawaii",
+			"https://www.youtube.com/watch?v=RqPqHy8DT4s"
+		]
+	},
+	{
+		"song_id": "17",
+		"name": {
+			"base": "Tea Time",
+			"authorized": "Aire - Tea Time (dextrust Remix)"
+		},
+		"artist": {
+			"main": [
+				"Aire",
+				"dextrust"
+			]
+		},
+		"misc": [
+			"https://soundcloud.com/dextrustofficial/teatime",
+			"https://www.youtube.com/watch?v=yV2nfetWEHQ"
+		]
+	},
+	{
+		"song_id": "18",
+		"name": {
+			"base": "Myself",
+			"other": [
+				"PIKASONIC - Myself"
+			]
+		},
+		"artist": {
+			"main": [
+				"PIKASONIC"
+			]
+		},
+		"misc": [
+			"https://soundcloud.com/pika5onic/myself-original-mix",
+			"https://www.youtube.com/watch?v=Q1wqaNFDII0"
+		]
+	}
+]

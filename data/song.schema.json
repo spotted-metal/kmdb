@@ -1,0 +1,60 @@
+{
+    "$schema": "http://json-schema.org/draft-04/schema",
+    "title": "Song",
+    "description": "An authority record for a song",
+    "type": "array",
+    "items": {
+        "type": "object",
+        "properties": {
+            "song_id": {
+                "type": "string"
+            },
+            "name": {
+                "type": "object",
+                "properties": {
+                    "base": {
+                        "type": "string"
+                    },
+                    "authorized": {
+                        "type": "string"
+                    },
+                    "other": {
+                        "type": "array",
+                        "items": {
+                            "type": "string"
+                        }
+                    }
+                },
+                "required": [
+                    "base"
+                ]
+            },
+            "artist": {
+                "type": "object",
+                "properties": {
+                    "main": {
+                        "type": "array",
+                        "items": {
+                            "type": "string"
+                        }
+                    },
+                    "featured": {
+                        "type": "array",
+                        "items": {
+                            "type": "string"
+                        }
+                    }
+                },
+                "required": [
+                    "main"
+                ],
+                "additionalProperties": false
+            }
+        },
+        "required": [
+            "song_id",
+            "name",
+            "artist"
+        ]
+    }
+}
