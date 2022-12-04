@@ -189,15 +189,15 @@
 	{
 		"song_id": "11",
 		"name": {
-			"authorized": "Aika x Trifect - Light The Way!",
 			"base": "Light the Way!",
+			"authorized": "Aika x Trifect - Light The Way!",
 			"other": [
 				"Aika & Trifect - Light the Way!"
 			]
 		},
 		"artist": {
 			"main": [
-				"AIKA",
+				"AIKA 🌸",
 				"Trifect"
 			]
 		},
@@ -243,8 +243,8 @@
 	{
 		"song_id": "14",
 		"name": {
-			"authorized": "COSMICOSMO - MILK & COOKIE",
-			"base": "MILK & COOKIE"
+			"base": "MILK & COOKIE",
+			"authorized": "COSMICOSMO - MILK & COOKIE"
 		},
 		"artist": {
 			"main": [
@@ -323,6 +323,323 @@
 		"misc": [
 			"https://soundcloud.com/pika5onic/myself-original-mix",
 			"https://www.youtube.com/watch?v=Q1wqaNFDII0"
+		]
+	},
+	{
+		"song_id": "19",
+		"name": {
+			"base": "Woah!",
+			"authorized": "Woah! (w/ factal)",
+			"other": [
+				"Factal x Haki - Woah!"
+			]
+		},
+		"artist": {
+			"main": [
+				"factal",
+				"haki"
+			]
+		},
+		"misc": [
+			"https://soundcloud.com/hakii/woah-w-factal",
+			"https://www.youtube.com/watch?v=mfOxtJdXOSw"
+		]
+	},
+	{
+		"song_id": "20",
+		"name": {
+			"base": "Melting Emotion",
+			"authorized": "Melting Emotion / Kazmasa【F/C commune310 summer 2018】",
+			"other": [
+				"Kazmasa - Melting Emotion"
+			]
+		},
+		"artist": {
+			"main": [
+				"K A Z M A S A"
+			]
+		},
+		"misc": [
+			"https://soundcloud.com/k55tea/melting-emotion-kazmasafc-commune310-summer-2018",
+			"https://www.youtube.com/watch?v=EXCz5jvJA6A"
+		]
+	},
+	{
+		"song_id": "21",
+		"name": {
+			"base": "Gemini",
+			"other": [
+				"tokiwa - Gemini"
+			]
+		},
+		"artist": {
+			"main": [
+				"tokiwa"
+			]
+		},
+		"misc": [
+			"https://soundcloud.com/tokiwa_anka/tokiwa-gemini",
+			"https://www.youtube.com/watch?v=sljyAKlVnR0"
+		]
+	},
+	{
+		"song_id": "22",
+		"name": {
+			"base": "Nagame",
+			"other": [
+				"B3LLA - Nagame"
+			]
+		},
+		"artist": {
+			"main": [
+				"B3LLA"
+			]
+		},
+		"misc": [
+			"https://soundcloud.com/b3lladesu/nagame",
+			"https://www.youtube.com/watch?v=HxGt4cxbUms",
+			"soundcloud link defunct"
+		]
+	},
+	{
+		"song_id": "23",
+		"name": {
+			"base": "Hold Me",
+			"other": [
+				"2ToneDisco - Hold Me"
+			]
+		},
+		"artist": {
+			"main": [
+				"2ToneDisco"
+			]
+		},
+		"misc": [
+			"https://soundcloud.com/2tonedisco/hold-me-1",
+			"https://www.youtube.com/watch?v=y8Zh1p670mM",
+			"soundcloud link defunct"
+		]
+	},
+	{
+		"song_id": "24",
+		"name": {
+			"base": "Hanabi",
+			"authorized": "Hanabi / osirasekita【F/C commune310 summer 2018】**FREE DL**",
+			"other": [
+				"osirasekita - Hanabi"
+			]
+		},
+		"artist": {
+			"main": [
+				"osirasekita"
+			]
+		},
+		"misc": [
+			"Album: commune310 summer 2018",
+			"https://soundcloud.com/osirasekita/hanabi-osirasekitafc-commune310-summer-2018",
+			"https://www.youtube.com/watch?v=PdJE_Zx4eg4"
+		]
+	},
+	{
+		"song_id": "25",
+		"name": {
+			"base": "Metsuki",
+			"other": [
+				"Kimii - Metsuki"
+			]
+		},
+		"artist": {
+			"main": [
+				"Kimii"
+			]
+		},
+		"misc": [
+			"https://soundcloud.com/kimiidesu/metsuki-1",
+			"https://www.youtube.com/watch?v=IL_jPPavIhQ"
+		]
+	},
+	{
+		"song_id": "26",
+		"name": {
+			"base": "Chuuni",
+			"authorized": "Tecchi x Amacchi x Kagi - Chuuni"
+		},
+		"artist": {
+			"main": [
+				"Tecchi",
+				"amacchi",
+				"Kagi"
+			]
+		},
+		"misc": [
+			"https://soundcloud.com/chunchunmarudesu/chuuni",
+			"https://www.youtube.com/watch?v=cQS7n-bAMw4"
+		]
+	},
+	{
+		"song_id": "27",
+		"name": {
+			"base": "Hot & Cool",
+			"other": [
+				"Kocyamarü - Hot & Cool"
+			]
+		},
+		"artist": {
+			"main": [
+				"Kocyamarü"
+			]
+		},
+		"misc": [
+			"https://soundcloud.com/kocyamaru/kocyamaru-hot-cool",
+			"https://www.youtube.com/watch?v=TzrD-owOg_Y"
+		]
+	},
+	{
+		"song_id": "28",
+		"name": {
+			"base": "Teach Me How To",
+			"authorized": "[FREE]Teach Me How To",
+			"other": [
+				"Capchii - Teach Me How To"
+			]
+		},
+		"artist": {
+			"main": [
+				"Capchii"
+			]
+		},
+		"misc": [
+			"https://soundcloud.com/capchii/freeteach-me-how-to-1",
+			"https://www.youtube.com/watch?v=LK6gqAgPqso"
+		]
+	},
+	{
+		"song_id": "29",
+		"name": {
+			"base": "Sayonara April",
+			"authorized": "KODOMOi - Sayonara April"
+		},
+		"artist": {
+			"main": [
+				"KODOMOi"
+			]
+		},
+		"misc": [
+			"https://soundcloud.com/kodomoimusic/kodomoi-sayonara-april",
+			"https://www.youtube.com/watch?v=t6G5Dv4Sseg"
+		]
+	},
+	{
+		"song_id": "30",
+		"name": {
+			"base": "Meanwhile",
+			"authorized": "Meanwhile (w/ Club2Tokyo)",
+			"other": [
+				"Lewis x Club2Tokyo - Meanwhile"
+			]
+		},
+		"artist": {
+			"main": [
+				"Lewis",
+				"Club2Tokyo"
+			]
+		},
+		"misc": [
+			"https://soundcloud.com/lewisdubmusic/meanwhile",
+			"https://www.youtube.com/watch?v=_xsACRBDGYI"
+		]
+	},
+	{
+		"song_id": "31",
+		"name": {
+			"base": "First love",
+			"other": [
+				"P3PPER - First love"
+			]
+		},
+		"artist": {
+			"main": [
+				"P3PPER"
+			]
+		},
+		"misc": [
+			"https://soundcloud.com/p3pper/first-love",
+			"https://www.youtube.com/watch?v=D6WH9r_jLYY",
+			"soundcloud link defunct"
+		]
+	},
+	{
+		"song_id": "32",
+		"name": {
+			"base": "New Start!",
+			"other": [
+				"PIKASONIC - New Start!"
+			]
+		},
+		"artist": {
+			"main": [
+				"PIKASONIC"
+			]
+		},
+		"misc": [
+			"https://soundcloud.com/pika5onic/new-start",
+			"https://www.youtube.com/watch?v=jt6ufI-P2Co"
+		]
+	},
+	{
+		"song_id": "33",
+		"name": {
+			"base": "Sugar Punk",
+			"other": [
+				"Aika - Sugar Funk"
+			]
+		},
+		"artist": {
+			"main": [
+				"AIKA 🌸"
+			]
+		},
+		"misc": [
+			"https://soundcloud.com/i-am-aika/sugar-punku",
+			"https://www.youtube.com/watch?v=_BBrHLxsSvQ"
+		]
+	},
+	{
+		"song_id": "34",
+		"name": {
+			"base": "Don't Hide Yourself",
+			"other": [
+				"ayiko - Don't Hide Yourself"
+			]
+		},
+		"artist": {
+			"main": [
+				"ayiko"
+			]
+		},
+		"misc": [
+			"https://soundcloud.com/real-ayiko/dont-hide-yourself",
+			"https://www.youtube.com/watch?v=zNe0VSnvPZU"
+		]
+	},
+	{
+		"song_id": "35",
+		"name": {
+			"base": "Metsuki",
+			"other": [
+				"Kimii - Metsuki (Milkoi Remix)"
+			]
+		},
+		"artist": {
+			"main": [
+				"Kimii",
+				"Milkoi"
+			]
+		},
+		"remix_of": "25",
+		"misc": [
+			"https://soundcloud.com/milkoi/kimii-metsuki-milkoi-remix",
+			"https://www.youtube.com/watch?v=DdhlKjFRPsI"
 		]
 	}
 ]
