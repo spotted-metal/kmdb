@@ -1,0 +1,17 @@
+{
+    "$schema": "http://json-schema.org/draft-04/schema",
+    "title": "URI",
+    "description": "A bibliographic record for a song release",
+    "type": "array",
+    "items": {
+        "type": "object",
+        "properties": {
+            "uri": {
+                "type": "string"
+            }
+        },
+        "required": [
+            "uri"
+        ]
+    }
+}

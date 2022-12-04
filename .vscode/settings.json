@@ -1,8 +1,13 @@
 {
   "json.schemas": [
     {
-      "fileMatch": ["*.json", "!*.schema.json"],
+      "fileMatch": ["song.json"],
       "url": "./data/song.schema.json",
+      "schema": true
+    },
+    {
+      "fileMatch": ["uri.json"],
+      "url": "./data/uri.schema.json",
       "schema": true
     }
   ]
