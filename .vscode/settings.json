@@ -1,0 +1,9 @@
+{
+  "json.schemas": [
+    {
+      "fileMatch": ["*.json", "!*.schema.json"],
+      "url": "./data/song.schema.json",
+      "schema": true
+    }
+  ]
+}
