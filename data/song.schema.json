@@ -49,12 +49,16 @@
                     "main"
                 ],
                 "additionalProperties": false
+            },
+            "misc": {
+                "type": "array"
             }
         },
         "required": [
             "song_id",
             "name",
             "artist"
-        ]
+        ],
+        "additionalProperties": false
     }
 }
