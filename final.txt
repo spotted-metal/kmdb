@@ -1,0 +1,336 @@
+"song_id": "1",
+Henshin
+Artist: Kimii
+References/Links:
+https://soundcloud.com/kimiidesu/henshin
+https://www.youtube.com/watch?v=H0h2hdEBlNY
+
+"song_id": "2",
+Camellia
+Artist: KarameL
+"Album: Snowlight Vol. 2",
+References/Links:
+"KarameL - Camellia"
+https://soundcloud.com/synthikate/karamel-camellia
+https://www.youtube.com/watch?v=MfgT22pwniM
+
+"song_id": "3",
+Jump!
+Artist:
+Tecchi
+Elliot Hsu
+References/Links:
+"Tecchi x Elliot Hsu - Jump!"
+https://soundcloud.com/tecchii/jump
+https://www.youtube.com/watch?v=TZ8yQP4cTsU
+
+"song_id": "4",
+Night Parade
+Artist: alpha
+References/Links:
+https://soundcloud.com/superalpha/night-parade
+https://www.youtube.com/watch?v=biNXZIuHahI
+
+"song_id": "5",
+Tomori
+Artist: ARForest
+"EP: Antique by ARForest",
+References/Links:
+https://soundcloud.com/arforest/tomori
+https://www.youtube.com/watch?v=MfgT22pwniM
+
+"song_id": "6",
+はんぶんこ花火
+Artist:
+Yunomi
+Happy Kuru Kuru
+Dream Hackers
+References/Links:
+https://soundcloud.com/realdreamhackers/happy-kuru-kuru-dream-hackers-remix
+https://www.youtube.com/watch?v=QbK6KkGQs6s
+"NOTE: both Happy Kuru Kuru and Dream Hackers Soundcloud accounts are defunct"
+
+"song_id": "7",
+Sweet
+Artist: PLEEG
+References/Links:
+https://soundcloud.com/pleegmusic/pleeg-sweet
+https://www.youtube.com/watch?v=CAXbvRWv66s
+
+"song_id": "8",
+Mocha
+Artist: Hyp3rsleep
+References/Links:
+https://soundcloud.com/hyp3rsleep/mocha-buy-free-download
+https://www.youtube.com/watch?v=dJDtxOhr_So
+
+"song_id": "9",
+Cocoro
+Artist:
+Ironami
+Milkoi
+References/Links:
+"Ironami & Milkoi - Cocoro"
+https://soundcloud.com/ironami/ironami-milkoi-cocoro
+https://www.youtube.com/watch?v=UT3gqD51r3c
+
+"song_id": "10",
+Lovelock
+Artist: Kagi
+References/Links:
+https://soundcloud.com/kagimusic/lovelock
+https://www.youtube.com/watch?v=dPmE3_unq5Q
+"Soundcloud link defunct"
+
+"song_id": "11",
+Light the Way!
+Artist:
+AIKA 🌸
+Trifect
+References/Links:
+"Aika x Trifect - Light The Way!"
+https://soundcloud.com/i-am-aika/aika-x-trifect-light-the-way
+https://www.youtube.com/watch?v=GxK4LpMLsAE
+
+"song_id": "12",
+New Day
+Artist: KODOMOi
+References/Links:
+"KODOMOi - New Day"
+https://soundcloud.com/kodomoimusic/kodomoi-new-day
+https://www.youtube.com/watch?v=ElI-axLJ0O4
+
+"song_id": "13",
+Cotton Cloud
+Artist: Sein & Music
+References/Links:
+https://www.youtube.com/watch?v=Gjy2nQHF3K4
+"accounts defunct"
+
+"song_id": "14",
+MILK & COOKIE
+Artist: COSMICOSMO
+References/Links:
+"COSMICOSMO - MILK & COOKIE"
+https://soundcloud.com/hyperpopcollective/milk-cookie-cosmicosmo
+https://www.youtube.com/watch?v=yaODSTfK-DE
+
+"song_id": "15",
+Favorite Place
+Artist: Kocyamarü
+References/Links:
+https://soundcloud.com/kocyamaru/favorite-place
+https://www.youtube.com/watch?v=HRcH1SQnDAQ
+
+"song_id": "16",
+Keep It Kawaii
+Artist: NaNa
+References/Links:
+"NaNa - Keep It Kawaii"
+https://soundcloud.com/nana172025/nana-keep-it-kawaii
+https://www.youtube.com/watch?v=RqPqHy8DT4s
+
+"song_id": "17",
+Tea Time (dextrust Remix)
+Artist:
+Aire
+dextrust
+References/Links:
+"Aire - Tea Time (dextrust Remix)"
+https://soundcloud.com/dextrustofficial/teatime
+https://www.youtube.com/watch?v=yV2nfetWEHQ
+
+"song_id": "18",
+Myself
+Artist: PIKASONIC
+References/Links:
+https://soundcloud.com/pika5onic/myself-original-mix
+https://www.youtube.com/watch?v=Q1wqaNFDII0
+
+"song_id": "19",
+Woah!
+Artist:
+factal
+haki
+References/Links:
+"Woah! (w/ factal)",
+https://soundcloud.com/hakii/woah-w-factal
+https://www.youtube.com/watch?v=mfOxtJdXOSw
+
+"song_id": "20",
+Melting Emotion
+Artist: K A Z M A S A
+References/Links:
+"Melting Emotion / Kazmasa【F/C commune310 summer 2018】"
+https://soundcloud.com/k55tea/melting-emotion-kazmasafc-commune310-summer-2018
+https://www.youtube.com/watch?v=EXCz5jvJA6A
+
+"song_id": "21",
+Gemini
+Artist: tokiwa
+References/Links:
+https://soundcloud.com/tokiwa_anka/tokiwa-gemini
+https://www.youtube.com/watch?v=sljyAKlVnR0
+
+"song_id": "22",
+Nagame
+Artist: B3LLA
+References/Links:
+https://soundcloud.com/b3lladesu/nagame
+https://www.youtube.com/watch?v=HxGt4cxbUms
+"soundcloud link defunct"
+
+"song_id": "23",
+Hold Me
+Artist: 2ToneDisco
+References/Links:
+https://soundcloud.com/2tonedisco/hold-me-1
+https://www.youtube.com/watch?v=y8Zh1p670mM
+"soundcloud link defunct"
+
+"song_id": "24",
+Hanabi
+Artist: osirasekita
+"Album: commune310 summer 2018",
+References/Links:
+"Hanabi / osirasekita【F/C commune310 summer 2018】**FREE DL**",
+https://soundcloud.com/osirasekita/hanabi-osirasekitafc-commune310-summer-2018
+https://www.youtube.com/watch?v=PdJE_Zx4eg4
+
+"song_id": "25",
+Metsuki
+Artist: Kimii
+References/Links:
+https://soundcloud.com/kimiidesu/metsuki-1
+https://www.youtube.com/watch?v=IL_jPPavIhQ
+
+"song_id": "26",
+Chuuni
+Artist:
+Tecchi
+amacchi
+Kagi
+"Label: Chunchunmaru",
+References/Links:
+"Tecchi x Amacchi x Kagi - Chuuni"
+https://soundcloud.com/chunchunmarudesu/chuuni
+https://www.youtube.com/watch?v=cQS7n-bAMw4
+
+"song_id": "27",
+Hot & Cool
+Artist: Kocyamarü
+References/Links:
+https://soundcloud.com/kocyamaru/kocyamaru-hot-cool
+https://www.youtube.com/watch?v=TzrD-owOg_Y
+
+"song_id": "28",
+Teach Me How To
+Artist: Capchii
+References/Links:
+"[FREE]Teach Me How To"
+https://soundcloud.com/capchii/freeteach-me-how-to-1
+https://www.youtube.com/watch?v=LK6gqAgPqso
+
+"song_id": "29",
+Sayonara April
+Artist: KODOMOi
+References/Links:
+"KODOMOi - Sayonara April"
+https://soundcloud.com/kodomoimusic/kodomoi-sayonara-april
+https://www.youtube.com/watch?v=t6G5Dv4Sseg
+
+"song_id": "30",
+Meanwhile
+Artist:
+Lewis
+Club2Tokyo
+References/Links:
+"Meanwhile (w/ Club2Tokyo)"
+https://soundcloud.com/lewisdubmusic/meanwhile
+https://www.youtube.com/watch?v=_xsACRBDGYI
+
+"song_id": "31",
+First love
+Artist: P3PPER
+References/Links:
+https://soundcloud.com/p3pper/first-love
+https://www.youtube.com/watch?v=D6WH9r_jLYY
+"soundcloud link defunct"
+
+"song_id": "32",
+New Start!
+Artist: PIKASONIC
+References/Links:
+https://soundcloud.com/pika5onic/new-start
+https://www.youtube.com/watch?v=jt6ufI-P2Co
+
+"song_id": "33",
+Sugar Punk
+Artist: AIKA 🌸
+References/Links:
+https://soundcloud.com/i-am-aika/sugar-punku
+https://www.youtube.com/watch?v=_BBrHLxsSvQ
+
+"song_id": "34",
+Don't Hide Yourself
+Artist: ayiko
+References/Links:
+https://soundcloud.com/real-ayiko/dont-hide-yourself
+https://www.youtube.com/watch?v=zNe0VSnvPZU
+
+"song_id": "35",
+"remix_of": "25",
+Metsuki (Milkoi Remix)
+Artist:
+Kimii
+Milkoi
+References/Links:
+https://soundcloud.com/milkoi/kimii-metsuki-milkoi-remix
+https://www.youtube.com/watch?v=DdhlKjFRPsI
+
+title": "[ Kawaii Future Bass Collection ]",
+uploader": "Dayrin",
+Kimii - Henshin
+Tecchi & Elliot Hsu - Jump!
+alpha - Night Parade
+ARForest - Tomori
+Yunomi & Happy Kuru Kuru - はんぶんこ花火 (Dream Hackers Remix)
+PLEEG - Sweet
+Hyp3rsleep - Mocha
+Kagi - Lovelock
+Aika & Trifect - Light the Way!
+Sein & Music - Cotton Cloud
+Kocyamarü - Favorite place
+PIKASONIC - Myself
+publish_date": "2018 May 01"
+title": "[ Kawaii Future Bass Collection ]",
+YouTube
+https://www.youtube.com/watch?v=2SDBxH6mCtI
+
+"title": "[ Kawaii Future Bass Collection Vol.2 ]",
+"uploader": "Dayrin",
+Factal x Haki - Woah!
+Kazmasa - Melting Emotion
+tokiwa - Gemini
+B3LLA - Nagame
+2ToneDisco - Hold Me
+osirasekita - Hanabi
+Kimii - Metsuki
+Kocyamarü - Hot & Cool
+Capchii - Teach Me How To
+Lewis x Club2Tokyo - Meanwhile
+P3PPER - First love
+PIKASONIC - New Start!
+Aika - Sugar Punk
+ayiko - Don't Hide Yourself
+Kimii - Metsuki (Milkoi Remix)
+"publish_date": "2018 Sept 27"
+"title": "[ Kawaii Future Bass Collection Vol.2 ]",
+"site": "YouTube",
+"uri": "https://www.youtube.com/watch?v=Qm2PDlIqceU",
+
+
+Dayrin
+"site": "YouTube",
+"uri": "https://www.youtube.com/@Dayrin",
+"join_date": "2011-04-09?"
