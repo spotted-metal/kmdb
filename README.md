@@ -9,10 +9,14 @@ Main link (Google Docs):
 Exported data is available in `archive` folder in the following file formats:
 
 * DOCX (Microsoft Word 2007+ Document)
-* OTD (OpenDocument Format)
+* ODT (OpenDocument Format)
 * PDF (take a wild guess)
 * HTML (single web page)
 * RTF (Rich Text Format)
 * TXT (plain text)
 
 Most recent archive date: 2023 Apr 02 (UTC)
+
+---
+
+Contact (Twitter): [@kzrs_kmdb](https://twitter.com/kzrs_kmdb)
