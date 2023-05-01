@@ -1,6 +1,345 @@
 ﻿Kawaii Music Database (KMDB)
-This is a database for documenting songs and tracks for kawaii future bass and related genres.
+This is a database for documenting current and historical information about songs and tracks for kawaii future bass and related genres.
+________________
+
+
+DISCLAIMER:
+THIS DATABASE IS A WORK IN PROGRESS.
+Many entries are missing a lot of information. They will be slowly filled in over time.
+________________
+
+
+
+
+Entries
+Entries
 Song
+A Centimetre Apart
+A Centimetre Apart (Systile Remix)
+After School
+Afterglow
+Akiba
+Asatsuyu
+Blue Square
+Blush
+Bubble Cat
+BUBBLE TEA
+Camellia
+Chrysoprase
+Chuuni
+Cocoa Blow
+Cocoro
+Cosmic Love
+Cotton Cloud
+CRAZY MILK
+CRAZY MILK 2
+Cream Soda
+Crimson
+Daydreaming
+Don't Hide Yourself
+Dreamin’ Tonight
+Dreamin’ Tonight (slumberless Remix)
+Egao no Hanabata
+Favorite Place
+Feel My Emotions
+Feel My Emotions (Mysteka Remix)
+First light
+First love
+Flyleaf
+Gemini
+Good Day Sunshine
+Good Morning
+Green Tea
+Hajimeru
+Hanabi
+Hanbunko Hanabi
+Hangout
+Nyoki-Taro - Hangout
+NYOKI - Hangout
+Hangout (Mameyudoufu Remix)
+Henshin
+Hirune
+Hold Me
+Holiday
+Hot & Cool
+Hot Milk
+Intergalactic Space Rave
+INTERNET OVERDOSE
+INTERNET YAMERO
+Isekai
+Jellyfish
+Jump!
+Kawaii Wave
+Keep It Kawaii
+Kodokushi (孤独死)
+Let's go boogie
+Light The Way!
+LiLac Box
+Lovelock
+Lovestruck
+Macaron
+main heroine
+Makuramoto ni Ghost
+Marmalade
+me & u
+cassie - me & u
+me & u (succducc bootleg)
+Meanwhile
+Melting Emotion
+Metsuki
+Metsuki (Milkoi Remix)
+Midnight on Summer
+MILK & COOKIE
+Miss You
+Mocha
+Myself
+Nagame
+Nani mo Kangae tenai Toki no Boku
+Naruhodo
+New Day
+New Start!
+Night Parade
+Night Sky
+Nostalgica
+Paper Planes
+Press Enter!
+Ready
+Ryokou
+Sakura
+Sayonara April
+September
+Tenma Tenma - September
+竹内まりや - SEPTEMBER
+原田知世 - September
+Signal
+SHINE
+Sneaker - スニーカー
+Snorkel
+speed cake
+Spotlight
+Sprinkles!
+Stay With You
+Stems
+Sugar Punk
+Sugar Rush
+Sugiyuku Hi to Kimi e
+Summer
+Summer Rain
+Sunny
+Sunset
+Sunset (Wave Meow Remix)
+Sweet
+Sweet Crepe
+Takarabako
+Tea Time
+Tea Time (dextrust Remix)
+Teach Me How To
+Tomori
+Treats
+Triple Sweet
+Uchiage Hanabi
+Woah!
+Virtual Rush
+Yozora wa Nandemo Shitteru no?
+Yozora wa Nandemo Shitteru no? (Nathaniel Keith Remix)
+打上花火
+宇宙の愛
+えがおの花束
+ジェリーフィッシュ
+過ぎゆく日と君へ
+夏の真夜中
+何も考えてない時の僕
+始める
+はんぶんこ花火
+はんぶんこ花火 (Dream Hackers Remix)
+枕元にゴースト
+枕元にゴースト (KATOMORI Remix)
+夜空はなんでも知ってるの？
+Artist
+2ToneDisco
+AIKA
+Aiobahn
+Aire
+alpha
+amacchi
+Ancraft
+ANDROID52
+Antenna Girl
+ARForest
+ayiko
+B3LLA
+BB Yukus
+Capchii
+Cinders
+Cloudier
+Club2Tokyo
+COSMICOSMO
+CSGOD
+cute girls doing cute things
+dark cat
+DarTokki
+dextrust
+Dream Hackers
+Elkuu
+Elliot Hsu
+factal
+FiASKO( ｡•ㅅ• ｡)ため息
+Foxful
+Freezer
+fusq
+haki
+Happy Kuru Kuru
+Harito
+HoneyComeBear
+Hyp3rsleep
+ichika
+ikura
+Ironami
+Jonty Kennedy
+Jotori
+Jun Kuroda
+juunana
+Kagi
+kamaboko
+KarameL
+KATOMORI
+Kazmasa
+Kiichigo
+Kimchisushi
+Kimii
+Kirara Magic
+Kocyamarü
+KODOMOi
+KOTOKO
+KOTONOHOUSE
+Kuccii
+Kyoto Black
+Lafale
+Lewis
+Lois
+Lyrit
+Mameyudoufu
+Mashilo
+Meeyo
+Mihka!
+Milkoi
+Miruku
+Moe Loli
+Moe Shop
+MojiX!
+MYLK
+Mysteka
+Nagase Yuuta
+NaNa
+Nansuke
+Nathaniel Keith
+nayuta
+Neko Hacker
+nicamoq
+NieWals
+nikoi0227
+nyankobrq
+NYOKI
+OHEY
+omniboi
+osirasekita
+P3PPER
+Pandrezz
+PIKASONIC
+PLEEG
+Project Skylate
+r3n
+RUQOA
+SaMZIng
+Sein & Music
+Slappy
+slumberless
+Snail's House
+SoLush
+Stereoman
+Stessie
+Street
+succducc
+Sweet Dove
+Synthion
+Systile
+Syui
+Tecchi
+Tenkitsune
+Tenma Tenma
+tokiwa
+tomatoism
+Trifect
+unmo
+Wave Meow
+WDFQ
+Wisp X
+XVAN
+Yktr
+Yu-dachi
+Yunomi
+Zinnie
+アンテナガール
+妃苺
+永瀬 優太
+Label
+Chunchunmaru
+commune310
+Hanabira Bunko
+Kirara Records
+MELODIC UNIVERSE
+ピンクネオン東京
+Curator
+AkoMusic
+Dayrin
+EDMS
+Firefly Music
+GalaxyMusicNet
+K - Music Sweet
+Waifu Wednesdays
+YUUKI MUSIC
+Album
+Ahoge EP
+Antique
+commune310 suika
+CSGOD
+Dionysian Imitatio: Kawaii
+Kirara Anthems vol.3
+Ordinary Songs 2
+Polarity
+Rocket League X RLBU Vol.3
+Snowlight Vol. 2
+SUMMER!
+元気全開DAY! DAY! DAY!
+ゆのもきゅ
+Collection
+Anime Moe!~♫Most Beautiful & Cutest EDM | Kawaii Music♫
+[ Kawaii Future Bass Collection ]
+[ Kawaii Future Bass Collection Vol.2 ]
+[ Kawaii Future Bass Collection Vol.3 ]
+[ Kawaii Future Bass Collection Vol.4 ]
+Mix - Music Anime Kawaii
+Special✦Amazing Kawaii✦Anime Moe!~♫Most Beautiful & Cutest EDM | Kawaii Music♫
+[神曲] Kawaii EDMオススメ10曲 [まとめ]
+Song
+A Centimetre Apart
+Artist: Cloudier
+Remixes:
+* A Centimetre Apart (Systile Remix)
+References/Links:
+[1] SoundCloud. https://soundcloud.com/cloudiermusic/a-centimetre-apart (TODO)
+A Centimetre Apart (Systile Remix)
+Other Names:
+* Stay With You (replaced)
+Remix of: A Centimetre Apart
+Remix Artist: Systile
+Genre: Pop [1]
+Song length (min:sec): 04:33 [1]
+Curated by:
+* Firefly Music
+References/Links:
+[1] Firefly Music (2019 Dec 07). “Cloudier - A Centimetre Apart (Systile Remix)”, YouTube. https://www.youtube.com/watch?v=uAa-k-4oTcI (accessed 2023 Apr 14)
+[2] SoundCloud. https://soundcloud.com/gd-creatorsysl/stay-with-you (dead link, last checked 2023 Apr 14)
 After School
 Artist: Miruku
 Appears in Collection:
@@ -33,11 +372,26 @@ References/Links:
 [2] YouTube. https://www.youtube.com/watch?v=b1LPUftRu10 (TODO)
 Blue Square
 Artist: Kirara Magic
+Genre: Kawaii Future Bass [1][3]
+Song length (min:sec): 03:20 [1], 03:18 [3]
+Artist’s Notes:
+Wandering around the beautiful underwater [1][3]
 Appears in Collection:
 * [ Kawaii Future Bass Collection Vol.3 ]
 References/Links:
-[1] SoundCloud. https://soundcloud.com/kiraramagic/blue-square (TODO)
+[1] Kirara Magic (2018 Oct 20). “Blue Square”, SoundCloud. https://soundcloud.com/kiraramagic/blue-square (accessed 2023 May 01)
 [2] YouTube. https://www.youtube.com/watch?v=nZRubycSHMY (TODO)
+[3] Kirara Magic (2019 Dec 3). “Kirara Magic - Blue Square”, YouTube. https://www.youtube.com/watch?v=qGMyQSIedF0 (accessed 2023 May 01)
+[4] https://fanlink.to/bp6r (TODO)
+Blush
+Artists:
+* fusq (primary artist)
+* MYLK (vocalist; featured artist)
+Song length (min:sec): 02:43 [1]
+Part of Album:
+* Polarity
+References/Links:
+[1] fusq (2017 June 16). “fusq - Blush (feat. MYLK)”, YouTube. https://www.youtube.com/watch?v=TyVh5aNYKLg (accessed 2023 Apr 14)
 Bubble Cat
 Artist: Stereoman
 Song length (min:sec): 03:46 [1], 03:48 [3]
@@ -113,6 +467,9 @@ Appears in collection:
 References/Links:
 [1] “Ironami & Milkoi - Cocoro”, SoundCloud. https://soundcloud.com/ironami/ironami-milkoi-cocoro (TODO)
 [2] YouTube. https://www.youtube.com/watch?v=UT3gqD51r3c (TODO)
+Cosmic Love
+Redirect:
+See: 宇宙の愛 (song by Moe Loli)
 Cotton Cloud
 Artist: Sein & Music
 Appears in collection:
@@ -128,12 +485,14 @@ Remixes/Variants:
 * CRAZY MILK 2
 Notes:
 * Uses vocals from Audien feat. Michael S. - Leaving You, resulting in a copyright takedown of the SoundCloud upload. An instrumental version was uploaded as “CRAZY MILK 2” on 2017 May 10 [5]. Versions released on music streaming platforms (Spotify, YouTube Music, etc.) of the original song remained available until late 2022, when they were replaced with the instrumental version as well [6].
+Curated by:
+* EDMS [1] (removed)
 References/Links:
 [1] EDMS (2017 Apr 29). “dark cat - CRAZY MILK”, YouTube. https://www.youtube.com/watch?v=7xFe0vkUJXU (dead link, last checked 2023 Mar 21)
 [2] Mirror of [1] (2020 Nov 09). Wayback Machine. https://web.archive.org/web/20201109202519/www.youtube.com/watch?v=7xFe0vkUJXU (accessed 2023 Mar 21)
 [3] ToneDen.io (unofficial). https://www.toneden.io/edmshiro/post/crazy-milk (TODO)
 [4] SoundCloud. https://soundcloud.com/dark_cat/crazy-milk (dead link, last checked 2023 Mar 21)
-[5] “dark cat - CRAZY MILK Lyrics | Genius Lyrics”, Genius. https://genius.com/Dark-cat-crazy-milk-lyrics (accessed 2023 Mar 21)
+[5] “dark cat - CRAZY MILK Lyrics”, Genius. https://genius.com/Dark-cat-crazy-milk-lyrics (accessed 2023 Mar 21)
 [6] dark cat (@im_darkcat) (2022 Dec 06). Twitter. https://twitter.com/im_darkcat/status/1600080753307439104 (accessed 2023 Mar 21)
 [7] Cloudboy (2018 Jan 14). “dark cat - CRAZY MILK”, YouTube. https://www.youtube.com/watch?v=MBSXPyaz17g (accessed 2023 Mar 21)
 CRAZY MILK 2
@@ -147,11 +506,14 @@ References/Links:
 [1] SoundCloud. https://soundcloud.com/dark_cat/crazy-milk-2 (TODO)
 Cream Soda
 Artist: DarTokki
+Genre: Chiptune [1], Dance & EDM [1], Electronic [1], Future Bass [1], Kawaii Bass [1]
+Song length (min:sec): 03:47 [1]
 Appears in Collection:
 * [ Kawaii Future Bass Collection Vol.3 ]
 References/Links:
-[1] SoundCloud. https://soundcloud.com/dartokki/cream-soda (TODO)
+[1] DarTokki✨ (2018 Aug 15). “Cream Soda”, SoundCloud. https://soundcloud.com/dartokki/cream-soda (TODO)
 [2] YouTube. https://www.youtube.com/watch?v=GCsOjXWHPv8 (dead link, last checked 2023 Mar 26)
+[3] PumpYourSound. https://pumpyoursound.com/f/pys/cream-soda/53945 (TODO)
 Crimson
 Artist: BB Yukus
 Label: Chunchunmaru
@@ -269,6 +631,9 @@ Appears in Collection:
 * [ Kawaii Future Bass Collection Vol.4 ]
 References/Links:
 [1] SoundCloud. https://soundcloud.com/projectskylateofficial/green-tea-ft-lyrit (TODO)
+Hajimeru
+Redirect:
+See: 始める (song by Moe Loli)
 Hanabi
 Remix of: 打上花火
 Remix Artist: osirasekita
@@ -297,8 +662,6 @@ Variants:
 References/Links:
 [1] MasterOfDubstep (2017 Nov 21). “Nyoki-Taro - Hangout”, YouTube. https://www.youtube.com/watch?v=wr24CQPt7yo (accessed 2023 Mar 30)
 [2] SoundCloud. https://soundcloud.com/nyokitaro/hangout (dead link, last checked 2023 Mar 30)
-
-
 NYOKI - Hangout
 Variant of: Nyoki-Taro - Hangout
 Artist: NYOKI
@@ -363,6 +726,47 @@ Appears in Collection:
 References/Links:
 [1] SoundCloud. https://soundcloud.com/kocyamaru/kocyamaru-hot-cool (TODO)
 [2] YouTube. https://www.youtube.com/watch?v=TzrD-owOg_Y (TODO)
+Hot Milk
+Artist: Snail's House [1][3]
+Song length (min:sec): 04:09 [1], 04:06 [3]
+Part of Album:
+* Ordinary Songs 2
+Notes:
+* Gained popularity in the Western internet community in mid-2021 from association with the Thicc Omni-Man meme [4].
+References/Links:
+[1] Ujico*/Snail's House (2017 Sept 19). “Snail's House - Hot Milk”, YouTube. https://www.youtube.com/watch?v=N8nGig78lNs (accessed 2023 Apr 05)
+[2] Spotify. https://open.spotify.com/track/4mCwspCTPF1aoWUNxsS5aD (TODO)
+[3] Ujico*/Snail's House (2016 Nov 17). “hot milk”, Bandcamp. https://0101.bandcamp.com/track/hot-milk (accessed 2023 Apr 05)
+[4] “Thicc Omni-Man”, Know Your Meme. https://knowyourmeme.com/memes/thicc-omni-man (accessed 2023 Apr 05)
+Intergalactic Space Rave
+Artist: Jonty Kennedy
+Genre: Drum & Bass [1]
+Song length (min:sec): 03:14 [1]
+Curated by:
+* Firefly Music
+References/Links:
+[1] Firefly Music (2017 Aug 27). “Jonty Kennedy - Intergalactic Space Rave”, YouTube. https://www.youtube.com/watch?v=d1UwmgOL2-c (accessed 2023 Apr 14)
+[2] SoundCloud. https://soundcloud.com/jonty-kennedy/intergalactic-space-rave (dead link, last checked 2023 Apr 14)
+INTERNET OVERDOSE
+Artists:
+* Aiobahn (composer [1], arranger [1], primary artist)
+* KOTOKO (vocalist [1], featured artist)
+* にゃるら (nyalra) (lyricist) [1]
+Franchise: NEEDY GIRL OVERDOSE (NEEDY STREAMER OVERLOAD)
+Notes: Theme song
+References/Links:
+[1] Aiobahn (2021 Apr 28). “Aiobahn feat. KOTOKO - INTERNET OVERDOSE (Official Music Video) [Theme for NEEDY GIRL OVERDOSE]”, YouTube. https://www.youtube.com/watch?v=BnkhBwzBqlQ (accessed 2023 Apr 29)
+[2] TuneCore Japan. https://linkco.re/gtzA3Y8H (TODO)
+INTERNET YAMERO
+Artists:
+* Aiobahn (composer [1], arranger [1], primary artist)
+* KOTOKO (vocalist [1], featured artist)
+* にゃるら (nyalra) (lyricist) [1]
+Franchise: NEEDY GIRL OVERDOSE (NEEDY STREAMER OVERLOAD)
+Notes: Theme song
+References/Links:
+[1] Aiobahn (2023 Mar 16). “Aiobahn feat. KOTOKO - INTERNET YAMERO (Official Music Video) [Theme for NEEDY GIRL OVERDOSE]”, YouTube. https://www.youtube.com/watch?v=51GIxXFKbzk (accessed 2023 Apr 29)
+[2] TuneCore Japan. https://linkco.re/cSbbuymU (TODO)
 Isekai
 Artist: Syui
 Appears in collection:
@@ -394,6 +798,37 @@ Appears in collection:
 References/Links:
 [1] “NaNa - Keep It Kawaii”, SoundCloud. https://soundcloud.com/nana172025/nana-keep-it-kawaii (TODO)
 [2] YouTube. https://www.youtube.com/watch?v=RqPqHy8DT4s (TODO)
+Kodokushi (孤独死)
+Artists:
+* Mihka!
+* Kyoto Black
+Release date: 2016 July 08 [2]
+Genre: Future Bass [1][2], Future Trap [2], Dubstep [2]
+Song length (min:sec): 03:26 [1][2]
+Part of Album:
+* CSGOD (compilation)
+Curated by:
+* Aviencloud
+References/Links:
+[1] Aviencloud (2016 July 14). “Mihka! X Kyoto Black – Kodokushi (孤独死)”, YouTube. https://www.youtube.com/watch?v=4A4ZiZwPejY (accessed 2023 Apr 08)
+[2] Mihka! (2016 July 12). “Mihka! x Kyoto Black - Kodokushi (孤独死)”, SoundCloud. https://soundcloud.com/mihkamusic/mihka-x-the-end-kodokushi-1 (accessed 2023 Apr 08)
+[3] Hypeddit. https://hypeddit.com/track/sc/dYL2lvejXFFYFqAsfwWr (TODO)
+Let's go boogie
+Artist: KOTONOHOUSE
+Genre: Future Bass [1][2]
+Song length (min:sec): 03:30 [2], 03:37 [7]
+Part of Album:
+* commune310 suika [4][7]
+Curated by:
+* Waifu Wednesdays [1][5] (removed) 
+References/Links:
+[1] Waifu Wednesdays (unknown date). “KOTONOHOUSE - Let's go boogie [Future Bass]”, YouTube. https://www.youtube.com/watch?v=Hrzj0N25jbk (dead link, last checked 2023 Apr 05)
+[2] Mizu Yuki (2019 Jan 15). “KOTONOHOUSE - Let's go boogie [Reupload]”, YouTube. https://www.youtube.com/watch?v=k3bV0UHBLGk (accessed 2023 Apr 05)
+[3] ToneDen (Unofficial). https://www.toneden.io/kavalry/post/kotonohouse-let-s-go-boogie (TODO)
+[4] ことのは🏡 (@KOTONOHOUSE) (2017 Aug 24). Twitter. https://twitter.com/KOTONOHOUSE/status/900721478198480897 (accessed 2023 Apr 05)
+[5] ことのは🏡 (@KOTONOHOUSE) (2018 Mar 28). Twitter. https://twitter.com/KOTONOHOUSE/status/979038998923378689 (accessed 2023 Apr 05)
+[6] “Let's go boogie / KOTONOHOUSE【 #commune310 Suika 】”, SoundCloud. https://soundcloud.com/dada-qada/lets-go-boogie-kotonohouse-commune310-suika (dead link, last checked 2023 Apr 05)
+[7] commune310 (2017 Aug 26). “KOTONOHOUSE - let's go boogie”, Bandcamp. https://commune310.bandcamp.com/track/lets-go-boogie (accessed 2023 Apr 05)
 Light The Way!
 Artists:
 * AIKA
@@ -457,6 +892,55 @@ Appears in Collection:
 * [ Kawaii Future Bass Collection Vol.4 ]
 References/Links:
 [1] SoundCloud. https://soundcloud.com/gd-creatorsysl/marmalade (TODO)
+me & u
+Disambiguation:
+“me & u” may refer to:
+* cassie - me & u
+* cassie - me & u (succducc bootleg)
+cassie - me & u
+Remixes:
+* me & u (succducc bootleg)
+me & u (succducc bootleg)
+Other Names:
+* succducc - me & u
+* cassie - me & u (succducc bootleg)
+Remix of: cassie - me & u
+Remix Artist: succducc
+Genre: Future [1], Future Pop [4]
+Song length (min:sec): 03:12 [1][2][4]
+Lyrics (adapted from [1]): (TODO: QA)
+You've been waiting so long I'm here to answer your call
+I know that I shouldn't have had you waiting at all
+I've been so busy, but I've been thinking about
+What I wanna do with you
+I know them other guys, they been talking bout the way I do what I do
+They heard I was good, they wanna see if it's true
+They know you're the one I wanna give it to
+I can see you want me too
+I was waiting for you to tell me you were ready
+I know what to do, if only you would let me
+As long as you're cool with it I'll treat you right
+Here is where you wanna be
+I know them other guys, they been talking bout the way I do what I do
+They heard I was good, they wanna see if it's true
+They know you're the one I wanna give it to
+I can see you want me too
+And now, it's me and you
+You've been waiting so long I'm here to answer your call
+I know that I shouldn't have had you waiting at all
+I've been so busy, but I've been thinking about
+What I wanna do with you
+I know them other guys, they been talking bout the way I do what I do
+They heard I was good, they wanna see if it's true
+They know you're the one I wanna give it to
+Curated by:
+* EDMS [1]
+* Firefly Music [4]
+References/Links:
+[1] EDMS (2017 July 26). “succducc - me & u”, YouTube. https://www.youtube.com/watch?v=F6NnGEzQpPQ (accessed 2023 Apr 05)
+[2] succducc (2017 Mar 04). “cassie - me & u (succducc bootleg)”, SoundCloud. https://soundcloud.com/succducc/me-n-u (accessed 2023 Apr 05)
+[3] ToneDen (EDMS). https://www.toneden.io/edmshiro/post/succducc-me-u (TODO)
+[4] Firefly Music (2017 Mar 19). “【Future Pop】Succducc - Me & U || ♫♫♫”, YouTube. https://www.youtube.com/watch?v=RgbB_4rCkY4 (accessed 2023 Apr 05)
 Meanwhile
 Artists:
 * Lewis
@@ -490,6 +974,9 @@ Appears in Collection:
 References/Links:
 [1] SoundCloud. https://soundcloud.com/milkoi/kimii-metsuki-milkoi-remix (dead link, last checked 22023 Mar 19)
 [2] YouTube. https://www.youtube.com/watch?v=DdhlKjFRPsI (TODO)
+Midnight on Summer
+Redirect:
+See: 夏の真夜中 (song by Aiobahn; アンテナガール)
 MILK & COOKIE
 Artist: COSMICOSMO
 Appears in collection:
@@ -565,7 +1052,7 @@ Artists:
 * ichika (featured artist)
 Genre: Kawaii Future Rock [1]
 Song length (min:sec): 04:35 [1]
-Lyrics [1]: (TODO: check & clean up)
+Lyrics [1]: (TODO: check & clean up, QA)
 星降るこの夜空
 時よ止まれと永遠を願う
 あの流星が消える前に
@@ -685,6 +1172,43 @@ Appears in Collection:
 References/Links:
 [1] “KODOMOi - Sayonara April”, SoundCloud. https://soundcloud.com/kodomoimusic/kodomoi-sayonara-april (TODO)
 [2] YouTube. https://www.youtube.com/watch?v=t6G5Dv4Sseg (TODO)
+September
+Disambiguation:
+“September” may refer to:
+* 竹内まりや - SEPTEMBER (song by Takeuchi Mariya)
+   * 原田知世 - September (cover by Harada Tomoyo)
+      * Tenma Tenma - September (remix by Tenma Tenma)
+Tenma Tenma - September
+Remix of: 原田知世 - September
+Remix Artist: Tenma Tenma
+Released as: Single
+Release date: 2017 Mar 27 [2]
+Label: ピンクネオン東京
+Code: PNTSS0204 [2]
+Genre: Disco [2], Electronic [2], Future Funk [2], Funk [2], House [2]
+Song length (min:Sec): 03:57 [2]
+Curated by:
+* Waifu Wednesdays
+References/Links:
+[1] Waifu Wednesdays (2017 Oct 28). “Tenma Tenma - September”, YouTube. https://www.youtube.com/watch?v=JNOda5PFM8M (accessed 2023 Apr 14)
+[2] ピンクネオン東京 (2017 Mar 27). “TenmaTenma - September[PNTSS0204]”, SoundCloud. https://soundcloud.com/pinkneontokyo/tenmatenma-septemberpntss0204 (TODO)
+竹内まりや - SEPTEMBER
+Artist:
+* 竹内まりや (Takeuchi Mariya) (vocalist; primary artist)
+* et al. [1]
+Covers:
+* 原田知世 - September
+References/Links:
+[1] “竹内まりや (Mariya Takeuchi) – SEPTEMBER Lyrics”, Genius. https://genius.com/Mariya-takeuchi-september-lyrics (accessed 2023 Apr 14)
+原田知世 - September
+Cover of: 竹内まりや - SEPTEMBER
+Cover Artist: 原田知世 (Harada Tomoyo)
+Part of Album:
+* 恋愛小説2～若葉のころ [1]
+Remixes:
+* Tenma Tenma - September
+References/Links:
+[1] Tomoyo Harada (2022 Jun 20). “原田知世 - September (Full Version)”, YouTube. https://www.youtube.com/watch?v=hyvdIPlI_CY (accessed 2023 Apr 14)
 Signal
 Artist: Choice Scarf
 Appears in collection:
@@ -695,12 +1219,51 @@ Artist: OHEY
 Appears in collection:
 * [神曲] Kawaii EDMオススメ10曲 [まとめ]
 Links: YouTube: https://www.youtube.com/watch?v=3PBLhOb3H8Q (TODO)
+Sneaker - スニーカー
+Artist: HoneyComeBear
+Genre: Future Bass [2]
+Song length (min:sec): 03:26 [2][3]
+Lyrics [2]: (TODO: QA)
+そう、魔法 「ある」と 確信してたのに
+変なコだと 囁かれてる
+ひどく 嫌で 蹴り飛ばした缶の 先に君はいたの
+泥だらけ そのスニーカーにちょっと 呪文をかけよう
+信じて 願うならすぐ 飛べるよ
+君は言う そのスニーカーにちょっと 呪文をかけよう
+信じて 願うならすぐ 叶うと
+そう、秘密 それは 口に出せないもの
+隠す 常に 知らないフリして
+息を 吸って 一気に駆けた靴 ひらり生えた翼
+独り占め 東京の空は 少しくすんでる
+交差点 点描画のような 人混み
+いつの間に 途切れた呪文 ああ真っ逆さまに
+落ちてく 続かぬ夢は 終わりだ
+泥だらけ そのスニーカーにそっと 呪文をかけよう
+目覚めた枕元 涙の跡
+魔法にも 敵わぬほどの 奇跡をくれた
+まだ見ぬ窓の外 羽が舞う空
+Curated by:
+* Waifu Wednesdays
+References/Links:
+[1] Waifu Wednesdays (2017 June 07). “HoneyComeBear - Sneaker”, YouTube. https://www.youtube.com/watch?v=6EAR9jsOhro (accessed 2023 Apr 06)
+[2] HoneyComeBear (2017 May 27). “Sneaker - スニーカー”, SoundCloud. https://soundcloud.com/832832/sneaker (accessed 2023 Apr 06)
+[3] HoneyComeBear (2017 Nov 15). “Sneaker - ス​ニ​ー​カ​ー”, Bandcamp. https://honeycomebear.bandcamp.com/track/sneaker (accessed 2023 Apr 06)
+[4] Vocal Stems. https://www.tunebula.com/honeycomebear/sneaker-vocalstem-bpm144 (dead link, last checked 2023 Apr 06)
 Snorkel
 Artist: nyankobrq
 Appears in Collection:
 * [ Kawaii Future Bass Collection Vol.4 ]
 References/Links:
 [1] SoundCloud. https://soundcloud.com/nyankobrq/nyankobrq-snorkel (TODO)
+speed cake
+Artist: 永瀬 優太 (Nagase Yuuta)
+Genre: Kawaii Future Bass [1][2]
+Song length (min:sec): 04:20 [1][2]
+Tempo: 180 BPM [2]
+Label: MELODIC UNIVERSE
+References/Links:
+[1] MELODIC UNIVERSE [Free BGM] (2023 Feb 11). “エモくて可愛いふわふわKawaii Future Bass⑅ ୨୧ *̩̩̥*̩̩̥【無料フリーBGM】”, YouTube. https://www.youtube.com/watch?v=Ft7_wcxR0og (accessed 2023 Apr 29)
+[2] (2023 Feb 12). “エモくて可愛いふわふわKawaii Future Bass⑅ ୨୧ *̩̩̥*̩̩̥【speed cake】”, MELODIC UNIVERSE. https://sk-ii2.com/melodic-universe/2023/02/12/%e3%82%a8%e3%83%a2%e3%81%8f%e3%81%a6%e5%8f%af%e6%84%9b%e3%81%84%e3%81%b5%e3%82%8f%e3%81%b5%e3%82%8fkawaii-future-bass%e2%91%85-%e0%ad%a8%e0%ad%a7-%cc%a9%cc%a9%cc%a5%cc%a9%cc%a9%cc%a5%e3%80%90speed-c (accessed 2023 Apr 29)
 Spotlight
 Artist: LOIS (ㆁvㆁ)
 Genre: House [1]
@@ -719,6 +1282,9 @@ Appears in Collection:
 References/Links:
 [1] SoundCloud. https://soundcloud.com/stessieofficial/sprinkles (TODO)
 [2] YouTube. https://www.youtube.com/watch?v=VwIDIRA1uec (TODO)
+Stay With You
+Redirect:
+See: A Centimetre Apart (Systile Remix)
 Stems
 Artists:
 * Pandrezz
@@ -735,6 +1301,17 @@ Appears in Collection:
 References/Links:
 [1] SoundCloud. https://soundcloud.com/i-am-aika/sugar-punku (TODO)
 [2] YouTube. https://www.youtube.com/watch?v=_BBrHLxsSvQ (TODO)
+Sugar Rush
+Artist: WDFQ
+Release date: 2022 Oct 13 [2]
+Genre: Kawaii Future Bass [1]
+Song length (min:sec): 02:58 [1][2]
+References/Links:
+[1] WDFQ (2022 Oct 13). “Sugar Rush [kawaii future bass]”, YouTube. https://www.youtube.com/watch?v=f526kQzHoxQ (accessed 2023 Apr 14)
+[2] WDFQ - Topic (2022 Oct 15). “Sugar Rush”, YouTube. https://www.youtube.com/watch?v=-iRGNHP9M0U (accessed 2023 Apr 14)
+Sugiyuku Hi to Kimi e
+Redirect:
+See: 過ぎゆく日と君へ (song by Aiobahn; nayuta)
 Summer
 Artist: Kimchisushi
 Appears in Collection:
@@ -828,10 +1405,14 @@ References/Links:
 [2] YouTube. https://www.youtube.com/watch?v=WnsWnp5HGuw (TODO)
 Treats
 Artist: Sweet Dove
+Genre: Electronic [1], Electronica [1], Future Bass [1], Kawaii Bass [1]
+Song length (min:sec): 03:34 [1]
+Part of Album:
+* Dionysian Imitatio: Kawaii
 Appears in Collection:
 * [ Kawaii Future Bass Collection Vol.4 ]
 References/Links:
-[1] SoundCloud. https://soundcloud.com/sweetdove/treats (TODO)
+[1] Sweet Dove (2019 June 02). “Treats”, SoundCloud. https://soundcloud.com/sweetdove/treats (accessed 2023 May 01)
 Triple Sweet
 Artists:
 * AIKA
@@ -889,6 +1470,18 @@ Remixes:
 * osirasekita - Hanabi
 References/Links:
 [1] YouTube. https://www.youtube.com/watch?v=-tKVN2mAKRI (TODO)
+宇宙の愛
+Other Names:
+* Cosmic Love (English)
+Artist: Moe Loli
+Genre: Kawaii Bass [1]
+Song length (min:sec): 03:45 [1]
+Curated by:
+* Firefly Music
+References/Links:
+[1] Firefly Music (2018 Mar 28). “Bubble Tea (Moe Loli) - 宇宙の愛 (Cosmic Love)”, YouTube. https://www.youtube.com/watch?v=9m6fgdR0RyE (accessed 2023 Apr 29)
+[2] SoundCloud. https://soundcloud.com/moeloli/cosmiclove (dead link, last checked 2023 Apr 29)
+[3] Bandcamp. https://moeloli.bandcamp.com/track/cosmic-love (dead link, last checked 2023 Apr 29)
 えがおの花束
 Other Names:
 Romaji: Egao no Hanataba
@@ -949,6 +1542,143 @@ Artists:
 Appears in collection:
 * [神曲] Kawaii EDMオススメ10曲 [まとめ]
 Links: YouTube: https://www.youtube.com/watch?v=LtrB_8CejUA (TODO)
+過ぎゆく日と君へ
+Artists:
+* Aiobahn (producer; primary artist) [3]
+* nayuta (vocalist, lyricist; featured artist) [3]
+Label: Hanabira Bunko
+Release date: 2018 Feb 02 [6][8]
+Genre: Electro House [6], Electronic [6], House [6], Progressive House [6]
+Song length (min:sec): 04:20 [3][6][8]
+Lyrics [3][6]: (TODO: clean up, QA)
+いつまでも 止まず 続いていく
+この想いよ 君へ
+
+
+振り返ると 君の背中 見えて
+追いかけても いつまでも 遠くて
+過ぎゆく時間はあっという間に
+君と僕 変えていく
+
+
+「またね」「あした」
+「じゃあね」「ばいばい」
+何気ない言葉が未来を紡ぐ 
+ほら 涙は似合わないと言う
+優しい君が そこに居た
+
+
+春の日 君と出会い、笑い
+夏の日 君と汗かき、走り
+秋の日 君へ、想い伝え
+冬の日 真白に染まる街で、ふたり
+
+
+思い出すと 君の声が 響く
+呼びかけても 届かないのにな
+過ぎゆく季節はあっという間に
+君と僕 変えていた
+
+
+「起きて」「おはよう」
+「寝よう」「おやすみ」
+繰り返す言葉が過去呼び起こす
+ほら 涙は似合わないと言う
+優しい君を 覚えてる
+
+
+春の日 桜見るふたりは
+夏の日 向日葵と背を比べ
+秋の日 紅葉見るふたりは
+冬の日 どんなときでもそばにいたよ
+
+
+「消えないで」
+
+
+春の日 僕は出会い、笑い
+夏の日 僕は汗かき、走り
+秋の日 僕は想い伝え
+冬の日 真白に染まる街で、ひとり
+Curated by:
+* Waifu Wednesdays (removed)
+References/Links:
+[1] Waifu Wednesdays (2018 Jan 18 (TODO: check time zone)). “Aiobahn - 過ぎゆく日と君へ (feat. nayuta)”, YouTube. https://www.youtube.com/watch?v=MvHcqjcPZ1M (dead link, last checked 2023 Apr 07)
+[2] Internet Archive (2020 Feb 12). https://web.archive.org/web/20200212053720/https://www.youtube.com/watch?v=MvHcqjcPZ1M (accessed 2023 Apr 07)
+[3] Aiobahn (2018 Jan 09). “Aiobahn - 過ぎゆく日と君へ (feat. nayuta) [Official Audio]”, YouTube. https://www.youtube.com/watch?v=n5Jv-FFhfDU (accessed 2023 Apr 07)
+[7] Aiobahn (2018 Jan 09) “過ぎゆく日と君へ (feat. nayuta)”, SoundCloud. https://soundcloud.com/aiobahn/four-seasons (dead link, last checked 2023 Apr 07)
+[8] Internet Archive (2019 Aug 15). https://web.archive.org/web/20190815180703/https://soundcloud.com/aiobahn/four-seasons (accessed 2023 Apr 08)
+[4] https://fanlink.to/four-seasons (replaced with [5], accessed 2023 Apr 07)
+[5] https://aiobahn.lnk.to/passing-days (TODO)
+[6] Aiobahn (2018 Feb 02). “過​ぎ​ゆ​く​日​と​君​へ (feat. nayuta)”, Bandcamp. https://aiobahn.bandcamp.com/track/feat-nayuta (accessed 2023 Apr 07)
+
+
+夏の真夜中
+Other Names:
+* Midnight on Summer
+Artists:
+* Aiobahn (primary artist)
+* アンテナガール (vocalist; featured artist)
+Label: Hanabira Bunko
+Genre: Electro House [3], Electronic [3], House [3], Progressive House [3]
+Song length (min:sec): 03:46 [3]
+Lyrics [3]: (TODO: QA)
+星屑の影 探しにゆこう
+内緒のままで 走り出して
+道しるべはその手だった
+あなたを知ったのは 夏の真夜中
+
+
+ゆらり ゆらり
+夢はいつも 遠くて儚いほどきれいね
+歌うわ 淡い恋影
+
+
+ゆらり ゆらり ゆらり
+会えない ２人
+冷たい水の中
+
+
+空に浮かんだ 幻の輪
+雨で置き忘れた 手紙も
+２人だけのひみつ事も
+増えていくほど 悲しくなるの
+
+
+ゆらり ゆらり ゆらり
+会えない ２人
+冷たい夢の中
+息を吐いた
+
+
+僕らを横切る 光の帯が重なって
+今 声が枯れるまで 呼んでも
+口約束のままで
+私次第だと何度も言って
+聞かせて 立ち上がる
+胸に抱いた星に願いを
+
+
+光の間を 繋がって行く
+追いかけて ただ追いかけてゆく
+ゆらり ゆらり
+さまよい 残るは
+風の中できこえなかった 言葉
+
+
+ゆらり ゆらり ゆらり
+会いたい 思い
+冷たい水の中
+もう行かなくちゃ
+Curated by:
+* Waifu Wednesdays (removed)
+References/Links:
+[1] Waifu Wednesdays (2017 Aug 15 (TODO: check time zone)). “Aiobahn - Midnight on Summer (ft. Antenna Girl)”, YouTube. https://www.youtube.com/watch?v=FWJf9DBqZtk (dead link, last checked 2023 Apr 07)
+[2] Internet Archive (2017 Aug 16). https://web.archive.org/web/20170816073658/https://www.youtube.com/watch?v=FWJf9DBqZtk (accessed 2023 Apr 07)
+[3] Aiobahn (2017 August 08). “夏​の​真​夜​中 (feat. ア​ン​テ​ナ​ガ​ー​ル​)”, Bandcamp. https://aiobahn.bandcamp.com/track/feat (accessed 2023 Apr 07)
+[4] Aiobahn (2018 Aug 08). “夏の真夜中 (feat. アンテナガール)”, SoundCloud. https://soundcloud.com/aiobahn/midnight-on-summer (dead link, last checked 2023 Apr 08)
+[5] Internet Archive (2019 Aug 15). https://web.archive.org/web/20190815180716/https://soundcloud.com/aiobahn/midnight-on-summer (accessed 2023 Apr 08)
+[6] https://smarturl.it/hnbr001 (TODO)
 何も考えてない時の僕
 Other Names:
 Romaji: Nani mo Kanage tenai Toki no Boku
@@ -957,6 +1687,17 @@ Appears in Collection:
 * [ Kawaii Future Bass Collection Vol.4 ]
 References/Links:
 [1] SoundCloud. https://soundcloud.com/street/free-dl-2 (TODO)
+始める
+Other Names:
+* Hajimeru (Rōmaji)
+Artist: Moe Loli
+Genre: Kawaii Bass [1]
+Song length (min:sec): 03:45 [1]
+Curated by:
+* Firefly Music
+References/Links:
+[1] Firefly Music (2018 Mar 14). “Bubble Tea (Moe Loli) - 始める”, YouTube. https://www.youtube.com/watch?v=8Nd0_92zxfE (accessed 2023 Apr 29)
+[2] SoundCloud. https://soundcloud.com/moeloli/hajimeru (dead link, last checked 2023 Apr 29)
 はんぶんこ花火
 Other Names:
 Romaji: Hanbunko Hanabi
@@ -1094,6 +1835,8 @@ The hand on your clock moves
 At least now I can have these fun dreams
 Curated by:
 * Waifu Wednesdays
+Appears in Collection:
+* Anime Moe!~♫Most Beautiful & Cutest EDM | Kawaii Music♫
 References/Links:
 [1] Waifu Wednesdays (2017 Mar 14). “Katomori - Makuramoto ni Ghost Remix”, YouTube. https://www.youtube.com/watch?v=7zGbTKrYXgQ (accessed 2023 Apr 02)
 [2] KATOMORI_Archive (2020 May 25). “枕元にゴースト(KATOMORI Remix)”, SoundCloud. https://soundcloud.com/katomori10/aiobahn-yunomi-katomori-remix (TODO)
@@ -1129,12 +1872,22 @@ Songs:
 Links:
 SoundCloud: https://soundcloud.com/i-am-aika (TODO)
 Aiobahn
+Other Names:
+* Kim Min-seung
 Songs:
+* INTERNET OVERDOSE (with KOTOKO; にゃるら)
+* INTERNET YAMERO (with KOTOKO; にゃるら)
 * 枕元にゴースト (with Yunomi; nicamoq)
+* 過ぎゆく日と君へ (with nayuta)
+* 夏の真夜中 (with アンテナガール)
 Links:
 Facebook: https://www.facebook.com/aiobahn (TODO)
+Instagram: https://www.instagram.com/aiobahn (TODO)
 Twitter: https://twitter.com/Aiobahn (TODO)
 YouTube: https://www.youtube.com/@Aiobahn (TODO)
+Website:
+* http://aiobahn.com (outdated link, replaced, last checked 2023 Apr 07)
+* https://www.aiobahn.net (TODO)
 Aire
 Songs:
 * Tea Time
@@ -1159,6 +1912,9 @@ Facebook: https://www.facebook.com/thebaq5 (dead link, last checked 2023 Mar 07)
 SoundCloud: https://soundcloud.com/android52 (TODO)
 Twitter: https://twitter.com/thebaq5 (dead link, last checked 2023 Mar 07)
 YouTube: https://www.youtube.com/c/FabianImbri (dead link, last checked 2023 Mar 07)
+Antenna Girl
+Redirect:
+See: アンテナガール
 ARForest
 Songs:
 * Tomori
@@ -1189,12 +1945,27 @@ Songs:
 * BUBBLE TEA (with dark cat; juu)
 Links:
 SoundCloud: https://soundcloud.com/cindersedm (TODO)
+Cloudier
+Songs:
+* A Centimetre Apart
+Links:
+Instagram: https://www.instagram.com/cloudiermusic (TODO)
+SoundCloud: https://soundcloud.com/cloudiermusic (TODO)
+Twitter: https://twitter.com/CloudierMusic (TODO)
+YouTube: https://www.youtube.com/@Cloudier (TODO)
 Club2Tokyo
 Songs:
 * Meanwhile (with Lewis)
 COSMICOSMO
 Songs:
 * MILK & COOKIE
+CSGOD
+Released Albums:
+* CSGOD
+Links:
+SoundCloud: https://soundcloud.com/csgordie (TODO)
+Twitter: https://twitter.com/csgordie (TODO)
+Website: https://www.csgordie.com (dead link, last checked 2023 Apr 08)
 cute girls doing cute things
 Songs:
 * main heroine
@@ -1210,8 +1981,12 @@ Twitter:
 * https://twitter.com/im_darkcat (TODO)
 Tumblr: https://molang-official.tumblr.com (TODO)
 DarTokki
+Other Names:
+* DarTokki✨ (SoundCloud; last checked 2023 Apr 06)
 Songs:
 * Cream Soda
+Links:
+SoundCloud: https://soundcloud.com/dartokki (TODO)
 dextrust
 Songs:
 * Aire - Tea Time (dextrust Remix)
@@ -1249,6 +2024,15 @@ Twitter: https://twitter.com/foxfulmusic (TODO)
 Freezer
 Songs:
 * Dreamin’ Tonight (with 妃苺)
+fusq
+Songs:
+* Blush (with MYLK)
+Albums:
+* Polarity (EP)
+Links:
+Facebook: https://www.facebook.com/fusqmusic (TODO)
+SoundCloud: https://soundcloud.com/fusq (TODO)
+Twitter: https://twitter.com/fusqmusic (TODO)
 haki
 Songs:
 * Woah! (with factal)
@@ -1260,6 +2044,23 @@ Harito
 Links:
 SoundCloud: https://soundcloud.com/harito (TODO)
 Twitter: https://twitter.com/Harito_0 (TODO)
+HoneyComeBear
+Other Names:
+* Japanese: ハニカムベアー
+Members:
+* Kaako (vocalist)
+* Monkey (producer)
+Songs:
+* Sneaker - スニーカー
+Links:
+Bandcamp: https://honeycomebear.bandcamp.com (TODO)
+Instagram: https://www.instagram.com/honeycomebear (TODO)
+SoundCloud: https://soundcloud.com/832832 (TODO)
+Twitter:
+* Main: https://twitter.com/honeycomebear (TODO)
+* Kaako: https://twitter.com/kaako_HCB (TODO)
+* Monkey: https://twitter.com/Monkey_HCB (TODO)
+Website: https://www.honeycomebear.com (TODO)
 Hyp3rsleep
 Songs:
 * First light
@@ -1285,6 +2086,13 @@ YouTube: https://www.youtube.com/@ikuratunes (TODO)
 Ironami
 Songs:
 * Cocoro (with Milkoi)
+Jonty Kennedy
+Songs:
+* Intergalactic Space Rave
+Links:
+Instagram: https://www.instagram.com/jontys.jams (dead link, last checked 2023 Apr 14)
+SoundCloud: https://soundcloud.com/jonty-kennedy (TODO)
+YouTube: https://www.youtube.com/@flatheadstanley (TODO)
 Jotori
 Songs:
 * Summer Rain
@@ -1341,6 +2149,13 @@ Songs:
 Kirara Magic
 Songs:
 * Blue Square
+Links:
+Instagram: https://www.instagram.com/kiraramagic (TODO)
+SoundCloud: https://soundcloud.com/kiraramagic (TODO)
+Spotify: https://open.spotify.com/artist/7IPe93LySFSStLX4J5j5Lr (TODO)
+Twitter: https://twitter.com/kirara_magic (TODO)
+Website: https://www.kiraramagic.com (TODO)
+YouTube: https://www.youtube.com/@KiraraMagic (TODO)
 Kocyamarü
 Songs:
 * Favorite Place
@@ -1357,9 +2172,28 @@ Instagram: https://www.instagram.com/hellokodomoi/ (TODO)
 SoundCloud: https://soundcloud.com/kodomoimusic (TODO)
 Twitter: https://twitter.com/hellokodomoi (TODO)
 YouTube: https://www.youtube.com/@KODOMOiMusic (TODO)
+KOTOKO
+Songs:
+* INTERNET OVERDOSE (with Aiobahn; にゃるら)
+* INTERNET YAMERO (with Aiobahn; にゃるら)
+KOTONOHOUSE
+Songs:
+* Let's go boogie
 Kuccii
 Songs:
 * Sunset (with Lewis)
+Kyoto Black
+Other Names:
+* The End
+Songs:
+* Kodokushi (孤独死) (with Mihka!)
+Links:
+Facebook: https://www.facebook.com/KyotoBlackMusic (TODO)
+Instagram: https://www.instagram.com/kyoto.black (TODO)
+SoundCloud: https://soundcloud.com/kyotoblack (TODO)
+Spotify: https://open.spotify.com/artist/6Vw4k1mznvSYROrxQuTX93 (TODO)
+Twitter: https://twitter.com/kyoto_black (TODO)
+Website: https://www.kyoto.black (dead link, last checked 2023 Apr 08)
 Lafale
 Songs:
 * Afterglow
@@ -1397,6 +2231,14 @@ Links:
 SoundCloud: https://soundcloud.com/immeeyo (TODO)
 Twitter: https://twitter.com/MeeyoThings (TODO)
 YouTube: https://www.youtube.com/@immeeyo (TODO)
+Mihka!
+Songs:
+* Kodokushi (孤独死) (with Kyoto Black)
+Links:
+Facebook: https://www.facebook.com/MihkaMusic (TODO)
+Instagram: https://www.instagram.com/mihkamusic (TODO)
+SoundCloud: https://soundcloud.com/mihkamusic (TODO)
+Twitter: https://twitter.com/MihkaMusic (TODO)
 Milkoi
 Songs:
 * Cocoro (with Ironami)
@@ -1404,6 +2246,19 @@ Songs:
 Miruku
 Songs:
 * After School
+Moe Loli
+Other Names:
+* Bubble Tea
+* 萌えロリ
+Songs:
+* 宇宙の愛 (Cosmic Love)
+* 始める
+Links:
+Bandcamp: https://moeloli.bandcamp.com (dead link, last checked 2023 Apr 29)
+Instagram: https://www.instagram.com/korewarori (dead link, last checked 2023 Apr 29)
+SoundCloud: https://soundcloud.com/moeloli (dead link, last checked 2023 Apr 29)
+Twitter: https://twitter.com/korewarori (dead link, last checked 2023 Apr 29)
+YouTube: https://www.youtube.com/c/moeloli (dead link, last checked 2023 Apr 29)
 Moe Shop
 Links:
 Bandcamp: https://moeshop.bandcamp.com (TODO)
@@ -1422,6 +2277,8 @@ Spotify: https://open.spotify.com/artist/6EQPUPksZ79K4RR0DGMlP1 (TODO)
 Twitter: https://twitter.com/MojiXchan (dead link, last checked 2023 Mar 11)
 YouTube: https://www.youtube.com/@MojiX1 (TODO)
 MYLK
+Songs:
+* Blush (with fusq)
 Links:
 Facebook: https://www.facebook.com/mylkofficial (TODO)
 SoundCloud: https://soundcloud.com/mylkofficial (TODO)
@@ -1431,6 +2288,9 @@ Twitter:
 Mysteka
 Songs:
 * Feel My Emotions (Mysteka Remix)
+Nagase Yuuta
+Redirect:
+See: 永瀬 優太
 NaNa
 Songs:
 * Keep It Kawaii
@@ -1442,6 +2302,14 @@ Songs:
 * CYaRon! - Yozora wa Nandemo Shitteru no? (Nathaniel Keith Remix)
 Links:
 SoundCloud: https://soundcloud.com/nathanielkeithmusic (dead link, last checked 2023 Mar 15)
+nayuta
+Songs:
+* 過ぎゆく日と君へ (with Aiobahn)
+Links:
+Niconico: https://www.nicovideo.jp/mylist/35828253 (TODO)
+SoundCloud: https://soundcloud.com/7uta (TODO)
+Twitter: https://twitter.com/7utauta (TODO)
+Website: https://www.7uta.com (TODO)
 Neko Hacker
 Songs:
 * Night Sky (with Mashilo; ichika)
@@ -1574,6 +2442,15 @@ YouTube: https://www.youtube.com/@Slappyowo (TODO)
 slumberless
 Songs:
 * Dreamin’ Tonight (slumberless Remix)
+Snail's House
+Songs:
+* Hot Milk
+Links:
+Facebook: https://www.facebook.com/ujicosnaily (TODO)
+SoundCloud: https://soundcloud.com/ujico (TODO)
+Twitter:
+* https://twitter.com/loudnessfete (outdated link, replaced, last checked 2023 Apr 05)
+* https://twitter.com/ujicosnail (TODO)
 SoLush
 Songs:
 * Daydreaming
@@ -1601,9 +2478,23 @@ Songs:
 Street
 Songs:
 * 何も考えてない時の僕
+succducc
+Songs:
+* me & u (succducc bootleg)
+Links:
+SoundCloud:
+* https://soundcloud.com/succducc (TODO)
+* https://soundcloud.com/airuei (TODO: should this go to its own entry?)
 Sweet Dove
 Songs:
 * Treats
+Albums:
+* Dionysian Imitatio: Kawaii
+Links:
+Bandcamp: https://sweetdove.bandcamp.com (TODO)
+SoundCloud: https://soundcloud.com/sweetdove (TODO)
+Twitter: https://twitter.com/SweetDoveMusic (TODO)
+YouTube: https://www.youtube.com/@SweetDoveMusic (TODO)
 Synthion
 Songs:
 * Akiba
@@ -1617,6 +2508,12 @@ YouTube: https://www.youtube.com/@synthion (TODO)
 Systile
 Songs:
 * Marmalade
+* A Centimetre Apart (Systile Remix)
+Links:
+Bandcamp: https://systile.bandcamp.com (TODO)
+SoundCloud: https://soundcloud.com/gd-creatorsysl (TODO)
+Twitter: https://twitter.com/Sysl_8 (TODO)
+YouTube: https://www.youtube.com/@systile422 (TODO)
 Syui
 Songs:
 * Isekai
@@ -1636,6 +2533,12 @@ Songs:
 * Triple Sweet (with AIKA; Trifect)
 Links:
 SoundCloud: https://soundcloud.com/tenkitsunemusic (TODO)
+Tenma Tenma
+Songs:
+* Tenma Tenma - September
+Links:
+SoundCloud: https://soundcloud.com/tenma-tenma (TODO)
+Twitter: https://twitter.com/tenmaatenma (TODO)
 tokiwa
 Songs:
 * Gemini
@@ -1660,6 +2563,9 @@ YouTube: https://www.youtube.com/@unmo2850 (TODO)
 Wave Meow
 Songs:
 * Sunset (Wave Meow Remix)
+WDFQ
+Songs:
+* Sugar Rush
 Wisp X
 Links:
 Facebook: https://www.facebook.com/wispxmusic (TODO)
@@ -1704,27 +2610,68 @@ Zinnie
 Songs:
 * Kawaii Wave
 * Press Enter!
+アンテナガール
+Songs:
+* 夏の真夜中 (with Aiobahn)
+Links:
+Twitter: https://twitter.com/antenna0718 (TODO)
 妃苺
 Other Names:
 Romaji: Kiichigo
 Songs:
 * Dreamin’ Tonight (with Freezer)
+永瀬 優太
+Other Names:
+* Nagase Yuuta (Romaji)
+Songs:
+* speed cake
+Links:
+Twitter: https://twitter.com/SK_II2 (TODO)
 Label
 Chunchunmaru
-Released songs:
+Released Songs:
 * Tecchi x Amacchi x Kagi - Chuuni (2017 Oct 02)
 * BB Yukus - Crimson (2019 Apr 01)
 Links:
 SoundCloud: https://soundcloud.com/chunchunmarudesu (TODO)
 Twitter: https://twitter.com/ChunchunmaruMoe (TODO)
+commune310
+Location: Japan
+Released Albums:
+* commune310 suika (2017 Aug 26)
+Links:
+Bandcamp: https://commune310.bandcamp.com (TODO)
+Website: https://commune310.com (TODO)
+Hanabira Bunko
+Released Songs:
+* 夏の真夜中 (2017 Aug 09)
+* 過ぎゆく日と君へ (2018 Feb 02)
+Links:
+Facebook: https://www.facebook.com/HanabiraBunko (dead link, last checked 2023 Apr 07)
+Twitter: https://twitter.com/HanabiraBunko (dead link, last checked 2023 Apr 07)
 Kirara Records
 Location: Japan
-Released albums:
+Released Albums:
 * Kirara Anthems vol.3
 Links:
-Bandcamp: Kirara Records https://kirararecords.bandcamp.com
-SoundCloud: Kirara Records https://soundcloud.com/kirara-records
-Twitter: Kirara Records (@KiraraRecords) https://twitter.com/KiraraRecords
+Bandcamp: Kirara Records https://kirararecords.bandcamp.com (TODO)
+SoundCloud: Kirara Records https://soundcloud.com/kirara-records (TODO)
+Twitter: Kirara Records (@KiraraRecords) https://twitter.com/KiraraRecords (TODO)
+MELODIC UNIVERSE
+Artist: 永瀬 優太 (Nagase Yuuta)
+Released Songs:
+* speed cake
+Links:
+Website: https://sk-ii2.com/melodic-universe (TODO)
+YouTube: https://www.youtube.com/@melodic-universe (TODO)
+ピンクネオン東京
+Released Songs:
+* Tenma Tenma - September (2017 Mar 27)
+Links:
+Bandcamp: https://pinkneontokyo.bandcamp.com (TODO)
+Instagram: https://www.instagram.com/pinkneontokyo (TODO)
+SoundCloud: https://soundcloud.com/pinkneontokyo (TODO)
+Twitter: https://twitter.com/pinkneontokyo (TODO)
 Curator
 AkoMusic
 Other Names:
@@ -1748,18 +2695,34 @@ Curated Collections:
 Links:
 SoundCloud: https://soundcloud.com/dayrinpromo (TODO)
 YouTube: https://www.youtube.com/@Dayrin (TODO)
+EDMS
+Other Names:
+* ΣDMS (old)
+Curated Songs:
+* dark cat - CRAZY MILK (2017 Apr 29; removed)
+* succducc - me & u (2017 July 26)
+Links:
+Facebook: https://www.facebook.com/officialedms (dead link, last checked 2023 Apr 05)
+SoundCloud: https://soundcloud.com/edmsofficial (TODO)
+Twitter: https://twitter.com/EDMShiro (TODO)
+YouTube: https://www.youtube.com/@EDMS (TODO)
 Firefly Music
 Curated Songs:
 * LOIS (ㆁvㆁ) - Spotlight (2016 Nov 23)
 * LOIS (ㆁvㆁ) - Macaron (2017 Jan 26)
 * Ancraft - LiLac Box (2017 Mar 12)
+* Succducc - Me & U (2017 Mar 19)
+* Jonty Kennedy - Intergalactic Space Rave (2017 Aug 27)
 * SaMZIng - Paper Planes (2017 Oct 31)
 * Syui - Virtual Rush (2018 Feb 10)
+* Bubble Tea (Moe Loli) - 始める (2018 Mar 14)
+* Bubble Tea (Moe Loli) - 宇宙の愛 (Cosmic Love) (2018 Mar 28)
 * SoLush - Good Morning (2019 June 25)
+* Cloudier - A Centimetre Apart (Systile Remix) (2019 Dec 07)
 Links:
-Facebook: https://www.facebook.com/FireflyAMV (TODO) 
-SoundCloud: https://soundcloud.com/fireflyamv (TODO)
-Twitter: https://twitter.com/fireflyamv (TODO)
+Facebook: https://www.facebook.com/FireflyAMV[a] (TODO) 
+SoundCloud: https://soundcloud.com/fireflyamv[b] (TODO)
+Twitter: https://twitter.com/fireflyamv[c] (TODO)
 GalaxyMusicNet
 Other Names:
 * YouTube: Galaxy
@@ -1781,6 +2744,10 @@ Waifu Wednesdays
 Curated Songs:
 * Stereoman - Bubble Cat (2016 Aug 30)
 * Katomori - Makuramoto ni Ghost Remix (2017 Mar 14)
+* HoneyComeBear - Sneaker (2017 June 07)
+* Aiobahn - Midnight on Summer (ft. Antenna Girl) (2017 Aug; removed)
+* Tenma Tenma - September (2017 Oct 28)
+* Aiobahn - 過ぎゆく日と君へ (feat. nayuta) (2018 Jan; removed)
 * Neko Hacker - Night Sky (feat. Mashilo & ichika) (2018 Aug 19)
 Links:
 Facebook: https://www.facebook.com/waifuwednesdays (TODO)
@@ -1822,6 +2789,27 @@ Artist: ARForest
 Note: is EP
 Tracklist: (TODO)
 1. ARForest - Tomori
+commune310 suika
+Tracklist [1]: (TODO: complete tracklist)
+1. KOTONOHOUSE - let's go boogie
+References/Links:
+[1] commune310 (2017 Aug 26). “commune310 suika”, Bandcamp. https://commune310.bandcamp.com/album/commune310-suika (TODO)
+CSGOD
+Artist: CSGOD
+Release date: 2016 July 07 [1]
+Tracklist [1]:
+* Mihka! X Kyoto Black - Kodokushi (孤独死)
+Notes:
+* Compilation album
+References/Links:
+[1] CSGOD (2016 July 08). “CSGOD”, SoundCloud. https://soundcloud.com/csgordie/sets/csgod (TODO)
+Dionysian Imitatio: Kawaii
+Artist: Sweet Dove
+Tracklist: (TODO: fill in information)
+1. Treats
+References/Links:
+[1] https://fanlink.to/DioImiKawaii (TODO)
+[2] SoundCloud. https://soundcloud.com/sweetdove/sets/dionysian-imitatio-kawaii (TODO)
 Kirara Anthems vol.3
 Code: KRCD-003
 Release date: 2016 Apr 24 [2][3]
@@ -1862,6 +2850,26 @@ References/Links:
 [1] Website: https://krr-rec-tokusetu.sakura.ne.jp/krcd003 (dead link, last checked 2023 Mar 11)
 [2] Stereoman_jpn (2016 Apr 18). “Stereoman - Bubble Cat[F/C Kirara Anthems vol.3 (A-22a)]”, SoundCloud. https://soundcloud.com/5tereomanjpn/stereoman-bubble-catfc-kirara-anthems-vol3-a-22a (accessed 2023 Mar 11)
 [3] Various Artists - Topic (2021 Apr 05). “Bubble Cat”, YouTube. https://www.youtube.com/watch?v=02OH87mHDko (accessed 2023 Mar 11)
+Ordinary Songs 2
+Tracklist [1]:
+1. introduction
+2. white day
+3. walking on snow
+4. fizzy resort
+5. hot milk
+6. Cappuccino
+7. sweetheart
+References/Links:
+[1] Bandcamp. https://0101.bandcamp.com/album/ordinary-songs-2 (TODO)
+Polarity
+Artist: fusq
+Album type: EP
+Tracklist: (TODO)
+1. fusq - Blush (feat. MYLK)
+References/Links:
+[1] https://smarturl.it/PolarityEP (TODO)
+[2] https://open.spotify.com/album/0oppzlIYZu2rH4Y4MbZ8C4 (TODO)
+[3] https://fusq.bandcamp.com/album/polarity (TODO)
 Rocket League X RLBU Vol.3
 Tracklist [1]:
 1. KO3 - In My Heart
@@ -1909,7 +2917,7 @@ Tracks: (TODO: create individual song pages)
 2. Synthion - Akiba
 3. nyankobrq - Good Day Sunshine
 4. Aiobahn & Yunomi - 枕元にゴースト (KATOMORI Remix)
-5. XVAN - I’m OK
+5. XVAN - I'm OK
 6. Ancraft - LiLac Box
 7. Yu*dachi - 秋風ティーブレイク (Mini Arrange & Remaster)
 8. Yunomi & nicamoq - インドア系ならトラックメイカ (Indoor Kei Nara Trackmaker) (removed)
@@ -2078,3 +3086,6 @@ Tracks:
 10. Syui - Isekai
 Links:
 [1] SAMURAI BOY活動休止中 (2018 Nov 04) “[神曲] Kawaii EDMオススメ10曲 [まとめ]”, YouTube. https://www.youtube.com/watch?v=lN04a48Ba9I (accessed 2023 Mar 05)
+[a]http://bit.ly/2FclGqG
+[b]http://bit.ly/2RG2dzS
+[c]http://bit.ly/2RGVqWu
