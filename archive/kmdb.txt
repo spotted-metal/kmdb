@@ -25,10 +25,13 @@ Blush
 Bubble Cat
 BUBBLE TEA
 Camellia
+Candy Rush
 Chrysoprase
 Chuuni
 Cocoa Blow
+Coconut Cabana
 Cocoro
+Colorful.
 Cosmic Love
 Cotton Cloud
 CRAZY MILK
@@ -40,15 +43,19 @@ Don't Hide Yourself
 Dreamin’ Tonight
 Dreamin’ Tonight (slumberless Remix)
 Egao no Hanabata
+Explosion
 Favorite Place
 Feel My Emotions
 Feel My Emotions (Mysteka Remix)
 First light
 First love
 Flyleaf
+Fubuki
 Gemini
 Good Day Sunshine
 Good Morning
+Good Night
+Good Night (Aiobahn Remix)
 Green Tea
 Hajimeru
 Hanabi
@@ -63,6 +70,8 @@ Hold Me
 Holiday
 Hot & Cool
 Hot Milk
+I Love You
+Ice soda
 Intergalactic Space Rave
 INTERNET OVERDOSE
 INTERNET YAMERO
@@ -85,13 +94,18 @@ me & u
 cassie - me & u
 me & u (succducc bootleg)
 Meanwhile
+Megu
 Melting Emotion
 Metsuki
 Metsuki (Milkoi Remix)
 Midnight on Summer
+Midnight Sea
 MILK & COOKIE
+Mille Feuille
+Mille Feuille (Omoshiroebi Remix)
 Miss You
 Mocha
+Moestep
 Myself
 Nagame
 Nani mo Kangae tenai Toki no Boku
@@ -100,19 +114,24 @@ New Day
 New Start!
 Night Parade
 Night Sky
+Nosedive
 Nostalgica
 Paper Planes
+Pixel Dream
 Press Enter!
 Ready
+Ruby
 Ryokou
 Sakura
+Sakura Saku
+Sakura Saku (Omoshiroebi Remix)
 Sayonara April
 September
 Tenma Tenma - September
 竹内まりや - SEPTEMBER
 原田知世 - September
-Signal
 SHINE
+Signal
 Sneaker - スニーカー
 Snorkel
 speed cake
@@ -125,26 +144,36 @@ Sugar Rush
 Sugiyuku Hi to Kimi e
 Summer
 Summer Rain
+Summertime Memory
 Sunny
 Sunset
 Sunset (Wave Meow Remix)
+Super Anime Groove [3D World]
 Sweet
 Sweet Crepe
 Takarabako
 Tea Time
 Tea Time (dextrust Remix)
 Teach Me How To
+The New Shrimp Groove
 Tomori
 Treats
 Triple Sweet
 Uchiage Hanabi
+Want You
 Woah!
 Virtual Rush
+You Look So Good
 Yozora wa Nandemo Shitteru no?
 Yozora wa Nandemo Shitteru no? (Nathaniel Keith Remix)
 打上花火
 宇宙の愛
 えがおの花束
+カラフル。
+カラフル。 (kamaboko remix)
+君へのささめき
+サ・ク・ラ・サ・ク
+サ・ク・ラ・サ・ク(Jun Kuroda Mix)
 ジェリーフィッシュ
 過ぎゆく日と君へ
 夏の真夜中
@@ -154,6 +183,7 @@ Yozora wa Nandemo Shitteru no? (Nathaniel Keith Remix)
 はんぶんこ花火 (Dream Hackers Remix)
 枕元にゴースト
 枕元にゴースト (KATOMORI Remix)
+めんたいコズミック
 夜空はなんでも知ってるの？
 Artist
 2ToneDisco
@@ -179,7 +209,9 @@ cute girls doing cute things
 dark cat
 DarTokki
 dextrust
+Discandy
 Dream Hackers
+Electric Dad
 Elkuu
 Elliot Hsu
 factal
@@ -190,6 +222,7 @@ fusq
 haki
 Happy Kuru Kuru
 Harito
+Holder
 HoneyComeBear
 Hyp3rsleep
 ichika
@@ -221,6 +254,7 @@ Lyrit
 Mameyudoufu
 Mashilo
 Meeyo
+Messier
 Mihka!
 Milkoi
 Miruku
@@ -242,16 +276,20 @@ nyankobrq
 NYOKI
 OHEY
 omniboi
+Omoshiroebi
 osirasekita
 P3PPER
 Pandrezz
 PIKASONIC
 PLEEG
 Project Skylate
+Pure Gem
 r3n
 RUQOA
 SaMZIng
 Sein & Music
+Seiun
+Shiroi-Ice
 Slappy
 slumberless
 Snail's House
@@ -307,7 +345,9 @@ Dionysian Imitatio: Kawaii
 Kirara Anthems vol.3
 Ordinary Songs 2
 Polarity
+Pure Pure
 Rocket League X RLBU Vol.3
+Shiroi-Ice's Selfreleased Collections Vol.1
 Snowlight Vol. 2
 SUMMER!
 元気全開DAY! DAY! DAY!
@@ -322,6 +362,14 @@ Mix - Music Anime Kawaii
 Special✦Amazing Kawaii✦Anime Moe!~♫Most Beautiful & Cutest EDM | Kawaii Music♫
 [神曲] Kawaii EDMオススメ10曲 [まとめ]
 Song
+0AM
+Artist: 
+Song length (min:sec): 
+Curated by:
+* Waifu Wednesdays
+References/Links:
+[1] Waifu Wednesdays (201?). “”, YouTube. (TODO)
+[2] Waifu Wednesdays! (@waifuwed) (2018 Jun 29). “New upload : "0AM' by @Aiobahn and @7utauta! Listen now! http://youtu.be/vPyeRYEZae8?a”, Twitter. https://twitter.com/waifuwed/status/1012722748823625729 (accessed 2023 May 29)
 A Centimetre Apart
 Artist: Cloudier
 Remixes:
@@ -342,10 +390,13 @@ References/Links:
 [2] SoundCloud. https://soundcloud.com/gd-creatorsysl/stay-with-you (dead link, last checked 2023 Apr 14)
 After School
 Artist: Miruku
+Genre: Dance [1], EDM [1], Future Bass [1], Melodic [1]
+Song length (min:sec): 03:48 [1][2]
 Appears in Collection:
 * [ Kawaii Future Bass Collection Vol.4 ]
 References/Links:
-[1] SoundCloud. https://soundcloud.com/mirukumusic/after-school (TODO)
+[1] m i r u k u (2018 Nov 05). “After School”, SoundCloud. https://soundcloud.com/mirukumusic/after-school (accessed 2023 May 20)
+[2] Miruku (2018 Nov 05). “After School”, Bandcamp. https://mirukumusic.bandcamp.com/track/after-school (TODO)
 Afterglow
 Artist: Lafale
 Song length (min:sec): 02:55 [2]
@@ -360,16 +411,135 @@ References/Links:
 [2] Lafale (2019 July 07). “Lafale - Afterglow [Rocket League X RLBU Vol. 3]”, SoundCloud. https://soundcloud.com/lafale/lafale-afterglow (accessed 2023 Mar 11)
 Akiba
 Artist: Synthion
-Release date: 2016 Dec 01 [1]
-Links:
+Release date: 2016 Nov 25 [2], 2016 Dec 01 [1]
+Genre: Breakbeat [2], Electro [2], House [2], Kawaii [2]
+Song length (min:sec): 02:33 [1][2]
+References/Links:
 [1] Synthion Ch. (2017 June 10) “Synthion - Akiba”, YouTube. https://www.youtube.com/watch?v=TDL2Q6azZCU (accessed 2023 Mar 11)
+[2] Synthion (2016 Dec 01). “Akiba”, SoundCloud. https://soundcloud.com/synthion/akiba (accessed 2023 May 20)
+[3] ToneDen. https://www.toneden.io/synthion/post/akiba (TODO)
+[4] Apple Music. https://music.apple.com/us/album/akiba-single/1215482991 (dead link, last checked 2023 May 20)
+Akihabara.
+Artist: 
+Song length (min:sec): 
+Curated by:
+* Waifu Wednesdays
+References/Links:
+[1] Waifu Wednesdays (201?). “”, YouTube. https://youtu.be/fzjbFynuX4o (TODO)
+[2] Waifu Wednesdays! (@waifuwed) (2018 Sept 12). “New upload : Akihabara. by B3LLA & Couple N!
+
+Listen now! :”, Twitter. https://twitter.com/waifuwed/status/1039803903531868160 (accessed 2023 May 29)
+Apollo
+Artist: 
+Song length (min:sec): 
+Curated by:
+* Waifu Wednesdays
+References/Links:
+[1] Waifu Wednesdays (201?). “”, YouTube. (TODO)
+[2] Waifu Wednesdays! (@waifuwed) (2018 Aug 22). “New Pure 100% Release!
+
+Check out their latest Future Bass release "Apollo (featuring Cenji & Juu) [VIP Mix]" on YouTube now!
+
+Listen now! : https://youtube.com/watch?v=3TjWZZvq_48
+
+@wearepure100, @j1n7n, @CenjiMusic”, Twitter. https://twitter.com/waifuwed/status/1032384436644470785 (accessed 2023 May 29)
+Asagao
+Artist: 
+Song length (min:sec): 
+Curated by:
+* Waifu Wednesdays
+References/Links:
+[1] Waifu Wednesdays (201?). “”, YouTube. (TODO)
+[2] Waifu Wednesdays! (@waifuwed) (2017 July 29). “New upload : Asagao by @lilim___, @hironica, @mochilon 
+
+Listen now! : https://youtube.com/watch?v=tT9t5jFO_Ng”, Twitter. https://twitter.com/waifuwed/status/891381678047997952 (accessed 2023 May 29)
 Asatsuyu
 Artist: MojiX!
 Appears in Collection:
 * [ Kawaii Future Bass Collection Vol.3 ]
 References/Links:
-[1] SoundCloud. https://soundcloud.com/mojixkung/asatsuyu (dead link, last checked 2023 Mar 26)
+[1] SoundCloud. https://soundcloud.com/mojixkung/asatsuyu (dead link, replaced, last checked 2023 Mar 26)
+[3] MojiX! (2018 Nov 25). “Asatsuyu”, SoundCloud. https://soundcloud.com/m0jix/asatsuyu (TODO)
 [2] YouTube. https://www.youtube.com/watch?v=b1LPUftRu10 (TODO)
+Asterism
+Artist: 
+Song length (min:sec): 
+Curated by:
+* Waifu Wednesdays
+References/Links:
+[1] Waifu Wednesdays (201?). “”, YouTube. (TODO)
+[2] Waifu Wednesdays! (@waifuwed) (2017 May 10). “New upload : Asterism by @NOR0910 and @yuce_e!
+
+Listen now! : https://youtube.com/watch?v=NyDQ3yXDTPw”, Twitter. https://twitter.com/waifuwed/status/862273368065626113 (accessed 2023 May 29)
+Azure
+Artist: 
+Song length (min:sec): 
+Curated by:
+* Waifu Wednesdays
+References/Links:
+[1] Waifu Wednesdays (201?). “”, YouTube. (TODO)
+[2] Waifu Wednesdays! (@waifuwed) (2018 Dec 05). “🚨 NEW UPLOAD 🚨
+
+"Azure" by cute girls doing cute things!
+
+👉 @cutegirlsmusic 
+
+⚡️ Listen on YouTube : https://youtu.be/Xd_cqTHB7-4
+
+⚡️ Listen on Spotify : https://open.spotify.com/album/4AdFXsvb6aFXD3R4SrJ70F?si=un-HcLumRda3IMC8I0bBWg
+
+RT's appreciated 💞”, Twitter. https://twitter.com/waifuwed/status/1070181486605660160 (accessed 2023 May 29)
+Barrack
+Artist: 
+Song length (min:sec): 
+Curated by:
+* Waifu Wednesdays
+References/Links:
+[1] Waifu Wednesdays (201?). “”, YouTube. (TODO)
+[2] Waifu Wednesdays! (@waifuwed) (2017 Sept 04). “New upload : Barrack by @pepensow 
+
+Listen now! : https://youtube.com/watch?v=WdGFeTqJZb0”, Twitter. https://twitter.com/waifuwed/status/904559078491406337 (accessed 2023 May 29)
+Bishounen
+Bishounen (Kaivaan Version)
+Artist: 
+Song length (min:sec): 
+Curated by:
+* Waifu Wednesdays
+References/Links:
+[1] Waifu Wednesdays (201?). “”, YouTube. (TODO)
+[2] Waifu Wednesdays! (@waifuwed) (2017 Mar 29). “New upload : @hikarustation - Bishounen (@iKaivaan version!)
+
+Listen now! : https://youtube.com/watch?v=u0pXM9crsyk”, Twitter. https://twitter.com/waifuwed/status/846979678502080513 (accessed 2023 May 28)
+Bitter Sweet Girlfriend
+Artist: 
+Song length (min:sec): 
+Curated by:
+* Waifu Wednesdays
+References/Links:
+[1] Waifu Wednesdays (201?). “”, YouTube. (TODO)
+[2] Waifu Wednesdays! (@waifuwed) (2018 Jan 24). “New upload : Bitter Sweet Girlfriend by @b_Mysteka!
+
+Listen now! : https://youtube.com/watch?v=dG3-JbNKlw8”, Twitter. https://twitter.com/waifuwed/status/955966643875733504 (accessed 2023 May 29)
+Bittersweet
+Artist: 
+Song length (min:sec): 
+Curated by:
+* Waifu Wednesdays
+References/Links:
+[1] Waifu Wednesdays (201?). “”, YouTube. (TODO)
+[2] Waifu Wednesdays! (@waifuwed) (2017 Aug 30). “New upload : Nakanojojo - Bittersweet (feat. くいしんぼあかちゃん a.k.a きあと) by @nakanojojo ft. @_kiato!
+
+Listen now! : https://youtube.com/watch?v=bk26091cgiA”, Twitter. https://twitter.com/waifuwed/status/902865950482997248 (accessed 2023 May 29)
+Blue Spring Groove
+Artist: 
+Song length (min:sec): 
+Curated by:
+* Waifu Wednesdays
+References/Links:
+[1] Waifu Wednesdays (201?). “”, YouTube. (TODO)
+[2] Waifu Wednesdays! (@waifuwed) (2018 Mar 24). “New upload : Blue Spring Groove by @korewakotu!
+
+Listen now! : https://youtube.com/watch?v=UATiglogF5M”, Twitter. https://twitter.com/waifuwed/status/977500916520636416 (accessed 2023 May 29)
 Blue Square
 Artist: Kirara Magic
 Genre: Kawaii Future Bass [1][3]
@@ -392,6 +562,16 @@ Part of Album:
 * Polarity
 References/Links:
 [1] fusq (2017 June 16). “fusq - Blush (feat. MYLK)”, YouTube. https://www.youtube.com/watch?v=TyVh5aNYKLg (accessed 2023 Apr 14)
+Blush (Moe Shop Remix)
+Artist: 
+Song length (min:sec): 
+Curated by:
+* Waifu Wednesdays
+References/Links:
+[1] Waifu Wednesdays (201?). “”, YouTube. (TODO)
+[2] Waifu Wednesdays! (@waifuwed) (2017 Aug 02). “New upload! : Blush Remix by @korewamoe (orig. by @fusqmusic and @yuksterr)
+
+Listen now! : https://youtube.com/watch?v=h47_npDx5BI”, Twitter. https://twitter.com/waifuwed/status/892759691847192577 (accessed 2023 May 29)
 Bubble Cat
 Artist: Stereoman
 Song length (min:sec): 03:46 [1], 03:48 [3]
@@ -402,6 +582,9 @@ Curated by:
 * Waifu Wednesdays
 References/Links:
 [1] Waifu Wednesdays (2016 Aug 30). “Stereoman - Bubble Cat”, YouTube. https://www.youtube.com/watch?v=mz0MYXBhPdg (accessed 2023 Mar 11)
+[4] Waifu Wednesdays! (@waifuwed) (2016 Aug 31). “New upload : Bubble Cat by Stereoman (@2_shape)! Presented by @KiraraRecords!
+
+Listen now! : https://youtu.be/mz0MYXBhPdg”, Twitter. https://twitter.com/waifuwed/status/770862636523216896 (accessed 2023 May 27)
 [2] Stereoman_jpn (2016 Apr 18). “Stereoman - Bubble Cat[F/C Kirara Anthems vol.3 (A-22a)]”, SoundCloud. https://soundcloud.com/5tereomanjpn/stereoman-bubble-catfc-kirara-anthems-vol3-a-22a (accessed 2023 Mar 11)
 [3] Various Artists - Topic (2021 Apr 05). “Bubble Cat”, YouTube. https://www.youtube.com/watch?v=02OH87mHDko (accessed 2023 Mar 11)
 BUBBLE TEA
@@ -425,6 +608,94 @@ Appears in Collection:
 References/Links:
 [1] Synthikate (TODO: date). “KarameL - Camellia”, SoundCloud. https://soundcloud.com/synthikate/karamel-camellia (TODO)
 [2] YouTube. https://www.youtube.com/watch?v=MfgT22pwniM (TODO)
+Candy Rush
+Artist: Holder
+Song length (min:sec): 03:44 [1]
+Curated by:
+* Waifu Wednesdays
+References/Links:
+[1] Waifu Wednesdays (2015 Nov 17). “Holder - Candy Rush”, YouTube. https://www.youtube.com/watch?v=1vglxXmR4b8 (accessed 2023 May 20)
+[4] Waifu Wednesdays! (@waifuwed) (2015 Nov 18). “New upload featuring @majorleaguewobs! His new song "Candy Rush".
+
+We hope you enjoy!
+
+https://youtube.com/watch?v=1vglxXmR4b8”, Twitter. https://twitter.com/waifuwed/status/666883428462297088 (accessed 2023 May 20)
+[2] SoundCloud. https://soundcloud.com/majorleaguewobs/holder-candy-rush-free-download (TODO)
+[3] ToneDen. https://www.toneden.io/tastynetwork/post/holder-candy-rush (TODO)
+Catch
+Artist: 
+Song length (min:sec): 
+Curated by:
+* Waifu Wednesdays
+References/Links:
+[1] Waifu Wednesdays (201?). “”, YouTube. (TODO)
+[2] Waifu Wednesdays! (@waifuwed) (2017 Apr 26). “New upload : Catch by @nighttempo!
+
+Listen now!
+
+https://youtube.com/watch?v=f0Ld76zAc88”, Twitter. https://twitter.com/waifuwed/status/857266742116012032 (accessed 2023 May 29)
+Charm
+Artist: 
+Song length (min:sec): 
+Curated by:
+* Waifu Wednesdays
+References/Links:
+[1] Waifu Wednesdays (201?). “”, YouTube. https://youtu.be/P8XY-LbpMV0 (TODO)
+[2] Waifu Wednesdays! (@waifuwed) (2018 Feb 23). “New upload : Charm by @korewamoe (ft. @puniden)!
+
+Listen now! :”, Twitter. https://twitter.com/waifuwed/status/966864206132781056 (accessed 2023 May 29)
+[3] Waifu Wednesdays (201?). “”, YouTube. (TODO)
+[4] Waifu Wednesdays! (@waifuwed) (2018 Oct 10). “🚨 NEW UPLOAD! 🚨
+
+Moe Shop - Charm (w/ Puniden) (Fan-Animated Music Video)
+
+👉 @korewamoe (producer)
+👉 @puniden (vocalist)
+👉 @2z2tdt (animator)
+
+⚡️ Purchase "Moe Moe" EP on Bandcamp now! : https://moeshop.bandcamp.com/album/moe-moe
+
+⚡️ Watch here! : https://youtube.com/watch?v=Raq_NEfebmk
+
+RT's appreciated 💞”, Twitter. https://twitter.com/waifuwed/status/1050013971166584833 (accessed 2023 May 29)
+Charm Point
+References/Links:
+[1] SoundCloud. https://soundcloud.com/ujico/charmpoint (TODO)
+[2] Waifu Wednesdays! (@waifuwed) (2016 Oct 26). “Snail's House (@loudnessfete) released a new single "Charm Point"!
+
+Listen now : https://soundcloud.com/ujico/charmpoint …
+
+Also announces Ordinary Songs 2!”, Twitter. https://twitter.com/waifuwed/status/791128231919452162 (accessed 2023 May 28)
+Checkpoint!
+Artist: 
+Song length (min:sec): 
+Curated by:
+* Waifu Wednesdays
+References/Links:
+[1] Waifu Wednesdays (201?). “”, YouTube. (TODO)
+[2] Waifu Wednesdays! (@waifuwed) (2017 Nov 15). “New upload : Checkpoint! by @iamOHEY and @MiisoMusic!
+
+Listen now! : https://youtube.com/watch?v=OzRbawHHbbg”, Twitter. https://twitter.com/waifuwed/status/930590611689951232 (accessed 2023 May 29)
+Cherry Soda
+Artist: 
+Song length (min:sec): 
+Curated by:
+* Waifu Wednesdays
+References/Links:
+[1] Waifu Wednesdays (201?). “”, YouTube. (TODO)
+[2] Waifu Wednesdays! (@waifuwed) (2018 Oct 09). “🚨 NEW UPLOAD 🚨
+
+Cherry Soda by Hikari!
+
+Genre : Electronic
+
+👉 @musicbyhikari
+
+⚡️ Listen here : https://youtube.com/watch?v=gFkR2Sg-b9E
+
+⚡️ Help Hikari grow! Follow their  SoundCloud! : https://soundcloud.com/musicbyhikari
+
+RT's appreciated 💞”, Twitter. https://twitter.com/waifuwed/status/1049722149890482176 (accessed 2023 May 29)
 Chrysoprase
 Artist: Nansuke
 Appears in Collection:
@@ -448,8 +719,23 @@ Appears in Collection:
 References/Links:
 [1] Chunchunmaru (2017 Oct 04). “Tecchi x Amacchi x Kagi - Chuuni”, SoundCloud. https://soundcloud.com/chunchunmarudesu/chuuni (TODO)
 [2] Dayrin (2017 Oct 05). “Tecchi x Amacchi x Kagi - Chuuni”, YouTube. https://www.youtube.com/watch?v=cQS7n-bAMw4 (TODO)
+[5] https://chunchunmaru.fanlink.to/chuuni (TODO)
 [3] Toneden.io. https://www.toneden.io/tecchi/post/tecchi-x-amacchi-x-kagi-chuuni (TODO)
 [4] Spotify. https://open.spotify.com/album/3xpNmvu4kXHKdRvXmF85CG (TODO)
+City Lights
+Remixes:
+* City Lights (Zekk Remix)
+City Lights (Zekk Remix)
+Remix of: City Lights
+Remix Artist: 
+Song length (min:sec): 
+Curated by:
+* Waifu Wednesdays
+References/Links:
+[1] Waifu Wednesdays (201?). “”, YouTube. (TODO)
+[2] Waifu Wednesdays! (@waifuwed) (2015 Dec 16). “New upload featuring @zekkofficial (City Lights Remix). We hope you enjoy (๑•̀ㅁ•́๑)✧
+
+https://youtube.com/watch?v=PROMU0KQwSI”, Twitter. https://twitter.com/waifuwed/status/677026327380275200 (accessed 2023 May 21)
 Cocoa Blow
 Artist: NieWals
 Song length (min:sec): 02:37 [1]
@@ -458,6 +744,19 @@ Appears in Collection:
 * Special✦Amazing Kawaii✦Anime Moe!~♫Most Beautiful & Cutest EDM | Kawaii Music♫
 References/Links:
 [1] NieWals (2016 Jan 05). “Cocoa Blow”, SoundCloud. https://soundcloud.com/niewalsound/cocoa-blow (accessed 2023 Mar 11)
+Coconut Cabana
+Artist: ikura
+Label: Chunchunmaru
+Release date: 
+Song length (min:sec): 
+References/Links:
+[1] Chunchunmaru (20??). “”, SoundCloud. https://soundcloud.com/chunchunmarudesu/coconut-cabana (TODO)
+[2] Chunchunmaru (@ChunchunmaruMoe) (2018 Aug 10). “COCONUT CABANA by ikura is OUT NOW! 🥥
+https://soundcloud.com/chunchunmarudesu/coconut-cabana
+
+Get ready for lovely beach vibes!~ ☀️”, Twitter. https://twitter.com/ChunchunmaruMoe/status/1027892613431603200 (accessed 2023 May 20)
+[3] https://chunchunmaru.fanlink.to/coconut-cabana (TODO)
+[4] YouTube. https://www.youtube.com/watch?v=udyAqYul1GM (TODO)
 Cocoro
 Artists:
 * Ironami
@@ -467,6 +766,19 @@ Appears in collection:
 References/Links:
 [1] “Ironami & Milkoi - Cocoro”, SoundCloud. https://soundcloud.com/ironami/ironami-milkoi-cocoro (TODO)
 [2] YouTube. https://www.youtube.com/watch?v=UT3gqD51r3c (TODO)
+Colorful Lemonade
+Artist: Stereoman
+Song length (min:sec): 
+Curated by:
+* Waifu Wednesdays
+References/Links:
+[1] Waifu Wednesdays (201?). “”, YouTube. (TODO)
+[2] Waifu Wednesdays! (@waifuwed) (2015 Dec 09). “New upload featuring the very awesome Stereoman (@2_shape)! We hope you enjoy!
+
+https://youtube.com/watch?v=5VN1iQ0yIQ0”, Twitter. https://twitter.com/waifuwed/status/674499343425007616 (accessed 2023 May 21)
+Colorful.
+Redirect:
+See: カラフル。 (song by 沢井美空 (Sawai Miku))
 Cosmic Love
 Redirect:
 See: 宇宙の愛 (song by Moe Loli)
@@ -493,7 +805,7 @@ References/Links:
 [3] ToneDen.io (unofficial). https://www.toneden.io/edmshiro/post/crazy-milk (TODO)
 [4] SoundCloud. https://soundcloud.com/dark_cat/crazy-milk (dead link, last checked 2023 Mar 21)
 [5] “dark cat - CRAZY MILK Lyrics”, Genius. https://genius.com/Dark-cat-crazy-milk-lyrics (accessed 2023 Mar 21)
-[6] dark cat (@im_darkcat) (2022 Dec 06). Twitter. https://twitter.com/im_darkcat/status/1600080753307439104 (accessed 2023 Mar 21)
+[6] dark cat (@im_darkcat) (2022 Dec 06). “regarding the crazy milk thing, I had to remove the vocals from the audio because of ....... reasons - but you should be able to find the original song on youtube and stuff”, Twitter. https://twitter.com/im_darkcat/status/1600080753307439104 (accessed 2023 Mar 21)
 [7] Cloudboy (2018 Jan 14). “dark cat - CRAZY MILK”, YouTube. https://www.youtube.com/watch?v=MBSXPyaz17g (accessed 2023 Mar 21)
 CRAZY MILK 2
 Variant of: CRAZY MILK
@@ -511,12 +823,13 @@ Song length (min:sec): 03:47 [1]
 Appears in Collection:
 * [ Kawaii Future Bass Collection Vol.3 ]
 References/Links:
-[1] DarTokki✨ (2018 Aug 15). “Cream Soda”, SoundCloud. https://soundcloud.com/dartokki/cream-soda (TODO)
+[1] DarTokki✨ (2018 Aug 15). “Cream Soda”, SoundCloud. https://soundcloud.com/dartokki/cream-soda (accessed 2023 Apr 06)
 [2] YouTube. https://www.youtube.com/watch?v=GCsOjXWHPv8 (dead link, last checked 2023 Mar 26)
 [3] PumpYourSound. https://pumpyoursound.com/f/pys/cream-soda/53945 (TODO)
 Crimson
 Artist: BB Yukus
 Label: Chunchunmaru
+Release date: 2019 Apr 01
 Genre: Future Bass [1][2]
 Song length (min:sec): 03:19 [1][2]
 Curated by:
@@ -526,6 +839,56 @@ Appears in Collection:
 References/Links:
 [1] Chunchunmaru (2019 Apr 01). “BB Yukus - Crimson”, SoundCloud. https://soundcloud.com/chunchunmarudesu/crimson (accessed 2023 Mar 30)
 [2] Dayrin (2019 May 07). “BB Yukus - Crimson”, YouTube. https://www.youtube.com/watch?v=uELUeW4Diw0 (accessed 2023 Mar 30)
+[3] Chunchunmaru (@ChunchunmaruMoe) (2019 Apr 02). Twitter. https://twitter.com/ChunchunmaruMoe/status/1113189561587392514 (accessed 2023 May 20)
+Crystal Tokyo!
+Artist: 
+Song length (min:sec): 
+Curated by:
+* Waifu Wednesdays
+References/Links:
+[1] Waifu Wednesdays (201?). “”, YouTube. (TODO)
+[2] Waifu Wednesdays! (@waifuwed) (2018 Sept 19). “🚨 NEW RELEASE 🚨
+
+"Sailor Flex! R" by @korewakotu!
+
+Genre : Future Funk 🎸
+
+Take a listen to "Crystal Tokyo!", track number 3 off their new EP!
+
+⚡️ Listen here : https://youtube.com/watch?v=IDqAe0IC9Ak
+
+⚡️ Support and Purchase via Bandcamp! : https://kotu.bandcamp.com
+
+RT's appreciated <3”, Twitter. https://twitter.com/waifuwed/status/1042377204229857280 (accessed 2023 May 29)
+DAY BY DAY
+Artist: 
+Song length (min:sec): 
+Curated by:
+* Waifu Wednesdays
+References/Links:
+[1] Waifu Wednesdays (201?). “”, YouTube. (TODO)
+[2] Waifu Wednesdays! (@waifuwed) (2016 May 11). “New upload : DAY BY DAY by KATOMORI (@EVOL_SWONK)
+
+https://youtube.com/watch?v=wfhzdlHK3pk
+
+We hope you enjoy (๑•̀ㅁ•́๑)✧”, Twitter. https://twitter.com/waifuwed/status/730363902182232065 (accessed 2023 May 27)
+[3] Waifu Wednesdays! (@waifuwed) (2016 May 12). “The new upload went live earlier today in case you missed it!
+
+Katomori - Day by Day!
+
+https://youtube.com/watch?v=wfhzdlHK3pk”, Twitter. https://twitter.com/waifuwed/status/730582882993983488 (accessed 2023 May 27)
+Daydream
+Artist: 
+Song length (min:sec): 
+Curated by:
+* Waifu Wednesdays
+References/Links:
+[1] Waifu Wednesdays (201?). “”, YouTube. (TODO)
+[2] Waifu Wednesdays! (@waifuwed) (2018 Aug 05). “New upload! : Neko Hacker - Daydream (feat. mega & Sithu Aye)
+
+Listen now! : https://youtube.com/watch?v=tdbC8tSmeXo
+
+@neko_hacker”, Twitter. https://twitter.com/waifuwed/status/1026204623953186816 (accessed 2023 May 29)
 Daydreaming
 Artist: SoLush
 Appears in Collection:
@@ -533,19 +896,74 @@ Appears in Collection:
 References/Links:
 [1] SoundCloud. https://soundcloud.com/iamsolush/solush-daydreaming (TODO)
 [2] YouTube. https://www.youtube.com/watch?v=mKsv62gIB1M (TODO)
+Dear
+Artist: 
+Song length (min:sec): 
+Curated by:
+* Waifu Wednesdays
+References/Links:
+[1] Waifu Wednesdays (201?). “”, YouTube. https://youtu.be/DU_QsQ_X-kU (TODO)
+[2] Waifu Wednesdays! (@waifuwed) (2018 Jan 11). “New upload : Dear by @honeycomebear!
+
+Listen now! :”, Twitter. https://twitter.com/waifuwed/status/951388882012069888 (accessed 2023 May 29)
+Delicious Groove
+Artist: 
+Song length (min:sec): 
+Curated by:
+* Waifu Wednesdays
+References/Links:
+[1] Waifu Wednesdays (201?). “”, YouTube. (TODO)
+[2] Waifu Wednesdays! (@waifuwed) (2017 Sept 28). “New upload : Delicious Groove by @_android52!
+
+Listen now! : https://youtube.com/watch?v=-ikn-f5ZD4c”, Twitter. https://twitter.com/waifuwed/status/913456746407931905 (accessed 2023 May 29)
+Digital Tattoo
+Artist: 
+Song length (min:sec): 
+Curated by:
+* Waifu Wednesdays
+References/Links:
+[1] Waifu Wednesdays (201?). “”, YouTube. https://youtu.be/g_c49lSFUZE (TODO)
+[2] Waifu Wednesdays! (@waifuwed) (2018 Jan 19). “New upload : Digital Tattoo by LADY'S ONLY (@lady50nly)
+
+Listen now! :”, Twitter. https://twitter.com/waifuwed/status/954208112931618816 (accessed 2023 May 29)
 Don't Hide Yourself
 Artist: ayiko
+Song length (min:sec): 
+Curated by:
+* Waifu Wednesdays
 Appears in Collection:
 * [ Kawaii Future Bass Collection Vol.2 ]
 References/Links:
 [1] SoundCloud. https://soundcloud.com/real-ayiko/dont-hide-yourself (TODO)
 [2] YouTube. https://www.youtube.com/watch?v=zNe0VSnvPZU (TODO)
+[3] Waifu Wednesdays (201?). “”, YouTube. https://youtu.be/O7Z3c2e60kM (TODO)
+[4] Waifu Wednesdays! (@waifuwed) (2018 June 24). “New track : "Don't Hide Yourself" by ayiko!”, Twitter. https://twitter.com/waifuwed/status/1010930790790762496 (accessed 2023 May 29)
+Dorinku!
+Artist: 
+Song length (min:sec): 
+Curated by:
+* Waifu Wednesdays
+References/Links:
+[1] Waifu Wednesdays (201?). “”, YouTube. (TODO)
+[2] Waifu Wednesdays! (@waifuwed) (2016 Apr 06). “This weeks upload : "Dorinku" by W-FU!!!
+
+https://youtube.com/watch?v=f62nHMwST1Q
+
+We hope you enjoy (๑•̀ㅁ•́๑)✧”, Twitter. https://twitter.com/waifuwed/status/717691616010612736 (accessed 2023 May 26)
 Dreamin’ Tonight
 Artists: (TODO: check)
 * Freezer (primary artist)
 * 妃苺 (vocalist; featured artist)
+Song length (min:sec): 
+Curated by:
+* Waifu Wednesdays
 Remixes:
 * Dreamin’ Tonight (slumberless Remix)
+References/Links:
+[1] Waifu Wednesdays (201?). “”, YouTube. (TODO)
+[2] Waifu Wednesdays! (@waifuwed) (2016 Aug 24). “New upload : Dreamin' Tonight by @freezer999 (ft. @_kiichigo)!
+
+https://youtube.com/watch?v=0HAdBDr3uVg”, Twitter. https://twitter.com/waifuwed/status/768342133312884736 (accessed 2023 May 27)
 Dreamin’ Tonight (slumberless Remix)
 Remix of: Dreamin’ Tonight
 Remix Artist: slumberless
@@ -553,9 +971,92 @@ Appears in Collection:
 * [ Kawaii Future Bass Collection Vol.4 ]
 References/Links:
 [1] SoundCloud. https://soundcloud.com/slumber-less/dreamin-tonight-slumberless-remix (TODO)
+DREAMYWAVE!
+Artist: 
+Song length (min:sec): 
+Curated by:
+* Waifu Wednesdays
+References/Links:
+[1] Waifu Wednesdays (201?). “”, YouTube. (TODO)
+[2] Waifu Wednesdays! (@waifuwed) (2018 Oct 01). “🚨 NEW RELEASE 🚨
+
+"DREAMYWAVE! (from Sailor Flex! R)" by @korewakotu!
+
+Genre : Future Funk
+
+⚡️ Listen here : https://youtube.com/watch?v=qOl0Q4G19ts
+
+⚡️ Purchase on Bandcamp! : https://kotu.bandcamp.com/album/sailor-flex-r
+
+RT's appreciated 💞”, Twitter. https://twitter.com/waifuwed/status/1046629071625441280 (accessed 2023 May 29)
 Egao no Hanabata
 Redirect:
 See: えがおの花束 (song by Suzuran from Arknights)
+Escape
+Artist: 
+Song length (min:sec): 
+Curated by:
+* Waifu Wednesdays
+References/Links:
+[1] Waifu Wednesdays (201?). “”, YouTube. (TODO)
+[2] Waifu Wednesdays! (@waifuwed) (2016 June 29). “New upload : Escape by @iKaivaan feat. @hikarustation!
+
+https://youtube.com/watch?v=4CkZGcO3_18
+
+We hope you enjoy (・∀・ )v”, Twitter. https://twitter.com/waifuwed/status/748031807745064961 (accessed 2023 May 27)
+[3] Waifu Wednesdays! (@waifuwed) (2016 June 29). “This week's upload : @iKaivaan- Escape (featuring hikarustation)!
+
+https://youtube.com/watch?v=4CkZGcO3_18”, Twitter. https://twitter.com/waifuwed/status/748133887658889216 (accessed 2023 May 27)
+Eventide
+Artist: 
+Song length (min:sec): 
+Curated by:
+* Waifu Wednesdays
+References/Links:
+[1] Waifu Wednesdays (201?). “”, YouTube. (TODO)
+[2] Waifu Wednesdays! (@waifuwed) (2017 July 20). “New upload! : Eventide by @WispX 
+
+Listen now! : https://youtube.com/watch?v=4rRFHOloOg4”, Twitter. https://twitter.com/waifuwed/status/887990472156884992 (accessed 2023 May 29)
+Explosion
+Artist: tomatoism
+Label: Chunchunmaru
+Release date: 2020 Nov 27 [2]
+Song length (min:sec): 
+References/Links:
+[1] Chunchunmaru (20??). “”, SoundCloud. https://soundcloud.com/chunchunmarudesu/explosion (TODO)
+[3] Chunchunmaru (@ChunchunmaruMoe) (2020 Nov 27). “💥EXPLOSION💥
+by @tomatoism OUT NOW!
+
+Cure your ears with these magical sounds! ✨✨”, Twitter. https://twitter.com/ChunchunmaruMoe/status/1332323613148655618 (accessed 2023 May 20)
+[2] Chunchunmaru (@ChunchunmaruMoe) (2020 Nov 21). “Tomatoism - Explosion [2020/11/27]
+
+💥@tomatoism💥
+
+[Artwork by @brunadepaula004]”, Twitter. https://twitter.com/ChunchunmaruMoe/status/1330215057855229957 (accessed 2023 May 20)
+Fancy You
+Disambiguation (TODO)
+ミカヅキBIGWAVE - Fancy You
+Artist: 
+Song length (min:sec): 
+Curated by:
+* Waifu Wednesdays
+References/Links:
+[1] Waifu Wednesdays (201?). “”, YouTube. (TODO)
+[2] Waifu Wednesdays! (@waifuwed) (2017 Aug 10). “New upload : Fancy You by @mikazukiBIGWAVE!
+
+Listen now! : https://youtube.com/watch?v=nCfJfX5e_RE”, Twitter. https://twitter.com/waifuwed/status/895513395239071747 (accessed 2023 May 29)
+Fantasy
+Artist: 
+Song length (min:sec): 
+Curated by:
+* Waifu Wednesdays
+References/Links:
+[1] Waifu Wednesdays (201?). “”, YouTube. (TODO)
+[2] Waifu Wednesdays! (@waifuwed) (2016 Jan 13). “New upload : "Fantasy" by Nor (@NOR0910)!
+
+Thanks so much for 10,000+ subs! (๑•̀ㅁ•́๑)v
+
+https://youtube.com/watch?v=bD8jSZ4AiBg”, Twitter. https://twitter.com/waifuwed/status/687137829823090688 (accessed 2023 May 21)
 Favorite Place
 Artist: Kocyamarü
 Appears in collection:
@@ -576,6 +1077,18 @@ Appears in Collection:
 * [ Kawaii Future Bass Collection Vol.3 ]
 References/Links:
 [1] Bandcamp. https://omoidelabel.bandcamp.com/album/feel-my-emotions (TODO)
+Feel So Good (You Make Me)
+Artist: 
+Song length (min:sec): 
+Curated by:
+* Waifu Wednesdays
+References/Links:
+[1] Waifu Wednesdays (201?). “”, YouTube. (TODO)
+[2] Waifu Wednesdays! (@waifuwed) (2016 Sept 28). “This week's upload is a future funk track by @whysotsunalley!
+
+"Feel So Good (You Make Me)"
+
+Listen now! : https://youtube.com/watch?v=G-GTsHwJ16M”, Twitter. https://twitter.com/waifuwed/status/781041670490034176 (accessed 2023 May 28)
 First light
 Artist: Hyp3rsleep
 Appears in Collection:
@@ -597,6 +1110,56 @@ Curated by:
 References/Links:
 [1] YUUKI MUSIC (2017 May 04). “r3n - Flyleaf”, YouTube. https://www.youtube.com/watch?v=QDjyv6vjLqU (accessed 2023 Mar 21)
 [2] SoundCloud. https://soundcloud.com/r3_3_3n/fly-leaf (TODO)
+Follow Me
+Follow Me (Milkoi Remix)
+Artist: 
+Song length (min:sec): 
+Curated by:
+* Waifu Wednesdays
+References/Links:
+[1] Waifu Wednesdays (201?). “”, YouTube. https://youtu.be/hm7KuGTZaCw (TODO)
+[2] Waifu Wednesdays! (@waifuwed) (2018 Mar 14). “New upload : Follow Me (@milkoichan Remix!, orig. @imkotorimusic)!
+
+Listen now! :”, Twitter. https://twitter.com/waifuwed/status/973799096506093570 (accessed 2023 May 29)
+FRESH!!
+Artist: 
+Song length (min:sec): 
+Curated by:
+* Waifu Wednesdays
+References/Links:
+[1] Waifu Wednesdays (201?). “”, YouTube. (TODO)
+[2] Waifu Wednesdays! (@waifuwed) (2018 Mar 23). “New upload : FRESH!! by @mikazukiBIGWAVE!
+
+Listen now! : https://youtube.com/watch?v=mjkDSlIY4UU http://youtu.be/mjkDSlIY4UU?a”, Twitter. https://twitter.com/waifuwed/status/977139892332326913 (accessed 2023 May 29)
+Fubuki
+Artist: Seiun
+Label: Chunchunmaru
+Release date: 
+Song length (min:sec): 
+References/Links:
+[1] Chunchunmaru (20??). “”, SoundCloud. https://soundcloud.com/chunchunmarudesu/fubuki (TODO)
+[2] Chunchunmaru (@ChunchunmaruMoe) (2019 Jan 28). “What a way to start off Chunchunmaru 2019 with no one other than Seiun! ✨”, Twitter. https://twitter.com/ChunchunmaruMoe/status/1089936904995389440 (accessed 2023 May 20)
+Future Candy
+Future Candy (Stereoman Remix)
+Artist: 
+Song length (min:sec): 
+Curated by:
+* Waifu Wednesdays
+References/Links:
+[1] Waifu Wednesdays (201?). “”, YouTube. (TODO)
+[2] Waifu Wednesdays! (@waifuwed) (2016 Nov 30). “"Future Candy" remix by Stereoman (@2_shape)! Originally by @yuce_e
+
+Listen now! : https://youtube.com/watch?v=hteB9vJyWMg”, Twitter. https://twitter.com/waifuwed/status/803985243808133120 (accessed 2023 May 28)
+Galactic
+Artist: 
+Song length (min:sec): 
+Curated by:
+* Waifu Wednesdays
+References/Links:
+[1] Waifu Wednesdays (201?). “”, YouTube. https://youtu.be/KmTc0KZI1Ao (TODO)
+[2] Waifu Wednesdays! (@waifuwed) (2018 Feb 03). “New upload : Galactic by @imsynthion & @SefaroOfficial!
+
+Listen now! :”, Twitter. https://twitter.com/waifuwed/status/959891829553377280 (accessed 2023 May 29)
 Gemini
 Artist: tokiwa
 Appears in Collection:
@@ -604,6 +1167,36 @@ Appears in Collection:
 References/Links:
 [1] SoundCloud. https://soundcloud.com/tokiwa_anka/tokiwa-gemini (TODO)
 [2] YouTube. https://www.youtube.com/watch?v=sljyAKlVnR0 (TODO)
+Girlfriend
+Artist: 
+Song length (min:sec): 
+Curated by:
+* Waifu Wednesdays
+References/Links:
+[1] Waifu Wednesdays (201?). “”, YouTube. (TODO)
+[2] Waifu Wednesdays! (@waifuwed) (2017 Sept 22). “New upload : Girlfriend by @wearepure100 and @KOTONOHOUSE!
+
+Listen now! : https://youtube.com/watch?v=003n7DMCWZo”, Twitter. https://twitter.com/waifuwed/status/911290493220282368 (accessed 2023 May 30)
+Glitchcandy
+Artist: 
+Song length (min:sec): 
+Curated by:
+* Waifu Wednesdays
+References/Links:
+[1] Waifu Wednesdays (201?). “”, YouTube. (TODO)
+[2] Waifu Wednesdays! (@waifuwed) (2017 Aug 17). “New upload : Glitchcandy by @mem0dem0!
+
+Listen now! : https://youtube.com/watch?v=UpAK7lpy4RE”, Twitter. https://twitter.com/waifuwed/status/898129584670916608 (accessed 2023 May 30)
+Go On
+Artist: 
+Song length (min:sec): 
+Curated by:
+* Waifu Wednesdays
+References/Links:
+[1] Waifu Wednesdays (201?). “”, YouTube. https://youtu.be/mlQYrWPzAnw (TODO)
+[2] Waifu Wednesdays! (@waifuwed) (2018 Jan 31). “New upload : Go On [Black Cat] by @nyankobrq!
+
+Listen now! :”, Twitter. https://twitter.com/waifuwed/status/958565585738182657 (accessed 2023 May 29)
 Good Day Sunshine
 Artist: nyankobrq
 Genre: Future Bass [1][2], Trap [2], Jersey Club [2]
@@ -623,6 +1216,56 @@ References/Links:
 [1] Firefly Music (2019 June 25). “SoLush - Good Morning”, YouTube. https://www.youtube.com/watch?v=iJn7t8texrA (accessed 2023 Mar 11)
 [2] SoLush (2019 June 22). “Good Morning”, SoundCloud. https://soundcloud.com/iamsolush/solush-good-morning (accessed 2023 Mar 11)
 [3] Spotify. https://open.spotify.com/track/6j0eW2tn4PW6IAbDdrL57F (TODO)
+Good Night
+Artists: (TODO)
+* Colate
+* Nanahira
+Remixes:
+* Good Night (Aiobahn Remix)
+Good Night (Aiobahn Remix)
+Remix of: Good Night
+Remix Artist: Aiobahn
+Genre: Electrohouse [2]
+Curated by:
+* Waifu Wednesdays
+References/Links:
+[1] YouTube. https://www.youtube.com/watch?v=xzf9sGhfBKs (dead link, last checked 2023 May 20)
+[2] Waifu Wednesdays! (@waifuwed) (2015 Sept 16). “New upload featuring the very talented @Aiobahn! (´・ω・｀) #electrohouse
+
+https://youtube.com/watch?v=xzf9sGhfBKs”, Twitter. https://twitter.com/waifuwed/status/644190937896329217 (accessed 2023 May 20)
+Good Night (happy machine Remix)
+Artist: 
+Song length (min:sec): 
+Curated by:
+* Waifu Wednesdays
+References/Links:
+[1] Waifu Wednesdays (201?). “”, YouTube. (TODO)
+[2] Waifu Wednesdays! (@waifuwed) (2015 Dec 30). “New upload : Good Night (Remix) featuring @happy_machine!
+
+We hope you enjoy!
+(｢・ω・)｢エィー
+
+https://youtube.com/watch?v=6fELUnVTYm8”, Twitter. https://twitter.com/waifuwed/status/682074563908222976 (accessed 2023 May 21)
+Grape Soda
+Grape Soda (VIP)
+Artist: 
+Song length (min:sec): 
+Curated by:
+* Waifu Wednesdays
+References/Links:
+[1] SoundCloud. https://soundcloud.com/ujico/grapesodavip (TODO)
+[2] Waifu Wednesdays! (@waifuwed) (2016 June 07). “Grape Soda VIP is a lovely spin on the already awesome Grape Soda by Ujico*/Snail's House!
+
+https://soundcloud.com/ujico/grapesodavip”, Twitter. https://twitter.com/waifuwed/status/740181682989322241 (accessed 2023 May 27)
+[3] Waifu Wednesdays (201?). “”, YouTube. (TODO)
+[4] Waifu Wednesdays! (@waifuwed) (2016 Aug 17). “New upload : Grape Soda (VIP) by @loudnessfete aka Snail's House!
+
+https://youtube.com/watch?v=-h8vIquUK1c
+
+Have an great Wednesday!”, Twitter. https://twitter.com/waifuwed/status/765805592598421504 (accessed 2023 May 27)
+[5] Waifu Wednesdays! (@waifuwed) (2016 Aug 17). “This week's song is Grape Soda (VIP) by @loudnessfete!
+
+Listen now! : https://youtube.com/watch?v=-h8vIquUK1c”, Twitter. https://twitter.com/waifuwed/status/766058734527377408 (accessed 2023 May 27)
 Green Tea
 Artists:
 * Project Skylate (primary artist)
@@ -631,10 +1274,32 @@ Appears in Collection:
 * [ Kawaii Future Bass Collection Vol.4 ]
 References/Links:
 [1] SoundCloud. https://soundcloud.com/projectskylateofficial/green-tea-ft-lyrit (TODO)
+Groovematsu
+Artist: 
+Song length (min:sec): 
+Curated by:
+* Waifu Wednesdays
+References/Links:
+[1] Waifu Wednesdays (201?). “”, YouTube. (TODO)
+[2] Waifu Wednesdays! (@waifuwed) (2018 Mar 31). “New upload : Groovematsu by @_android52
+
+Listen now! : https://youtube.com/watch?v=eaDIi50qbGw”, Twitter. https://twitter.com/waifuwed/status/980037353493483520 (accessed 2023 May 29)
 Hajimeru
 Redirect:
 See: 始める (song by Moe Loli)
 Hanabi
+Disambiguation (TODO)
+Akiba - Hanabi
+Artist: 
+Song length (min:sec): 
+Curated by:
+* Waifu Wednesdays
+References/Links:
+[1] Waifu Wednesdays (201?). “”, YouTube. (TODO)
+[2] Waifu Wednesdays! (@waifuwed) (2017 Aug 26). “New upload : Akiba - Hanabi!
+
+Listen now! : https://youtube.com/watch?v=FfY97Sl1hAk”, Twitter. https://twitter.com/waifuwed/status/901239417754370049 (accessed 2023 May 29)
+osirasekita - Hanabi
 Remix of: 打上花火
 Remix Artist: osirasekita
 Part of Album:
@@ -691,6 +1356,18 @@ References/Links:
 [1] Mameyudoufu (2017 Dec 25). “[FREE DL] NYOKI - Hangout (Mameyudoufu Remix)”, SoundCloud. https://soundcloud.com/mameyudoufu/nyokitaro-hangout-mameyudoufu-remix (accessed 2023 Mar 30)
 [2] Dayrin (2018 Apr 29). “NYOKI - Hangout (Mameyudoufu Remix)”, YouTube. https://www.youtube.com/watch?v=PIlBz1iNQqE (accessed 2023 Mar 30)
 [3] The Artist Union. https://theartistunion.com/tracks/169658 (dead link, last checked 2023 Mar 30) (TODO: check internet archive)
+hatsuneflight
+Artist: 
+Song length (min:sec): 
+Curated by:
+* Waifu Wednesdays
+References/Links:
+[1] Waifu Wednesdays (201?). “”, YouTube. (TODO)
+[2] Waifu Wednesdays! (@waifuwed) (2016 Apr 27). “This week's upload is "hatsuneflight" by @omoshiroebi!
+
+https://youtube.com/watch?v=i9acjK8HXkI
+
+We hope you enjoy (๑•̀ㅁ•́๑)✧”, Twitter. https://twitter.com/waifuwed/status/725250505702658048 (accessed 2023 May 26)
 Henshin
 Artist: Kimii
 Appears in Collection:
@@ -698,6 +1375,17 @@ Appears in Collection:
 References/Links:
 [1] SoundCloud. https://soundcloud.com/kimiidesu/henshin (TODO)
 [2] YouTube. https://www.youtube.com/watch?v=H0h2hdEBlNY (TODO)
+Highlight
+Artist: 
+Song length (min:sec): 
+Curated by:
+* Waifu Wednesdays
+References/Links:
+[1] Waifu Wednesdays (201?). “”, YouTube. (TODO)
+[2] Waifu Wednesdays! (@waifuwed) (2017 Feb 01). “✨New upload : "Highlight"✨
+by Moe Shop (@korewamoe)!
+
+Listen now! : https://youtube.com/watch?v=W-9tsKM_ZyE”, Twitter. https://twitter.com/waifuwed/status/826772890322362368 (accessed 2023 May 28)
 Hirune
 Artist: B3LLA
 Appears in Collection:
@@ -738,6 +1426,37 @@ References/Links:
 [2] Spotify. https://open.spotify.com/track/4mCwspCTPF1aoWUNxsS5aD (TODO)
 [3] Ujico*/Snail's House (2016 Nov 17). “hot milk”, Bandcamp. https://0101.bandcamp.com/track/hot-milk (accessed 2023 Apr 05)
 [4] “Thicc Omni-Man”, Know Your Meme. https://knowyourmeme.com/memes/thicc-omni-man (accessed 2023 Apr 05)
+I Love You
+Other Names:
+* ι ♥ υ (SoundCloud, last checked 2023 May 20)
+Artist: Discandy
+Song length (min:sec): 02:08 [1][3]
+Curated by:
+* Waifu Wednesdays
+Notes:
+* Uses sampled audio from Chobits [1][4]
+References/Links:
+[1] Waifu Wednesdays (2015 Sept 07). “Discandy - I Love You”, YouTube. https://www.youtube.com/watch?v=OH7sy896QFk (accessed 2023 May 08)
+[4] Waifu Wednesdays! (@waifuwed) (2015 Sept 07). “New upload featuring a Chobits theme flip, via @TheRawestOtaku! Take a listen B)”, Twitter. https://twitter.com/waifuwed/status/640935597889163264 (accessed 2023 May 20)
+[2] https://click.dj/shou/loveyou (TODO)
+[3] Discandy (2015 Feb 16). “ι ♥ υ”, SoundCloud. https://soundcloud.com/discandy/loveyou (last checked 2023 May 20)
+i secretly love u
+Artist: 
+Song length (min:sec): 
+Curated by:
+* Waifu Wednesdays
+References/Links:
+[1] Waifu Wednesdays (201?). “”, YouTube. (TODO)
+[2] Waifu Wednesdays! (@waifuwed) (2016 Oct 12). “New upload : Snail's House (@loudnessfete) - "i secretly love u" off his new EP "Love Story"!
+
+Listen Now! : https://youtube.com/watch?v=zYrxsYsLE-0”, Twitter. https://twitter.com/waifuwed/status/786072774917910528 (accessed 2023 May 28)
+Ice soda
+Artist: Shiroi-Ice
+Song length (min:sec): 04:33 [1]
+Part of Album:
+* Shiroi-Ice's Selfreleased Collections Vol.1
+References/Links:
+[1] Shiroi-Ice - Topic (2023 Apr 30). “Ice soda”, YouTube. https://www.youtube.com/watch?v=JnhVi9TeBak (accessed 2023 May 17)
 Intergalactic Space Rave
 Artist: Jonty Kennedy
 Genre: Drum & Bass [1]
@@ -747,6 +1466,16 @@ Curated by:
 References/Links:
 [1] Firefly Music (2017 Aug 27). “Jonty Kennedy - Intergalactic Space Rave”, YouTube. https://www.youtube.com/watch?v=d1UwmgOL2-c (accessed 2023 Apr 14)
 [2] SoundCloud. https://soundcloud.com/jonty-kennedy/intergalactic-space-rave (dead link, last checked 2023 Apr 14)
+Interspace Love Message
+Artist: 
+Song length (min:sec): 
+Curated by:
+* Waifu Wednesdays
+References/Links:
+[1] Waifu Wednesdays (201?). “”, YouTube. (TODO)
+[2] Waifu Wednesdays! (@waifuwed) (2017 July 23). “New upload! : Interspace Love Message by @poplavor_ and @OMFGSTEPIC!
+
+Listen now! : https://youtube.com/watch?v=fcI-7rUumqg”, Twitter. https://twitter.com/waifuwed/status/888982488642703362 (accessed 2023 May 29)
 INTERNET OVERDOSE
 Artists:
 * Aiobahn (composer [1], arranger [1], primary artist)
@@ -772,6 +1501,14 @@ Artist: Syui
 Appears in collection:
 * [神曲] Kawaii EDMオススメ10曲 [まとめ]
 Links: YouTube: https://www.youtube.com/watch?v=VMZ5udnrOvU (TODO)
+Islands
+Artist: 
+Song length (min:sec): 
+Curated by:
+* Waifu Wednesdays
+References/Links:
+[1] Waifu Wednesdays (201?). “”, YouTube. (TODO)
+[2] Waifu Wednesdays! (@waifuwed) (2018 Mar 30). “Aiobahn - Islands [Future House]: http://youtu.be/Fhpr7pw3gDk?a via @YouTube”, Twitter. https://twitter.com/waifuwed/status/979674944807239680 (accessed 2023 May 30)
 Jellyfish
 Redirect:
 See: ジェリーフィッシュ (song by Yunomi; ローラーガール)
@@ -791,6 +1528,16 @@ Appears in Collection:
 References/Links:
 [1] SoundCloud. https://soundcloud.com/zinniemusic/zinnie-kawaii-wave (TODO)
 [2] YouTube. https://www.youtube.com/watch?v=SydGuQ1vlyw (TODO)
+Kawaii魔法を
+Artist: 
+Song length (min:sec): 
+Curated by:
+* Waifu Wednesdays
+References/Links:
+[1] Waifu Wednesdays (201?). “”, YouTube. (TODO)
+[2] Waifu Wednesdays! (@waifuwed) (2017 Sept 23). “New upload! : Kawaii魔法を by @mikazukiBIGWAVE!
+
+Listen now! : https://youtu.be/O54H5byBnHA”, Twitter. https://twitter.com/waifuwed/status/911676432618733569 (accessed 2023 May 29)
 Keep It Kawaii
 Artist: NaNa
 Appears in collection:
@@ -813,6 +1560,24 @@ References/Links:
 [1] Aviencloud (2016 July 14). “Mihka! X Kyoto Black – Kodokushi (孤独死)”, YouTube. https://www.youtube.com/watch?v=4A4ZiZwPejY (accessed 2023 Apr 08)
 [2] Mihka! (2016 July 12). “Mihka! x Kyoto Black - Kodokushi (孤独死)”, SoundCloud. https://soundcloud.com/mihkamusic/mihka-x-the-end-kodokushi-1 (accessed 2023 Apr 08)
 [3] Hypeddit. https://hypeddit.com/track/sc/dYL2lvejXFFYFqAsfwWr (TODO)
+Kodokushi VIP
+Artist: 
+Song length (min:sec): 
+Curated by:
+* Waifu Wednesdays
+References/Links:
+[1] Waifu Wednesdays (201?). “”, YouTube. https://youtu.be/nJa_tizmUHI (TODO)
+[2] Waifu Wednesdays! (@waifuwed) (2018 Mar 26). “New upload : Kodokushi VIP by @MihkaMusic and @Kyoto_Black!”, Twitter. https://twitter.com/waifuwed/status/978226266770849793 (accessed 2023 May 29)
+Leaf
+Artist: 
+Song length (min:sec): 
+Curated by:
+* Waifu Wednesdays
+References/Links:
+[1] Waifu Wednesdays (201?). “”, YouTube. (TODO)
+[2] Waifu Wednesdays! (@waifuwed) (2017 Aug 04). “New upload : Leaf by @WispX!
+
+Listen Now! : https://youtube.com/watch?v=noYRTNSKVkI”, Twitter. https://twitter.com/waifuwed/status/893541158189715460 (accessed 2023 May 30)
 Let's go boogie
 Artist: KOTONOHOUSE
 Genre: Future Bass [1][2]
@@ -823,11 +1588,13 @@ Curated by:
 * Waifu Wednesdays [1][5] (removed) 
 References/Links:
 [1] Waifu Wednesdays (unknown date). “KOTONOHOUSE - Let's go boogie [Future Bass]”, YouTube. https://www.youtube.com/watch?v=Hrzj0N25jbk (dead link, last checked 2023 Apr 05)
+[5] ことのは🏡 (@KOTONOHOUSE) (2018 Mar 28). “KOTONOHOUSE - Let's go boogie [Future Bass]
+
+waifu wednesdaysによるプロモーションです！wave racerとか3年前のあの頃の感じのフューチャーベースです、聴いてね https://youtube.com/watch?v=Hrzj0N25jbk&feature=share”, Twitter. https://twitter.com/KOTONOHOUSE/status/979038998923378689 (accessed 2023 Apr 05)
 [2] Mizu Yuki (2019 Jan 15). “KOTONOHOUSE - Let's go boogie [Reupload]”, YouTube. https://www.youtube.com/watch?v=k3bV0UHBLGk (accessed 2023 Apr 05)
 [3] ToneDen (Unofficial). https://www.toneden.io/kavalry/post/kotonohouse-let-s-go-boogie (TODO)
-[4] ことのは🏡 (@KOTONOHOUSE) (2017 Aug 24). Twitter. https://twitter.com/KOTONOHOUSE/status/900721478198480897 (accessed 2023 Apr 05)
-[5] ことのは🏡 (@KOTONOHOUSE) (2018 Mar 28). Twitter. https://twitter.com/KOTONOHOUSE/status/979038998923378689 (accessed 2023 Apr 05)
 [6] “Let's go boogie / KOTONOHOUSE【 #commune310 Suika 】”, SoundCloud. https://soundcloud.com/dada-qada/lets-go-boogie-kotonohouse-commune310-suika (dead link, last checked 2023 Apr 05)
+[4] ことのは🏡 (@KOTONOHOUSE) (2017 Aug 24). “Have you heard ‘Let's go boogie / KOTONOHOUSE【 #commune310 Suika 】’ by @kotonohouse on #SoundCloud? #np https://soundcloud.com/dada-qada/lets-go-boogie-kotonohouse-commune310-suika?utm_source=soundcloud&utm_campaign=share&utm_medium=twitter”, Twitter. https://twitter.com/KOTONOHOUSE/status/900721478198480897 (accessed 2023 Apr 05)
 [7] commune310 (2017 Aug 26). “KOTONOHOUSE - let's go boogie”, Bandcamp. https://commune310.bandcamp.com/track/lets-go-boogie (accessed 2023 Apr 05)
 Light The Way!
 Artists:
@@ -839,6 +1606,26 @@ Appears in collection:
 References/Links:
 [1] “Aika x Trifect - Light The Way!”, SoundCloud. https://soundcloud.com/i-am-aika/aika-x-trifect-light-the-way (TODO)
 [2] YouTube. https://www.youtube.com/watch?v=GxK4LpMLsAE (TODO)
+Like You!
+Artist: 
+Song length (min:sec): 
+Curated by:
+* Waifu Wednesdays
+References/Links:
+[1] Waifu Wednesdays (201?). “”, YouTube. (TODO)
+[2] Waifu Wednesdays! (@waifuwed) (2018 Oct 06). “🚨 NEW UPLOAD 🚨
+
+Like You! by fusq
+
+Genre : Electronic
+
+👉 @fusqmusic
+
+⚡️ Listen here : https://youtube.com/watch?v=WK1fsTQFtoM
+
+⚡️ Support fusq! Purchase their song on Bandcamp! : https://fusq.bandcamp.com/track/like-you
+
+RT's appreciated 💞”, Twitter. https://twitter.com/waifuwed/status/1048498469227229184 (accessed 2023 May 29)
 LiLac Box
 Artist: Ancraft
 Genre: Future Bass [1]
@@ -848,6 +1635,62 @@ Curated by:
 References/Links:
 [1] Firefly Music (2017 Mar 12). “【Future Bass】Ancraft - LiLac Box || ♫♫♫”, YouTube. https://www.youtube.com/watch?v=qtr5Ga661c8 (accessed 2023 Mar 11)
 [2] SoundCloud. https://soundcloud.com/ancraft/lilac-box (dead link, last checked 2023 Mar 11)
+Longin' 4 U
+Artist: 
+Song length (min:sec): 
+Curated by:
+* Waifu Wednesdays
+References/Links:
+[1] Waifu Wednesdays (201?). “”, YouTube. (TODO)
+[2] Waifu Wednesdays! (@waifuwed) (2016 Jun 01). “New upload : "Longin' 4 U" by @_JunKuroda! We hope you enjoy (｢・ω・)｢
+
+https://youtube.com/watch?v=dD8fE3r5hfg”, Twitter. https://twitter.com/waifuwed/status/737993293460426757 (accessed 2023 May 27)
+lots of love
+Artist: 
+Song length (min:sec): 
+Curated by:
+* Waifu Wednesdays
+References/Links:
+[1] Waifu Wednesdays (201?). “”, YouTube. (TODO)
+[2] Waifu Wednesdays! (@waifuwed) (2017 Aug 11). “New upload : lots of love by @KOTONOHOUSE (feat. kotono)!
+
+Listen now! : https://youtube.com/watch?v=tWJIuj-zMeA”, Twitter. https://twitter.com/waifuwed/status/896140721370963968 (accessed 2023 May 29)
+Love Taste
+Artist: 
+Song length (min:sec): 
+Curated by:
+* Waifu Wednesdays
+References/Links:
+[1] SoundCloud. https://soundcloud.com/moeshop/love-taste (TODO)
+[2] Waifu Wednesdays! (@waifuwed) (2016 May 23). “New Moe Shop! "Love Taste (w/ Jamie Paige & Shiki)"
+
+The perfect mix of groove & siscon-rap
+
+https://soundcloud.com/moeshop/love-taste”, Twitter. https://twitter.com/waifuwed/status/734538171078348800 (accessed 2023 May 27)
+[3] Waifu Wednesdays (201?). “”, YouTube. (TODO)
+[4] Waifu Wednesdays! (@waifuwed) (2016 July 13). “New upload : Love Taste by Moe Shop (@korewamoe) ft. @jmpgi, @OutcastOtaku, & @meltysundae!
+
+https://youtube.com/watch?v=pJTmt83Njuk”, Twitter. https://twitter.com/waifuwed/status/753095212948459520 (accessed 2023 May 27)
+Love Ya
+Artist: 
+Song length (min:sec): 
+Curated by:
+* Waifu Wednesdays
+References/Links:
+[1] Waifu Wednesdays (201?). “”, YouTube. (TODO)
+[2] Waifu Wednesdays! (@waifuwed) (2017 Apr 12). “New upload : Love Ya by @wearepure100!
+
+Listen now! : https://youtube.com/watch?v=sJx3OExybGM”, Twitter. https://twitter.com/waifuwed/status/852031018945060865 (accessed 2023 May 29)
+Love10
+Artist: 
+Song length (min:sec): 
+Curated by:
+* Waifu Wednesdays
+References/Links:
+[1] Waifu Wednesdays (201?). “”, YouTube. (TODO)
+[2] Waifu Wednesdays! (@waifuwed) (2016 June 22). “New upload : "Love10" by まさらP/masara (@wishimblack)!
+
+Listen now! : https://youtube.com/watch?v=jP1kz8aPywA”, Twitter. https://twitter.com/waifuwed/status/745466960842915841 (accessed 2023 May 27)
 Lovelock
 Artist: Kagi
 Appears in collection:
@@ -876,22 +1719,75 @@ Curated by:
 References/Links:
 [1] Firefly Music (2017 Jan 26). “【Electro House】LOIS (ㆁvㆁ) - Macaron || ♫♫♫”, YouTube. https://www.youtube.com/watch?v=JLuRnDfjwtk (accessed 2023 Apr 02)
 [2] SoundCloud. https://soundcloud.com/lois1104/lois-macaron (TODO)
+macaron moon
+Artist: 
+Song length (min:sec): 
+Curated by:
+* Waifu Wednesdays
+References/Links:
+[1] Waifu Wednesdays (201?). “”, YouTube. (TODO)
+[2] Waifu Wednesdays! (@waifuwed) (2017 May 24). “New upload : "macaron moon" by @yuce_e!
+
+Listen now! : https://youtube.com/watch?v=Mhqn61HrLxM”, Twitter. https://twitter.com/waifuwed/status/867318042895597569 (accessed 2023 May 29)
+macaron moon (Snail's House Remix)
+Artist: 
+Song length (min:sec): 
+Curated by:
+* Waifu Wednesdays
+References/Links:
+[1] Waifu Wednesdays (201?). “”, YouTube. (TODO)
+[2] Waifu Wednesdays! (@waifuwed) (2017 Sept 18). “New upload : macaron moon remix by @loudnessfete (orig. by @yuce_e)
+
+Listen now! : https://youtube.com/watch?v=iFlKDCjxR-I”, Twitter. https://twitter.com/waifuwed/status/909827688499576832 (accessed 2023 May 30)
 main heroine
 Artist: cute girls doing cute things
+Song length (min:sec): 
+Curated by:
+* Waifu Wednesdays
 Appears in Collection:
 * [ Kawaii Future Bass Collection Vol.3 ]
 References/Links:
 [1] SoundCloud. https://soundcloud.com/cutegirlsdoingcutethings/main-heroine (TODO)
 [2] YouTube. https://www.youtube.com/watch?v=0SsAQ5ukjvg (TODO)
+[3] Waifu Wednesdays (201?). “”, YouTube. https://youtu.be/uW27-P5k88c (TODO)
+[4] Waifu Wednesdays! (@waifuwed) (2018 June 27). “New track : main heroine by "cute girls doing cute things"”, Twitter. https://twitter.com/waifuwed/status/1012018037879341056 (accessed 2023 May 29)
+Make Up!
+Artist: 
+Song length (min:sec): 
+Curated by:
+* Waifu Wednesdays
+References/Links:
+[1] Waifu Wednesdays (201?). “”, YouTube. (TODO)
+[2] Waifu Wednesdays! (@waifuwed) (2018 Apr 05). “kotu - Make Up! [Future Funk]: http://youtu.be/IKtH_FWNWHY?a via @YouTube”, Twitter. https://twitter.com/waifuwed/status/981849094107881473 (accessed 2023 May 30)
 Makuramoto ni Ghost
 Redirect:
 See: 枕元にゴースト (song by Aiobahn; Yunomi; nicamoq)
+mango sago
+Artist: 
+Song length (min:sec): 
+Curated by:
+* Waifu Wednesdays
+References/Links:
+[1] Waifu Wednesdays (201?). “”, YouTube. https://youtu.be/FyCEYu6kVjE (TODO)
+[2] Waifu Wednesdays! (@waifuwed) (2018 Feb 22). “New upload : mango sago by @kiraku_synthboy!
+
+Listen now! :”, Twitter. https://twitter.com/waifuwed/status/966640785843150848 (accessed 2023 May 29)
 Marmalade
 Artist: Systile
 Appears in Collection:
 * [ Kawaii Future Bass Collection Vol.4 ]
 References/Links:
 [1] SoundCloud. https://soundcloud.com/gd-creatorsysl/marmalade (TODO)
+Mashiro
+Artist: 
+Song length (min:sec): 
+Curated by:
+* Waifu Wednesdays
+References/Links:
+[1] Waifu Wednesdays (201?). “”, YouTube. (TODO)
+[2] Waifu Wednesdays! (@waifuwed) (2017 July 21). “New upload! : Mashiro by @Voltz7788!
+
+Listen now! : https://youtube.com/watch?v=cwYcq7kDJP0”, Twitter. https://twitter.com/waifuwed/status/888343103807139840 (accessed 2023 May 30)
 me & u
 Disambiguation:
 “me & u” may refer to:
@@ -950,6 +1846,18 @@ Appears in Collection:
 References/Links:
 [1] “Meanwhile (w/ Club2Tokyo)”, SoundCloud. https://soundcloud.com/lewisdubmusic/meanwhile (TODO)
 [2] YouTube. https://www.youtube.com/watch?v=_xsACRBDGYI (TODO)
+Megu
+Artists:
+* cute girls doing cute things (primary artist)
+* Seiun (featured artist)
+Label: Chunchunmaru
+Release date: 2017 Oct 30 [1][2]
+Song length (min:sec): 02:50 [1]
+References/Links:
+[1] Chunchunmaru (20??). “cute girls doing cute things - Megu (feat. Seiun)”, SoundCloud. https://soundcloud.com/chunchunmarudesu/megu (TODO)
+[2] Chunchunmaru (@ChunchunmaruMoe) (2017 Oct 30). “NEW RELEASE!
+https://soundcloud.com/chunchunmarudesu/megu”, Twitter. https://twitter.com/ChunchunmaruMoe/status/924994790550368257 (accessed 2023 May 20)
+[3] https://chunchunmaru.fanlink.to/megu (TODO)
 Melting Emotion
 Artist: Kazmasa
 Appears in Collection:
@@ -957,6 +1865,32 @@ Appears in Collection:
 References/Links:
 [1] “Melting Emotion / Kazmasa【F/C commune310 summer 2018】”, SoundCloud. https://soundcloud.com/k55tea/melting-emotion-kazmasafc-commune310-summer-2018 (TODO)
 [2] YouTube. https://www.youtube.com/watch?v=EXCz5jvJA6A (TODO)
+Memories
+Artist: 
+Song length (min:sec): 
+Curated by:
+* Waifu Wednesdays
+References/Links:
+[1] Waifu Wednesdays (201?). “”, YouTube. (TODO)
+[2] Waifu Wednesdays! (@waifuwed) (2016 July 20). “New upload : Memories by @nyankobrq
+
+https://youtu.be/YCO6oQlnygk
+
+Have an awesome Wednesday!
+（ ・∀・）v”, Twitter. https://twitter.com/waifuwed/status/755667906977992704 (accessed 2023 May 27)
+[3] Waifu Wednesdays! (@waifuwed) (2016 July 20). “"Memories" by @nyankobrq!
+
+Watch now! : https://youtu.be/YCO6oQlnygk”, Twitter. https://twitter.com/waifuwed/status/755672255162646528 (accessed 2023 May 27)
+Mermaid Princess
+Artist: 
+Song length (min:sec): 
+Curated by:
+* Waifu Wednesdays
+References/Links:
+[1] Waifu Wednesdays (201?). “”, YouTube. https://youtu.be/WxawMlTJbVg (TODO)
+[2] Waifu Wednesdays! (@waifuwed) (2018 Feb 27). “New upload! : Mermaid Princess by @nanobii!
+
+Listen now! :”, Twitter. https://twitter.com/waifuwed/status/968613456583704576 (accessed 2023 May 29)
 Metsuki
 Artist: Kimii
 Appears in Collection:
@@ -977,6 +1911,11 @@ References/Links:
 Midnight on Summer
 Redirect:
 See: 夏の真夜中 (song by Aiobahn; アンテナガール)
+Midnight Sea
+Artist: Pure Gem
+Label: Chunchunmaru
+References/Links:
+[1] SoundCloud. https://soundcloud.com/puree-gem/midnight-sea (TODO)
 MILK & COOKIE
 Artist: COSMICOSMO
 Appears in collection:
@@ -984,11 +1923,73 @@ Appears in collection:
 References/Links:
 [1] SoundCloud. https://soundcloud.com/hyperpopcollective/milk-cookie-cosmicosmo (dead link, last checked 2023 Mar 19) “COSMICOSMO - MILK & COOKIE” (TODO: find new)
 [2] YouTube. https://www.youtube.com/watch?v=yaODSTfK-DE (TODO)
+Milkshakes and Chill
+Artist: 
+Song length (min:sec): 
+Curated by:
+* Waifu Wednesdays
+References/Links:
+[1] Waifu Wednesdays (201?). “”, YouTube. (TODO)
+[2] Waifu Wednesdays! (@waifuwed) (2016 Mar 02). “New upload featuring Koinu (@imkoinu) aka Varien.
+
+We hope you enjoy!
+
+https://youtube.com/watch?v=JGtkd85BmeY”, Twitter. https://twitter.com/waifuwed/status/704977717788352516 (accessed 2023 May 21)
+Mille Feuille
+Artist:
+* Stepic (primary artist)
+* AYA (featured artist)
+Notes:
+* Korean vocals
+Remixes:
+* Mille Feuille (Omoshiroebi Remix)
+References/Links:
+[1] SoundCloud. https://soundcloud.com/omfgstepic/stepic-mille-feuille (TODO)
+Mille Feuille (Omoshiroebi Remix)
+Remix of: Mille Feuille
+Remix Artist: Omoshiroebi
+Song length (min:sec): 02:48 [1][2]
+Curated by:
+* Waifu Wednesdays
+References/Links:
+[1] Waifu Wednesdays (2015 Oct 21). “Omoshiroebi - Mille Feuille (Orig. Stepic)”, YouTube. https://www.youtube.com/watch?v=UPh2GJUS-7Q (accessed 2023 May 17)
+[3] Waifu Wednesdays! (@waifuwed) (2015 Oct 21). “New upload "Mille Feuille Remix" by Omoshiroebi! Hope you enjoy! http://youtu.be/UPh2GJUS-7Q?a”, Twitter. https://twitter.com/waifuwed/status/656966850866089984 (accessed 2023 May 20)
+[2] SoundCloud. https://soundcloud.com/synthikate/stepic-mille-feuille-ft-aya-omoshiroebi-remix (TODO)
+Mirror
+Artist: 
+Song length (min:sec): 
+Curated by:
+* Waifu Wednesdays
+References/Links:
+[1] Waifu Wednesdays (201?). “”, YouTube. (TODO)
+[2] Waifu Wednesdays! (@waifuwed) (2018 Apr 04). “New upload : Mirror by @honeycomebear! Listen now! http://youtu.be/8Kw5HUVh_lY?a”, Twitter. https://twitter.com/waifuwed/status/981486681994952705 (accessed 2023 May 29)
 Miss You
 Artist: PIKASONIC
 Appears in collection:
 * [神曲] Kawaii EDMオススメ10曲 [まとめ]
 Links: YouTube: https://www.youtube.com/watch?v=bZzD5WiGlzc (dead link, last checked 2023 Mar 05)
+Mizuiro
+Artist: 
+Song length (min:sec): 
+Curated by:
+* Waifu Wednesdays
+References/Links:
+[1] Waifu Wednesdays (201?). “”, YouTube. (TODO)
+[2] Waifu Wednesdays! (@waifuwed) (2016 Mar 09). “New upload : "Mizuiro" by Zekk (@zekkofficial)
+
+We hope you enjoy (´・ω・｀)
+
+https://youtube.com/watch?v=8nX5kFJ6vio”, Twitter. https://twitter.com/waifuwed/status/707431120648929280 (accessed 2023 May 21)
+Mizutama
+Artist: 
+Song length (min:sec): 
+Curated by:
+* Waifu Wednesdays
+References/Links:
+[1] Waifu Wednesdays (201?). “”, YouTube. (TODO)
+[2] Waifu Wednesdays! (@waifuwed) (2017 Sept 24). “New upload : Mizutama by @yuce_e + @NOR0910!
+
+Listen now! : https://youtube.com/watch?v=NTSz_m6X3o8”, Twitter. https://twitter.com/waifuwed/status/912039317459001344 (accessed 2023 May 29)
 Mocha
 Artist: Hyp3rsleep
 Appears in collection:
@@ -996,13 +1997,63 @@ Appears in collection:
 References/Links:
 [1] SoundCloud. https://soundcloud.com/hyp3rsleep/mocha-buy-free-download (TODO)
 [2] YouTube. https://www.youtube.com/watch?v=dJDtxOhr_So (TODO)
+Moe Moe Space Adventure
+Artist: 
+Song length (min:sec): 
+Curated by:
+* Waifu Wednesdays
+References/Links:
+[1] Waifu Wednesdays (201?). “”, YouTube. https://youtu.be/dXodViGW8c8 (TODO)
+[2] Waifu Wednesdays! (@waifuwed) (2018 Jan 18). “New upload : Moe Moe Space Adventure by @romtimney!
+
+Listen now! :”, Twitter. https://twitter.com/waifuwed/status/953809398073237504 (accessed 2023 May 29)
+Moestep
+Other Names:
+* <3 (TODO: should this be used as the official name?)
+* Heart
+Artist: Moe Shop
+Song length (min:sec): 01:43 [1]
+Curated by:
+* Waifu Wednesdays
+References/Links:
+[1] Waifu Wednesdays (2015 Sept 01). “Moe Shop - Moestep”, YouTube. https://www.youtube.com/watch?v=aAmik_WKAZw (accessed 2023 May 08)
+[2] SoundCloud. https://soundcloud.com/moeshop/heart (TODO)
+MYC
+Artist: 
+Song length (min:sec): 
+Curated by:
+* Waifu Wednesdays
+References/Links:
+[1] Waifu Wednesdays (201?). “”, YouTube. (TODO)
+[2] Waifu Wednesdays! (@waifuwed) (2017 Aug 06). “New upload : MYC by greyl!
+
+Listen now! : https://youtube.com/watch?v=MQaOsUgoKlo”, Twitter. https://twitter.com/waifuwed/status/894264993327325188 (accessed 2023 May 29)
 Myself
 Artist: PIKASONIC
+Song length (min:sec): 
+Curated by:
+* Waifu Wednesdays
 Appears in collection:
 * [ Kawaii Future Bass Collection ]
 References/Links:
 [1] SoundCloud. https://soundcloud.com/pika5onic/myself-original-mix (TODO)
 [2] YouTube. https://www.youtube.com/watch?v=Q1wqaNFDII0 (TODO)
+[3] Waifu Wednesdays (201?). “”, YouTube. https://youtu.be/de9Bi3IVLE8 (TODO)
+[4] Waifu Wednesdays! (@waifuwed) (2018 Jan 21). “New upload : Myself by PIKASONIC!
+
+Listen now! :”, Twitter. https://twitter.com/waifuwed/status/955150654665719808 (accessed 2023 May 29)
+Mystic Girl
+Artist: 
+Song length (min:sec): 
+Curated by:
+* Waifu Wednesdays
+References/Links:
+[1] Waifu Wednesdays (201?). “”, YouTube. (TODO)
+[2] Waifu Wednesdays! (@waifuwed) (2016 Apr 13). “New upload : Mystic Girl by Ujico*/Snail's House (@loudnessfete)
+
+We hope you enjoy!
+
+https://youtube.com/watch?v=BxIeP0SEkQo”, Twitter. https://twitter.com/waifuwed/status/720241655190839296 (accessed 2023 May 26)
 Nagame
 Artist: B3LLA
 Appears in Collection:
@@ -1031,6 +2082,35 @@ Appears in collection:
 References/Links:
 [1] “KODOMOi - New Day”, SoundCloud. https://soundcloud.com/kodomoimusic/kodomoi-new-day (TODO)
 [2] YouTube. https://www.youtube.com/watch?v=ElI-axLJ0O4 (TODO)
+the new flying witch groove
+References/Links:
+[1] SoundCloud. https://soundcloud.com/moeshop/the-new-flying-witch-groove (TODO)
+[2] Waifu Wednesdays! (@waifuwed) (2016 June 07). “Moe Shop is back at it with some brand new anime groove!
+
+https://soundcloud.com/moeshop/the-new-flying-witch-groove”, Twitter. https://twitter.com/waifuwed/status/740165545899753472 (accessed 2023 May 27)
+The New Moe Groove
+Artist: 
+Song length (min:sec): 
+Curated by:
+* Waifu Wednesdays
+References/Links:
+[1] Waifu Wednesdays (201?). “”, YouTube. (TODO)
+[2] Waifu Wednesdays! (@waifuwed) (2016 Jan 06). “New upload "The New Moe Groove" featuring Moe Shop (@ItsKeyboardKid)!
+
+We hope you enjoy!
+
+https://youtube.com/watch?v=dbIi2t6kIkg”, Twitter. https://twitter.com/waifuwed/status/684612005039337472 (accessed 2023 May 21)
+The New Shrimp Groove
+Remix of: sweet sweet everytime sweet by Ebina Nana (TODO)
+Remix Artist: Android52
+Song length (min:sec): 03:46 [1]
+Curated by:
+* Waifu Wednesdays
+References/Links:
+[1] Waifu Wednesdays (2015 Oct 14). “Android 52 - The New Shrimp Groove”, YouTube. https://www.youtube.com/watch?v=nIoxC8CH7_c (accessed 2023 May 10)
+[2] Waifu Wednesdays! (@waifuwed) (2015 Oct 14). “New upload featuring the god of anime grooves Android52 (@thebaq5)!
+
+https://youtube.com/watch?v=nIoxC8CH7_c”, Twitter. https://twitter.com/waifuwed/status/654332870861979648 (accessed 2023 May 20)
 New Start!
 Artist: PIKASONIC
 Appears in Collection:
@@ -1038,6 +2118,16 @@ Appears in Collection:
 References/Links:
 [1] SoundCloud. https://soundcloud.com/pika5onic/new-start (TODO)
 [2] YouTube. https://www.youtube.com/watch?v=jt6ufI-P2Co (TODO)
+Night Club Junkie
+Artist: 
+Song length (min:sec): 
+Curated by:
+* Waifu Wednesdays
+References/Links:
+[1] Waifu Wednesdays (201?). “”, YouTube. (TODO)
+[2] Waifu Wednesdays! (@waifuwed) (2017 July 30). “New upload : Night Club Junkie by @yuce_e 
+
+Listen now! : https://youtube.com/watch?v=16mNjPICjb0”, Twitter. https://twitter.com/waifuwed/status/891754375357640704 (accessed 2023 May 29)
 Night Parade
 Artist: alpha
 Appears in collection:
@@ -1126,8 +2216,25 @@ Curated by:
 * Waifu Wednesdays
 References/Links:
 [1] Waifu Wednesdays (2018 Aug 19). “Neko Hacker - Night Sky (feat. Mashilo & ichika)”, YouTube. https://www.youtube.com/watch?v=qiqcfMvPuTM (accessed 2023 Apr 02)
+[4] Waifu Wednesdays! (@waifuwed) (2018 Aug 20). “New "Neko Hacker" Release! 🎸
+
+Listen to their latest "Kawaii Future Rock" release "Night Sky feat. Mashilo & ichika" on YouTube now!
+
+https://youtube.com/watch?v=qiqcfMvPuTM”, Twitter. https://twitter.com/waifuwed/status/1031348215726129152 (accessed 2023 May 29)
 [2] YouTube. https://www.youtube.com/watch?v=QfFhuCbCKu4 (TODO)
 [3] Bandcamp. (TODO)
+Nosedive
+Artist: Electric Dad
+Label: Chunchunmaru
+Release date: 
+Song length (min:sec): 
+References/Links:
+[1] Chunchunmaru (20??). “”, SoundCloud. https://soundcloud.com/chunchunmarudesu/edad-nosedive (TODO)
+[2] Chunchunmaru (@ChunchunmaruMoe) (2019 Nov 08). “"NOSEDIVE" by ⚡️ Electric Dad ⚡️ is out now!
+https://soundcloud.com/chunchunmarudesu/edad-nosedive
+
+Please welcome our first dad of the collective! 🙏”, Twitter. (accessed 2023 May 20)
+[3] YouTube. https://www.youtube.com/watch?v=OMW1c2_u8_w (TODO)
 Nostalgica
 Artist: FusionNFire
 Appears in collection:
@@ -1142,18 +2249,189 @@ Curated by:
 References/Links:
 [1] Firefly Music (2017 Oct 31). “SaMZIng - Paper Planes”, YouTube. https://www.youtube.com/watch?v=RCLgQfMw7Xw (accessed 2023 Apr 02)
 [2] SoundCloud. https://soundcloud.com/samzingyeah/paper-planes (TODO)
+Pastel
+Artist: 
+Song length (min:sec): 
+Curated by:
+* Waifu Wednesdays
+References/Links:
+[1] Waifu Wednesdays (201?). “”, YouTube. (TODO)
+[2] Waifu Wednesdays! (@waifuwed) (2017 July 19). “New upload : Pastel by @korewamoe and @loudnessfete!
+
+Listen now! : https://youtube.com/watch?v=1djVjfoBWTk”, Twitter. https://twitter.com/waifuwed/status/887650972876537856 (accessed 2023 May 30)
+Perfume
+Artist: fusq
+Part of Album:
+* Lost Station
+Curated by:
+* Waifu Wednesdays (removed)
+References/Links:
+[1] YouTube. https://www.youtube.com/watch?v=peQHRA1t0UY (dead link, last checked 2023 May 20)
+[2] Waifu Wednesdays! (@waifuwed) (2015 Nov 11). “New upload featuring @fusqmusic! A song off their "Lost Station" EP.
+
+We hope you enjoy!
+
+https://youtube.com/watch?v=peQHRA1t0UY”, Twitter. https://twitter.com/waifuwed/status/664320687461396481 (accessed 2023 May 20)
+Petit Bonheur
+References/Links:
+[1] SoundCloud. https://soundcloud.com/ujico/snails-house-petit-bonheur-free (TODO)
+[2] Waifu Wednesdays! (@waifuwed) (2016 Jan 09). “some good vibes via @loudnessfete 
+
+https://soundcloud.com/ujico/snails-house-petit-bonheur-free”, Twitter. https://twitter.com/waifuwed/status/685715189753327616 (accessed 2023 May 27)
+Pink Harmony!
+Artist: 
+Song length (min:sec): 
+Curated by:
+* Waifu Wednesdays
+References/Links:
+[1] Waifu Wednesdays (201?). “”, YouTube. https://youtu.be/Mh4nil96sb0 (TODO)
+[2] Waifu Wednesdays! (@waifuwed) (2018 July 22). “New upload : Pink Harmony! by @korewakotu (w/ @desiredomg)!
+
+Listen now! :”, Twitter. https://twitter.com/waifuwed/status/1021167502368362498 (accessed 2023 May 29)
+Pixel Dream
+Artist: Snail's House
+Genre: Kawaii Future Bass [1]
+Song length (min:sec): 03:40 [1], 03:42 [2]
+Curated by:
+* Waifu Wednesdays
+References/Links:
+[1] Waifu Wednesdays (2015 Nov 04). “Ujico* / Snail's House - Pixel Dream”, YouTube. https://www.youtube.com/watch?v=jd5entGxdlc (accessed 2023 May 20)
+[3] Waifu Wednesdays! (@waifuwed) (2015 Nov 04). “New upload "Pixel Dream" by Ujico* / Snail's House (@loudnessfete). We hope you enjoy!
+
+https://youtube.com/watch?v=jd5entGxdlc”, Twitter. https://twitter.com/waifuwed/status/661887675973005312 (accessed 2023 May 27)
+[2] SoundCloud. https://soundcloud.com/tastynetwork/snails-house-pixel-dream (TODO)
+Plastic Little
+Artist: 
+Song length (min:sec): 
+Curated by:
+* Waifu Wednesdays
+References/Links:
+[1] Waifu Wednesdays (201?). “”, YouTube. (TODO)
+[2] Waifu Wednesdays! (@waifuwed) (2018 Oct 08). “🌙 NEW RELEASE 🌙
+
+"Plastic Little" by @desiredomg!
+
+Genre : Future Funk
+
+⚡️ Listen here : https://youtube.com/watch?v=HSM20lKBXB8
+
+⚡️ Purchase on Bandcamp! : https://desired.bandcamp.com/album/plastic-whatever
+
+RT's appreciated 💞”, Twitter. https://twitter.com/waifuwed/status/1049348092670013440 (accessed 2023 May 29)
+Power Up
+Artist: 
+Song length (min:sec): 
+Curated by:
+* Waifu Wednesdays
+References/Links:
+[1] Waifu Wednesdays (201?). “”, YouTube. (TODO)
+[2] Waifu Wednesdays! (@waifuwed) (2018 Apr 02). “Wave Meow - Power Up [Complextro]: http://youtu.be/aKIDMZkja0k?a via @YouTube”, Twitter. https://twitter.com/waifuwed/status/980761987637444608 (accessed 2023 May 30)
 Press Enter!
 Artist: Zinnie
 Appears in Collection:
 * [ Kawaii Future Bass Collection Vol.4 ]
 References/Links:
 [1] SoundCloud. https://soundcloud.com/zinniemusic/press-enter (TODO)
+PRESS START!
+Artist: 
+Song length (min:sec): 
+Curated by:
+* Waifu Wednesdays
+References/Links:
+[1] Waifu Wednesdays (201?). “”, YouTube. (TODO)
+[2] Waifu Wednesdays! (@waifuwed) (2018 Dec 17). “🚨 NEW UPLOAD 🚨
+
+"PRESS START!" KOTONOHOUSE
+
+👉 @KOTONOHOUSE
+
+⚡️ Listen on YouTube : https://youtu.be/bBAceSUFHP8
+
+⚡️ Listen on Spotify : https://open.spotify.com/track/4rxuYrOr8znBYoDHocKYWk
+
+RT's appreciated 💞”, Twitter. https://twitter.com/waifuwed/status/1074462578913337345 (accessed 2023 May 29)
+Pretty Please
+Artist: 
+Song length (min:sec): 
+Curated by:
+* Waifu Wednesdays
+References/Links:
+[1] Waifu Wednesdays (201?). “”, YouTube. (TODO)
+[2] Waifu Wednesdays! (@waifuwed) (2016 Mar 30). “New upload : Pretty Please by Moe Shop (@korewamoe)!
+
+https://youtu.be/1A_n1CDsPX4
+
+We hope you enjoy! ヽ(・∀・ )ﾉ”, Twitter. https://twitter.com/waifuwed/status/715122314090819584 (accessed 2023 May 21)
+Puppy Raceway
+Artist: 
+Song length (min:sec): 
+Curated by:
+* Waifu Wednesdays
+References/Links:
+[1] Waifu Wednesdays (201?). “”, YouTube. (TODO)
+[2] Waifu Wednesdays! (@waifuwed) (2017 Oct 05). “New upload : Puppy Raceway by @HyperPotions and @iamsamme!
+
+Listen now ✨ https://youtube.com/watch?v=6aWpNHQwiis”, Twitter. https://twitter.com/waifuwed/status/915885358067310592 (accessed 2023 May 29)
+Rainy Girl
+Artist: 
+Song length (min:sec): 
+Curated by:
+* Waifu Wednesdays
+References/Links:
+[1] Waifu Wednesdays (201?). “”, YouTube. (TODO)
+[2] Waifu Wednesdays! (@waifuwed) (2017 Sept 21). “New upload : Rainy Girl by @honeycomebear!
+
+Listen now! : https://youtube.com/watch?v=ftBrHDS3wDU”, Twitter. https://twitter.com/waifuwed/status/910897351262212096 (accessed 2023 May 29)
 Ready
 Artist: Stessie
 Appears in Collection:
 * [ Kawaii Future Bass Collection Vol.4 ]
 References/Links:
 [1] SoundCloud. https://soundcloud.com/stessieofficial/ready (TODO)
+Ruby
+Disambiguation: (TODO: QA)
+* Kaivaan ft. Aori - Ruby
+* Synthion & Milkoi - Ruby
+Kaivaan ft. Aori - Ruby
+Artist: 
+Song length (min:sec): 
+Curated by:
+* Waifu Wednesdays
+References/Links:
+[1] Waifu Wednesdays (201?). “”, YouTube. (TODO)
+[2] Waifu Wednesdays! (@waifuwed) (2016 Jan 20). “New upload : Ruby by @iKaivaan (ft. @_aoritsu).
+
+We hope you enjoy (๑•̀ㅁ•́๑)✧
+
+https://youtube.com/watch?v=Q52KEql-u0c”, Twitter. https://twitter.com/waifuwed/status/689674048327000064 (accessed 2023 May 21)
+Synthion & Milkoi - Ruby
+Artists:
+* Synthion
+* Milkoi
+Label: Chunchunmaru
+Release date: 2018 Jan 01 [2]
+Song length (min:sec): 
+References/Links:
+[1] Chunchunmaru (20??). “”, SoundCloud. (TODO)
+[2] Chunchunmaru (@ChunchunmaruMoe) (2018 Jan 01). “Synthion & Milkoi's new track, "Ruby" is out NOW! ♦️
+
+Happy New Years! 🧡 💛 💚 💙 💜
+
+https://soundcloud.com/chunchunmarudesu/synthion-milkoi-ruby”, Twitter. https://twitter.com/ChunchunmaruMoe/status/947743757436407809 (accessed 2023 May 20)
+[1] Waifu Wednesdays (201?). “”, YouTube. (TODO)
+[2] Waifu Wednesdays! (@waifuwed) (2018 Apr 09). “Synthion & Milkoi - Ruby [Happy Hardcore]: http://youtu.be/HrPvP3nGD4w?a via @YouTube”, Twitter. https://twitter.com/waifuwed/status/983390577717690370 (accessed 2023 May 30)
+Running In The Snow
+Artist: 
+Song length (min:sec): 
+Curated by:
+* Waifu Wednesdays
+References/Links:
+[1] Waifu Wednesdays (201?). “”, YouTube. (TODO)
+[2] Waifu Wednesdays! (@waifuwed) (2016 Feb 03). “New upload : Running In The Snow by Yu*Dachi! (@thx_r308)
+
+We hope you enjoy (๑•̀ㅁ•́๑)✧
+
+https://youtube.com/watch?v=6hrKvNCM4jM”, Twitter. https://twitter.com/waifuwed/status/694747873318141952 (accessed 2023 May 21)
 Ryokou
 Artist: MojiX!
 Appears in Collection:
@@ -1165,6 +2443,22 @@ Artist: SoLush
 Appears in collection:
 * [神曲] Kawaii EDMオススメ10曲 [まとめ]
 Links: YouTube: https://www.youtube.com/watch?v=mHADIOrq-MM (TODO)
+Sakura Saku
+Redirect:
+See: サ・ク・ラ・サ・ク (song by Yunomi; nicamoq)
+Sakura Saku (Omoshiroebi Remix)
+Remix of: サ・ク・ラ・サ・ク
+Remix Artist: Omoshiroebi
+Song length (min:sec): 03:16 [1]
+Lyrics: (TODO: from [1])
+Curated by:
+* Waifu Wednesdays
+References/Links:
+[1] Waifu Wednesdays (2015 Sept 23). “Omoshiroebi - Sakura Saku Remix (orig. Yunomi)”, YouTube. https://www.youtube.com/watch?v=cYdcc0hsbnQ (accessed 2023 May 09)
+[2] SoundCloud. https://soundcloud.com/omoshiroebi/sakura-saku (dead link, last checked 2023 May 20)
+[3] Waifu Wednesdays! (@waifuwed) (2015 Sept 14). “REALLY AWESOME SAKURA SAKU REMIX by omoshiroebi, def worth a listen
+
+https://soundcloud.com/omoshiroebi/sakura-saku”, Twitter. https://twitter.com/waifuwed/status/643279934136418304 (accessed 2023 May 20)
 Sayonara April
 Artist: KODOMOi
 Appears in Collection:
@@ -1172,6 +2466,16 @@ Appears in Collection:
 References/Links:
 [1] “KODOMOi - Sayonara April”, SoundCloud. https://soundcloud.com/kodomoimusic/kodomoi-sayonara-april (TODO)
 [2] YouTube. https://www.youtube.com/watch?v=t6G5Dv4Sseg (TODO)
+See You - またね
+Artist: 
+Song length (min:sec): 
+Curated by:
+* Waifu Wednesdays
+References/Links:
+[1] Waifu Wednesdays (201?). “”, YouTube. (TODO)
+[2] Waifu Wednesdays! (@waifuwed) (2017 Nov 13). “New upload : See You - またね by @honeycomebear!
+
+Listen now! : https://youtube.com/watch?v=uSuhG5wKJVM”, Twitter. https://twitter.com/waifuwed/status/930203741575368704 (accessed 2023 May 29)
 September
 Disambiguation:
 “September” may refer to:
@@ -1191,6 +2495,9 @@ Curated by:
 * Waifu Wednesdays
 References/Links:
 [1] Waifu Wednesdays (2017 Oct 28). “Tenma Tenma - September”, YouTube. https://www.youtube.com/watch?v=JNOda5PFM8M (accessed 2023 Apr 14)
+[3] Waifu Wednesdays! (@waifuwed) (2017 Oct 28). “New upload : @tenmaatenma - September!
+
+Listen now! : https://youtube.com/watch?v=JNOda5PFM8M”, Twitter. https://twitter.com/waifuwed/status/924169449585893376 (accessed 2023 May 29)
 [2] ピンクネオン東京 (2017 Mar 27). “TenmaTenma - September[PNTSS0204]”, SoundCloud. https://soundcloud.com/pinkneontokyo/tenmatenma-septemberpntss0204 (TODO)
 竹内まりや - SEPTEMBER
 Artist:
@@ -1209,16 +2516,101 @@ Remixes:
 * Tenma Tenma - September
 References/Links:
 [1] Tomoyo Harada (2022 Jun 20). “原田知世 - September (Full Version)”, YouTube. https://www.youtube.com/watch?v=hyvdIPlI_CY (accessed 2023 Apr 14)
+She
+Artist: 
+Song length (min:sec): 
+Curated by:
+* Waifu Wednesdays
+References/Links:
+[1] Waifu Wednesdays (201?). “”, YouTube. (TODO)
+[2] Waifu Wednesdays! (@waifuwed) (2016 Mar 16). “New upload : "She" by Stereoman (@2_shape)!
+
+https://youtube.com/watch?v=MVuAAMX1ESc
+
+We hope you enjoy! ヽ(・∀・ )ﾉ”, Twitter. https://twitter.com/waifuwed/status/710025671393808385 (accessed 2023 May 21)
+SHINE
+Artist: OHEY
+Song length (min:sec): 
+Curated by:
+* Waifu Wednesdays
+Appears in collection:
+* [神曲] Kawaii EDMオススメ10曲 [まとめ]
+Links: YouTube: https://www.youtube.com/watch?v=3PBLhOb3H8Q (TODO)
+[2] Waifu Wednesdays (201?). “”, YouTube. https://youtu.be/J35I6jwpPFw (TODO)
+[3] Waifu Wednesdays! (@waifuwed) (2018 Mar 03). “OHEY - SHINE: http://youtu.be/J35I6jwpPFw?a via @YouTube”, Twitter. https://twitter.com/waifuwed/status/969731029635338241 (accessed 2023 May 30)
+Shiny Baby!
+Artist: 
+Song length (min:sec): 
+Curated by:
+* Waifu Wednesdays
+References/Links:
+[1] Waifu Wednesdays (201?). “”, YouTube. (TODO)
+[2] Waifu Wednesdays! (@waifuwed) (2019 Mar 24). “New upload!
+
+"Shiny Baby!" from うさこ // kotu!
+
+👉 @korewakotu 
+
+Listen now! : https://youtube.com/watch?v=ofHqe5zHAZM&feature=youtu.be
+
+RT's appreciated! 💞”, Twitter. https://twitter.com/waifuwed/status/1109630945244659712 (accessed 2023 May 29)
+Shiny Shiny
+Artist: 
+Song length (min:sec): 
+Curated by:
+* Waifu Wednesdays
+References/Links:
+[1] Waifu Wednesdays (201?). “”, YouTube. (TODO)
+[2] Waifu Wednesdays! (@waifuwed) (2018 Sept 21). “🚨 NEW RELEASE 🚨
+
+"Shiny Shiny" by @korewapurepure!
+
+Genre : Future Funk 🎸
+
+⚡️ Listen here : https://youtube.com/watch?v=CHPf5RbxNws
+
+⚡️ Support and Purchase via Bandcamp! : https://pure-gem.bandcamp.com/album/pure-love-ep
+
+RT's appreciated 💞”, Twitter. https://twitter.com/waifuwed/status/1043068303734845442 (accessed 2023 May 29)
+SHINYWAVE
+Artist: 
+Song length (min:sec): 
+Curated by:
+* Waifu Wednesdays
+References/Links:
+[1] Waifu Wednesdays (201?). “”, YouTube. (TODO)
+[2] Waifu Wednesdays! (@waifuwed) (2018 Jan 09). “New upload : "SHINYWAVE" by @mikazukiBIGWAVE!
+
+Listen now! : https://youtube.com/watch?v=4NrJ1C4sKr8”, Twitter. https://twitter.com/waifuwed/status/950616977977917440 (accessed 2023 May 29)
+Shrimp Groove 2.0
+Artist: 
+Song length (min:sec): 
+Curated by:
+* Waifu Wednesdays
+References/Links:
+[1] Waifu Wednesdays (201?). “”, YouTube. https://youtu.be/8fC68BXJsGk (TODO)
+[2] Waifu Wednesdays! (@waifuwed) (2018 Apr 10). “New upload : Android52 - Shrimp Groove 2.0 [Anime Groove]! Listen now!”, Twitter. https://twitter.com/waifuwed/status/983661043573440512 (accessed 2023 May 29)
 Signal
 Artist: Choice Scarf
 Appears in collection:
 * [神曲] Kawaii EDMオススメ10曲 [まとめ]
 Links: YouTube: https://www.youtube.com/watch?v=QpwnAlgD7mc (TODO)
-SHINE
-Artist: OHEY
-Appears in collection:
-* [神曲] Kawaii EDMオススメ10曲 [まとめ]
-Links: YouTube: https://www.youtube.com/watch?v=3PBLhOb3H8Q (TODO)
+Smash
+Artist: 
+Song length (min:sec): 
+Curated by:
+* Waifu Wednesdays
+References/Links:
+[1] Waifu Wednesdays (201?). “”, YouTube. (TODO)
+[2] Waifu Wednesdays! (@waifuwed) (2018 Sept 24). “🚨 NEW UPLOAD 🚨
+
+"Smash" by @_hyleo!
+
+⚡️ Listen here : https://youtube.com/watch?v=PB5Er92gH0M
+
+⚡️ Available on Spotify the 29th of September!
+
+RT's appreciated! Enjoy 💞”, Twitter. https://twitter.com/waifuwed/status/1044319367746310144 (accessed 2023 May 29)
 Sneaker - スニーカー
 Artist: HoneyComeBear
 Genre: Future Bass [2]
@@ -1246,6 +2638,9 @@ Curated by:
 * Waifu Wednesdays
 References/Links:
 [1] Waifu Wednesdays (2017 June 07). “HoneyComeBear - Sneaker”, YouTube. https://www.youtube.com/watch?v=6EAR9jsOhro (accessed 2023 Apr 06)
+[5] Waifu Wednesdays! (@waifuwed) (2017 June 07). “New upload : Sneaker by @honeycomebear!
+
+Listen now : https://youtube.com/watch?v=6EAR9jsOhro”, Twitter. https://twitter.com/waifuwed/status/872362048507785216 (accessed 2023 May 30)
 [2] HoneyComeBear (2017 May 27). “Sneaker - スニーカー”, SoundCloud. https://soundcloud.com/832832/sneaker (accessed 2023 Apr 06)
 [3] HoneyComeBear (2017 Nov 15). “Sneaker - ス​ニ​ー​カ​ー”, Bandcamp. https://honeycomebear.bandcamp.com/track/sneaker (accessed 2023 Apr 06)
 [4] Vocal Stems. https://www.tunebula.com/honeycomebear/sneaker-vocalstem-bpm144 (dead link, last checked 2023 Apr 06)
@@ -1255,6 +2650,26 @@ Appears in Collection:
 * [ Kawaii Future Bass Collection Vol.4 ]
 References/Links:
 [1] SoundCloud. https://soundcloud.com/nyankobrq/nyankobrq-snorkel (TODO)
+Snow
+Artist: 
+Song length (min:sec): 
+Curated by:
+* Waifu Wednesdays
+References/Links:
+[1] Waifu Wednesdays (201?). “”, YouTube. (TODO)
+[2] Waifu Wednesdays! (@waifuwed) (2017 Aug 28). “New upload : Snow by @kcmrunioi!
+
+Listen now! : https://youtube.com/watch?v=Bf3_vLWWI54”, Twitter. https://twitter.com/waifuwed/status/902222231337443328 (accessed 2023 May 29)
+SpaceJellyfish
+Artist: 
+Song length (min:sec): 
+Curated by:
+* Waifu Wednesdays
+References/Links:
+[1] Waifu Wednesdays (201?). “”, YouTube. (TODO)
+[2] Waifu Wednesdays! (@waifuwed) (2017 Aug 20). “New upload : SpaceJellyfish by @honeycomebear!
+
+Listen now! : https://youtube.com/watch?v=rtIHwDJLWgk”, Twitter. https://twitter.com/waifuwed/status/899305745929261056 (accessed 2023 May 29)
 speed cake
 Artist: 永瀬 優太 (Nagase Yuuta)
 Genre: Kawaii Future Bass [1][2]
@@ -1282,6 +2697,29 @@ Appears in Collection:
 References/Links:
 [1] SoundCloud. https://soundcloud.com/stessieofficial/sprinkles (TODO)
 [2] YouTube. https://www.youtube.com/watch?v=VwIDIRA1uec (TODO)
+stardust
+Artist: 
+Song length (min:sec): 
+Curated by:
+* Waifu Wednesdays
+References/Links:
+[1] Waifu Wednesdays (201?). “”, YouTube. (TODO)
+[2] Waifu Wednesdays! (@waifuwed) (2016 Nov 23). “NEW UPLOAD : stardust by @_android52 (off his upcoming album "52 days of autumn)!
+
+Listen now! : https://youtube.com/watch?v=sDf8IDEP_lE”, Twitter. https://twitter.com/waifuwed/status/801408109042368512 (accessed 2023 May 28)
+Stay Alive
+Stay Alive (Jun Kuroda Bootleg Remix)
+Artist: 
+Song length (min:sec): 
+Curated by:
+* Waifu Wednesdays
+References/Links:
+[1] Waifu Wednesdays (201?). “”, YouTube. (TODO)
+[2] Waifu Wednesdays! (@waifuwed) (2016 Sept 21). “This week's upload is by @_JunKuroda!
+
+"Stay Alive" (Remix)
+
+Listen now! : https://youtube.com/watch?v=2ltofrl7IHo”, Twitter. https://twitter.com/waifuwed/status/778489507993694209 (accessed 2023 May 28)
 Stay With You
 Redirect:
 See: A Centimetre Apart (Systile Remix)
@@ -1318,12 +2756,31 @@ Appears in Collection:
 * [ Kawaii Future Bass Collection Vol.4 ]
 References/Links:
 [1] SoundCloud. https://soundcloud.com/desmtiny/kimchisushi-summer (TODO)
+Summer Lover
+Artist: 
+Song length (min:sec): 
+Curated by:
+* Waifu Wednesdays
+References/Links:
+[1] Waifu Wednesdays (201?). “”, YouTube. (TODO)
+[2] Waifu Wednesdays! (@waifuwed) (2016 Sept 14). “New upload : "Summer Lover!!" by @yuce_e! (off her EP "Toy Frappe"!)
+
+Listen now! : https://youtu.be/5FnfiJ5sF-U”, Twitter. https://twitter.com/waifuwed/status/775906968858787840 (accessed 2023 May 28)
 Summer Rain
 Artist: Jotori
 Appears in Collection:
 * [ Kawaii Future Bass Collection Vol.4 ]
 References/Links:
 [1] SoundCloud. https://soundcloud.com/jotori/summer-rain (TODO)
+Summertime Memory
+Artist: Snail's House
+Song length (min:sec): 03:41 [1][2]
+Curated by:
+* Waifu Wednesdays
+References/Links:
+[1] Waifu Wednesdays (2015 Sept 02). “Snail's House - Summertime Memory”, YouTube. https://www.youtube.com/watch?v=a9_vmOVQnlU (accessed 2023 May 08)
+[3] Waifu Wednesdays! (@waifuwed) (2015 Sept 02). “Take a listen to "Summertime Memory" by Snail's House! http://youtu.be/a9_vmOVQnlU?a”, Twitter. https://twitter.com/waifuwed/status/639107856868995072 (accessed 2023 May 20)
+[2] SoundCloud. https://soundcloud.com/ujico/summertime (TODO)
 Sunny
 Artist: KODOMOi
 Appears in collection:
@@ -1343,6 +2800,46 @@ Appears in Collection:
 References/Links:
 [1] SoundCloud. https://soundcloud.com/wavemeow/lewis-k-u-c-c-i-i-sunset-wave-meow-remix (TODO)
 [2] YouTube. https://www.youtube.com/watch?v=BehY3YgSQsI (TODO)
+Super Anime Groove [3D World]
+Remix of: Recover Decoration (Nisekoi ED) (TODO)
+Remix Artist: ANDROID52
+Song length (min:sec): 03:18 ([1]: inferred)
+Curated by:
+* Waifu Wednesdays (removed)
+References/Links:
+[1] Waifu Wednesdays (2015 Sept 01). “Android52 - Super Anime Groove [3D World]”, YouTube. https://www.youtube.com/watch?v=FC9XmaYVlQU (dead link, last checked 2023 May 20)
+Superstar
+Artist: 
+Song length (min:sec): 
+Curated by:
+* Waifu Wednesdays
+References/Links:
+[1] Waifu Wednesdays (201?). “”, YouTube. (TODO)
+[2] Waifu Wednesdays! (@waifuwed) (2017 July 26). “New upload : Superstar by @Tomggg (feat. @antenna0718)!
+
+Listen now! : https://youtube.com/watch?v=0rQEWe6hoLU”, Twitter. https://twitter.com/waifuwed/status/890140955508191232 (accessed 2023 May 29)
+Surf
+Artist: 
+Song length (min:sec): 
+Curated by:
+* Waifu Wednesdays
+References/Links:
+[1] Waifu Wednesdays (201?). “”, YouTube. (TODO)
+[2] Waifu Wednesdays! (@waifuwed) (2017 Mar 08). “New upload : Surf by @hyperpotions!
+
+We hope you enjoy! Have a great Wednesday <3
+
+Listen now! : https://youtube.com/watch?v=cQl79AxfDs4”, Twitter. https://twitter.com/waifuwed/status/839453257944743937 (accessed 2023 May 30)
+Surprise
+Artist: 
+Song length (min:sec): 
+Curated by:
+* Waifu Wednesdays
+References/Links:
+[1] Waifu Wednesdays (201?). “”, YouTube. (TODO)
+[2] Waifu Wednesdays! (@waifuwed) (2017 Sept 30). “New upload : Surprise by @cutegirlsmusic!
+
+Listen now! : https://youtu.be/NYNUDTUwsMY”, Twitter. https://twitter.com/waifuwed/status/914020664620728320 (accessed 2023 May 30)
 Sweet
 Artist: PLEEG
 Appears in collection:
@@ -1355,6 +2852,26 @@ Artist: RUQOA
 Appears in collection:
 * [神曲] Kawaii EDMオススメ10曲 [まとめ]
 Links: YouTube:  https://www.youtube.com/watch?v=o3elOQDhV1o (TODO)
+Sweet Dreams
+Artist: 
+Song length (min:sec): 
+Curated by:
+* Waifu Wednesdays
+References/Links:
+[1] Waifu Wednesdays (201?). “”, YouTube. (TODO)
+[2] Waifu Wednesdays! (@waifuwed) (2018 Apr 07). “New upload : @neko_hacker - Sweet Dreams (feat. 利香) [Kawaii Future Rock]
+
+Listen now! : https://youtube.com/watch?v=w6ZkmDBGVDs”, Twitter. https://twitter.com/waifuwed/status/982738887440134144 (accessed 2023 May 30)
+Sweetie
+Artist: 
+Song length (min:sec): 
+Curated by:
+* Waifu Wednesdays
+References/Links:
+[1] Waifu Wednesdays (201?). “”, YouTube. (TODO)
+[2] Waifu Wednesdays! (@waifuwed) (2017 Oct 11). “New upload : Sweetie by @cutegirlsmusic!
+
+Listen now! : https://youtube.com/watch?v=PizP3K9GGjA”, Twitter. https://twitter.com/waifuwed/status/918098379040686080 (accessed 2023 May 29)
 Takarabako
 Artist: ikura
 Genre: Electronic [1]
@@ -1377,8 +2894,16 @@ References/Links:
 [4] “幾田りら (Ikuta Lilas) – Takarabako Lyrics” [sic], Genius. https://genius.com/Ikuta-lilas-takarabako-lyrics (accessed 2023 Apr 02)
 Tea Time
 Artist: Aire
+Song length (min:sec): 03:00 [1]
+Curated by:
+* Waifu Wednesdays
 Remixes:
 * Tea Time (dextrust Remix)
+References/Links:
+[1] Waifu Wednesdays (2015 Sept 30). “Aire - Tea Time”, YouTube. https://www.youtube.com/watch?v=td6Rzn6sEUA (accessed 2023 May 08)
+[3] Waifu Wednesdays! (@waifuwed) (2015 Oct 01). “New upload featuring @Aire_____! Hope you enjoy! B)
+https://youtube.com/watch?v=td6Rzn6sEUA”, Twitter. https://twitter.com/waifuwed/status/649383516053053440 (accessed 2023 May 27)
+[2] SoundCloud. https://soundcloud.com/shinobusuki/aire-tea-time (dead link, last checked 2023 May 20)
 Tea Time (dextrust Remix)
 Remix of: Aire - Tea Time
 Remix Artist: dextrust
@@ -1394,6 +2919,50 @@ Appears in Collection:
 References/Links:
 [1] “[FREE]Teach Me How To”, SoundCloud. https://soundcloud.com/capchii/freeteach-me-how-to-1 (TODO)
 [2] YouTube. https://www.youtube.com/watch?v=LK6gqAgPqso (TODO)
+Tegami
+Artist: 
+Song length (min:sec): 
+Curated by:
+* Waifu Wednesdays
+References/Links:
+[1] Waifu Wednesdays (201?). “”, YouTube. (TODO)
+[2] Waifu Wednesdays! (@waifuwed) (2017 Dec 01). “New upload : Tegami by masara (ft. yutsuki & Hikaru Station)!
+
+Listen now! : https://youtube.com/watch?v=l7mH4gIuMFY
+
+@wishimblack
+@yutsukiofficial
+@hikarustation”, Twitter. https://twitter.com/waifuwed/status/936552121071292416 (accessed 2023 May 30)
+Tick Tock
+Artist: 
+Song length (min:sec): 
+Curated by:
+* Waifu Wednesdays
+References/Links:
+[1] Waifu Wednesdays (201?). “”, YouTube. (TODO)
+[2] Waifu Wednesdays! (@waifuwed) (2016 Nov 09). “New upload : "Tick Tock" by @yuce_e off her new EP "Future Candy"!
+
+Listen now! : https://youtube.com/watch?v=iFwY1AlWeiM”, Twitter. https://twitter.com/waifuwed/status/796418740065857537 (accessed 2023 May 28)
+Together
+Artist: 
+Song length (min:sec): 
+Curated by:
+* Waifu Wednesdays
+References/Links:
+[1] Waifu Wednesdays (201?). “”, YouTube. (TODO)
+[2] Waifu Wednesdays! (@waifuwed) (2018 Apr 03). “Matsura - Together (w/ kissmenerdygirl) [Future Funk]: http://youtu.be/luBELKJtn4w?a via @YouTube”, Twitter. https://twitter.com/waifuwed/status/981124466792157184 (accessed 2023 May 30)
+Together Now!
+Artist: 
+Song length (min:sec): 
+Curated by:
+* Waifu Wednesdays
+References/Links:
+[1] Waifu Wednesdays (201?). “”, YouTube. (TODO)
+[2] Waifu Wednesdays! (@waifuwed) (2018 Aug 20). “New Future Funk release from @korewakotu!
+
+"Together Now!" now on Waifu Wednesdays!
+
+Listen on YouTube now! : https://youtube.com/watch?v=I-jNYLoP96E”, Twitter. https://twitter.com/waifuwed/status/1031613369575460864 (accessed 2023 May 29)
 Tomori
 Artist: ARForest
 Part of album:
@@ -1403,6 +2972,33 @@ Appears in collection:
 References/Links:
 [1] SoundCloud. https://soundcloud.com/arforest/tomori (TODO)
 [2] YouTube. https://www.youtube.com/watch?v=WnsWnp5HGuw (TODO)
+Tomoyo
+Artist: 
+Song length (min:sec): 
+Curated by:
+* Waifu Wednesdays
+References/Links:
+[1] Waifu Wednesdays (201?). “”, YouTube. (TODO)
+[3] Waifu Wednesdays! (@waifuwed) (2016 Apr 20). “New upload : Tomoyo by Zekk (@zekk_wa_zetku)
+
+Hope you have a great Wednesday! (๑•̀ㅁ•́๑)✧
+
+https://youtube.com/watch?v=PzHg1Jzt1QQ”, Twitter. https://twitter.com/waifuwed/status/722825268109451265 (accessed 2023 May 27)
+[2] Waifu Wednesdays! (@waifuwed) (2016 Apr 20). “The new upload went live earlier today! Tomoyo by Zekk
+
+https://youtube.com/watch?v=PzHg1Jzt1QQ&feature=youtu.be&a
+
+We hope you enjoy! (๑•̀ㅁ•́๑)v”, Twitter. https://twitter.com/waifuwed/status/722857932602372097 (accessed 2023 May 26)
+Touch
+Artist: 
+Song length (min:sec): 
+Curated by:
+* Waifu Wednesdays
+References/Links:
+[1] Waifu Wednesdays (201?). “”, YouTube. (TODO)
+[2] Waifu Wednesdays! (@waifuwed) (2017 Aug 22). “New upload : Touch by @nighttempo!
+
+Listen now! : https://youtube.com/watch?v=A3fukNGgXQQ”, Twitter. https://twitter.com/waifuwed/status/900002878244270081 (accessed 2023 May 29)
 Treats
 Artist: Sweet Dove
 Genre: Electronic [1], Electronica [1], Future Bass [1], Kawaii Bass [1]
@@ -1413,6 +3009,16 @@ Appears in Collection:
 * [ Kawaii Future Bass Collection Vol.4 ]
 References/Links:
 [1] Sweet Dove (2019 June 02). “Treats”, SoundCloud. https://soundcloud.com/sweetdove/treats (accessed 2023 May 01)
+Trendy
+Artist: 
+Song length (min:sec): 
+Curated by:
+* Waifu Wednesdays
+References/Links:
+[1] Waifu Wednesdays (201?). “”, YouTube. (TODO)
+[2] Waifu Wednesdays! (@waifuwed) (2017 Oct 10). “New upload : Trendy by greyl!
+
+Listen now! : https://youtube.com/watch?v=1maLosqz330”, Twitter. https://twitter.com/waifuwed/status/917602062417793024 (accessed 2023 May 29)
 Triple Sweet
 Artists:
 * AIKA
@@ -1427,9 +3033,73 @@ References/Links:
 [2] YouTube. https://www.youtube.com/watch?v=KXSqTP3ztp0 (TODO)
 [3] ToneDen. https://www.toneden.io/trifect/post/aika-x-trifect-x-tenkitsune-triple-sweet (TODO)
 [4] Spotify. https://open.spotify.com/track/5a0imMXQsbJ8J4O35yGInZ (TODO)
+Twinkle
+Twinkle (Milkoi Remix)
+Artist: 
+Song length (min:sec): 
+Curated by:
+* Waifu Wednesdays
+References/Links:
+[1] Waifu Wednesdays (201?). “”, YouTube. (TODO)
+[2] Waifu Wednesdays! (@waifuwed) (2018 Jan 30). “New upload : Twinkle Remix by @milkoichan!
+
+Listen now! :”, Twitter. https://twitter.com/waifuwed/status/958331865714184192 (accessed 2023 May 29)
 Uchiage Hanabi
 Redirect:
 See: 打上花火 (song by Daoko; Kenshi Yonezu)
+Usagi Funk
+Artist: 
+Song length (min:sec): 
+Curated by:
+* Waifu Wednesdays
+References/Links:
+[1] Waifu Wednesdays (201?). “”, YouTube. https://www.youtube.com/watch?v=XVCyDBL_xLc (TODO)
+[2] Waifu Wednesdays! (@waifuwed) (2017 Jan 04). “New upload : "Usagi Funk" by @nighttempo!
+
+Listen now! :”, Twitter. https://twitter.com/waifuwed/status/816700901540954113 (accessed 2023 May 28)
+Waffle Cone
+Artist: 
+Song length (min:sec): 
+Curated by:
+* Waifu Wednesdays
+References/Links:
+[1] Waifu Wednesdays (201?). “”, YouTube. (TODO)
+[2] Waifu Wednesdays! (@waifuwed) (2017 Sept 07). “New upload : Nor + YUC'e - Waffle Cone (@NOR0910 + @yuce_e)
+
+Listen now! : https://youtube.com/watch?v=6m14B8Ba_ZM&feature=youtu.be”, Twitter. https://twitter.com/waifuwed/status/905640889157955585 (accessed 2023 May 29)
+Want You
+Artist: Moe Shop
+Song length (min:sec): 02:14 [2]
+Curated by:
+* Waifu Wednesdays
+Notes:
+* Uses sampled audio from George Duke - I Want You For Myself [1]
+References/Links:
+[1] Waifu Wednesdays (2015 Sept 09). “Moe Shop - Want You”, YouTube. https://www.youtube.com/watch?v=yb6b53JlufA (accessed 2023 May 08)
+[3] Waifu Wednesdays! (@waifuwed) (2015 Sept 09). “NEW MOE SHOP (@ItsKeyboardKid) UPLOAD!
+
+MAY THE ANIME GIRLS BE WITH YOU FINE PEOPLE
+
+https://youtu.be/yb6b53JlufA”, Twitter. https://twitter.com/waifuwed/status/641675476185038848 (accessed 2023 May 20)
+[2] Bandcamp. https://moeshop.bandcamp.com/track/want-you (TODO)
+White Cube
+Artist: 
+Song length (min:sec): 
+Curated by:
+* Waifu Wednesdays
+References/Links:
+[1] Waifu Wednesdays (201?). “”, YouTube. (TODO)
+[2] Waifu Wednesdays! (@waifuwed) (2018 Sept 29). “This week's upload, but live!
+
+🚨 NEW UPLOAD 🚨
+
+Yasutaka Nakata - White Cube (+Voice Version) [feat. Ichigo Rinaham]
+
+Genre : Electronic
+
+⚡️ Listen here : https://m.youtube.com/watch?v=2bDbyN7iSRM
+
+RT's appreciated 💞”, Twitter. https://twitter.com/waifuwed/status/1045985622169509890 (accessed 2023 May 29)
 Woah!
 Artists:
 * factal
@@ -1439,6 +3109,28 @@ Appears in Collection:
 References/Links:
 [1] “Woah! (w/ factal)”, SoundCloud. https://soundcloud.com/hakii/woah-w-factal (TODO)
 [2] YouTube. https://www.youtube.com/watch?v=mfOxtJdXOSw (TODO)
+Wonder Groove
+Artist: 
+Song length (min:sec): 
+Curated by:
+* Waifu Wednesdays
+References/Links:
+[1] Waifu Wednesdays (201?). “”, YouTube. (TODO)
+[2] Waifu Wednesdays! (@waifuwed) (2017 Sept 03). “New upload : Wonder Groove by @_android52!
+
+Listen now! : https://youtube.com/watch?v=49_C-N_aTlI”, Twitter. https://twitter.com/waifuwed/status/904179880798982144 (accessed 2023 May 29)
+Wrapped Up
+https://soundcloud.com/keyboardkidmusic/wrapped-up (TODO)
+Wrapped Up (Android52 Edit)
+Artist: 
+Song length (min:sec): 
+Curated by:
+* Waifu Wednesdays
+References/Links:
+[1] Waifu Wednesdays (201?). “”, YouTube. (TODO)
+[2] Waifu Wednesdays! (@waifuwed) (2016 May 18). “New upload : Wrapped Up [Android52 edit] by @thebaq5! Thank you for 20K+ subs! (๑•̀ㅁ•́๑)v
+
+https://youtube.com/watch?v=gLJJRmEIIks”, Twitter. https://twitter.com/waifuwed/status/732900720215744512 (accessed 2023 May 27)
 Virtual Rush
 Artist: Syui
 Genre: Electro [1], Happy Hardcore [1]
@@ -1448,6 +3140,41 @@ Curated by:
 References/Links:
 [1] Firefly Music (2018 Feb 10). “Syui - Virtual Rush”, YouTube. https://www.youtube.com/watch?v=NuU-TFWUnIs (accessed 2023 Mar 21)
 [2] SoundCloud. https://soundcloud.com/syuii/virtualrush (TODO)
+You
+Artist: 
+Song length (min:sec): 
+Curated by:
+* Waifu Wednesdays
+References/Links:
+[1] Waifu Wednesdays (201?). “”, YouTube. (TODO)
+[2] Waifu Wednesdays! (@waifuwed) (2016 Nov 16). “This week's upload is by a new upcoming artist who goes by "Lil Oni"!
+
+Listen to "You" now! : https://youtube.com/watch?v=UT_06LnanoQ”, Twitter. https://twitter.com/waifuwed/status/798759860384907264 (accessed 2023 May 28)
+You Look So Good
+Artist: Moe Shop
+Song length (min:sec): 03:24 [2]
+Lyrics: (TODO: from [1][3])
+Part of Album:
+* Pure Pure
+Curated by:
+* Waifu Wednesdays
+Notes:
+* Uses vocal samples from 笠井紀美子 (Kasai Kimiko) - Mmm Mmm Good [1][3]
+References/Links:
+[1] Waifu Wednesdays (2015 Sept 01). “Moe Shop - You Look So Good”, YouTube. https://www.youtube.com/watch?v=b1gux6jeTR8 (accessed 2023 May 08)
+[4] Waifu Wednesdays! (@waifuwed) (2015 Sept 01). “Listen to "You Look So Good" by Moe Shop! http://youtu.be/b1gux6jeTR8?a”, Twitter. https://twitter.com/waifuwed/status/638761064172285952 (accessed 2023 May 20)
+[2] Bandcamp. https://moeshop.bandcamp.com/track/you-look-so-good (TODO)
+[3] Genius. https://genius.com/Moe-shop-you-look-so-good-lyrics (TODO)
+YOU'RE EVERYTHING
+Artist: 
+Song length (min:sec): 
+Curated by:
+* Waifu Wednesdays
+References/Links:
+[1] Waifu Wednesdays (201?). “”, YouTube. (TODO)
+[2] Waifu Wednesdays! (@waifuwed) (2016 Oct 19). “New upload : "YOU'RE EVERYTHING" by dark cat (@im_darkcat), featuring Juunana @j1n7n!
+
+Listen Now! : https://youtube.com/watch?v=f-PBtSb90xQ”, Twitter. https://twitter.com/waifuwed/status/788590950885056512 (accessed 2023 May 28)
 Yozora wa Nandemo Shitteru no?
 Redirect:
 See: 夜空はなんでも知ってるの？ (song by CYaRon! from Love Live! Sunshine!!)
@@ -1460,6 +3187,15 @@ Curated by:
 References/Links:
 [1] Galaxy (2017 July 17). “[Love Live! Sunshine!!] CYaRon! - Yozora wa Nandemo Shitteru no? (Nathaniel Keith Remix)”, YouTube. https://www.youtube.com/watch?v=Va7tpgUVgWk (accessed 2023 Mar 15)
 [2] Soundcloud. https://soundcloud.com/nathanielkeithmusic/yozora-wa-nandemo-shitteru-no-nathaniel-keith-remix (dead link, last checked 2023 Mar 15)
+動く、動く
+動く、動く (Aiobahn Remix)
+Artist: 
+Song length (min:sec): 
+Curated by:
+* Waifu Wednesdays
+References/Links:
+[1] Waifu Wednesdays (201?). “”, YouTube. (TODO)
+[2] Waifu Wednesdays! (@waifuwed) (2018 Apr 06). “Aiobahn - 動く、動く [Future House, Girls' Last Tour Remix]: http://youtu.be/IgEt1wE3cPg?a via @YouTube”, Twitter. https://twitter.com/waifuwed/status/982218933741604864 (accessed 2023 May 30)
 打上花火
 Other Names:
 Romaji: Uchiage Hanabi
@@ -1533,6 +3269,209 @@ Lyrics:
 そんな日がきっと 来ますように
 Links:
 [1] アークナイツ 公式チャンネル (2023 Jan 10). “アークナイツ スズラン 『えがおの花束』MV”, YouTube. https://www.youtube.com/watch?v=fSl9AbEj5M0 (accessed 2023 Mar 11)
+大江戸コントローラー
+Artist: 
+Song length (min:sec): 
+Curated by:
+* Waifu Wednesdays
+References/Links:
+[1] SoundCloud. https://soundcloud.com/tkrism/oedo (TODO)
+[3] Yunomi🍵 (@iamyunomi) (2016 May 22). “🎮新曲です🎮 大江戸コントローラー (feat. @toriena) / Artwork: @_kiato”, Twitter. https://twitter.com/iamyunomi/status/734385909089611777 (accessed 2023 May 27)
+[4] きあと🍼 (@_kiato) (2016 May 22). “🎮大江戸コントローラー/ Yunomi (feat. TORIENA) /🆕Artwork
+https://soundcloud.com/tkrism/oedo”, Twitter. https://twitter.com/_kiato/status/734386863322988544 (accessed 2023 May 27)
+[2] Waifu Wednesdays! (@waifuwed) (2016 May 23). “Yunomi dropped a new track with an awesome new vocalist this week!
+
+大江戸コントローラー ft. TORIENA
+
+https://soundcloud.com/tkrism/oedo”, Twitter. https://twitter.com/waifuwed/status/734549521720442881 (accessed 2023 May 27)
+[5] Waifu Wednesdays (201?). “”, YouTube. (TODO)
+[6] Waifu Wednesdays! (@waifuwed) (2016 June 15). “New upload : Oedo Controller (大江戸コントローラー) by @iamyunomi (ft. @toriena)!
+
+https://youtube.com/watch?v=fWNhWmIWRVA”, Twitter. https://twitter.com/waifuwed/status/742929681368764416 (accessed 2023 May 27)
+[7] YouTube. https://www.youtube.com/watch?v=UKXzq37aybA (TODO)
+[8] Waifu Wednesdays! (@waifuwed) (2017 Feb 01). “Oedo Controller : Official Music Video!
+
+✨Yunomi ft. TORIENA✨
+
+Watch now : https://youtube.com/watch?v=UKXzq37aybA”, Twitter. https://twitter.com/waifuwed/status/826816344725323776 (accessed 2023 May 28)
+おとぎ話の日々
+Other Names:
+* Otogi Banashi no Hibi [2]
+Artist: 
+Song length (min:sec): 
+Curated by:
+* Waifu Wednesdays
+References/Links:
+[1] Waifu Wednesdays (201?). “”, YouTube. (TODO)
+[2] Waifu Wednesdays! (@waifuwed) (2016 Oct 26). “This week's upload is "Otogi Banashi no Hibi" by @iamyunomi (ft. @nicamoq)!
+
+Listen now : https://youtube.com/watch?v=3GxyRoAWe5s”, Twitter. https://twitter.com/waifuwed/status/791286003407478784 (accessed 2023 May 28)
+鏡
+Artist: 
+Song length (min:sec): 
+Curated by:
+* Waifu Wednesdays
+References/Links:
+[1] Waifu Wednesdays (201?). “”, YouTube. https://youtu.be/c7N6_zuWtCU (TODO)
+[2] Waifu Wednesdays! (@waifuwed) (2018 Feb 21). “New upload : 鏡(Kagami) by @toccoyaki x @nakanojojo
+
+Listen now! :”, Twitter. https://twitter.com/waifuwed/status/966321330176983040 (accessed 2023 May 29)
+カラーズぱわーにおまかせろ！
+カラーズぱわーにおまかせろ！ (Sober Bear Remix)
+Artist: 
+Song length (min:sec): 
+Curated by:
+* Waifu Wednesdays
+References/Links:
+[1] Waifu Wednesdays (201?). “”, YouTube. https://youtu.be/cz8bIuh4v4Q (TODO)
+[2] Waifu Wednesdays! (@waifuwed) (2018 Mar 15). “New upload : Sober Bear - カラーズぱわーにおまかせろ！[Remix]
+
+Listen now! :”, Twitter. https://twitter.com/waifuwed/status/974200156764557312 (accessed 2023 May 29)
+カラフル。
+Other Names:
+* Colorful. (Romaji) [1][2]
+Artists:
+* 沢井美空 (Sawai Miku) (primary artist)
+Franchise: 冴えない彼女の育てかた (Saekano: How to Raise a Boring Girlfriend) [1]
+Remixes:
+* カラフル。 (kamaboko remix)
+References/Links:
+[1] “Saekano”, (2022, Dec 05). Wikipedia. https://en.wikipedia.org/wiki/Saekano (accessed 2023 May 10)
+[2] “Colorful.”, (2019 Nov 06). Saenai Heroine no Sodatekata Wiki, Fandom. https://saekano.fandom.com/wiki/Colorful. (accessed 2023 May 10)
+[3] YouTube. https://www.youtube.com/watch?v=klbXQsHkHkA (TODO)
+カラフル。 (kamaboko remix)
+Remix of: カラフル。
+Remix Artist: kamaboko
+Song length (min:sec): 05:04 [1][2]
+Artist’s Notes:
+* 続編制作決定おめでとうございます [2]
+Lyrics: (TODO: from [1])
+Curated by:
+* Waifu Wednesdays
+References/Links:
+[1] Waifu Wednesdays (2015 Oct 07). “Kamaboko - Colorful”, YouTube. https://www.youtube.com/watch?v=FkUIAeBcVUw (accessed 2023 May 10)
+[3] Waifu Wednesdays! (@waifuwed) (2015 Oct 07). “New upload featuring the awesome @___kamaboko ! Saekano ED Remix! Hope you enjoy!
+
+https://youtube.com/watch?v=FkUIAeBcVUw”, Twitter. https://twitter.com/waifuwed/status/651728470926622721 (accessed 2023 May 20)
+[2] ♡kamaboko♡ (2015 May 05). “カラフル。 (kamaboko remix)”, SoundCloud. https://soundcloud.com/thisiskamaboko/sawamuraspencereriri (accessed 2023 May 10)
+君へのささめき
+Other Names:
+* Kimi e no Sasameki (Romaji) [4]
+* Whisper To You (English translation) [1]
+Artists:
+* Messier (primary artist)
+* Aire (primary artist)
+* 初音ミク (Hatsune Miku) (vocalist, featured artist)
+* TIGO (instrumentalist) [1][3]
+* Nor (special thanks) [1]
+Genre: Electropop [4]
+Song length (min:sec): 04:23 [1], 04:25 [4]
+Notes:
+* Jacket illustrator: Ameyame [1][4]
+Curated by:
+* Waifu Wednesdays
+References/Links:
+[1] Waifu Wednesdays (2015 Oct 28). “Messier x Aire - Whisper To You (君へのささめき)”, YouTube. https://www.youtube.com/watch?v=e8rs_3eNePc (TODO)
+[3] Waifu Wednesdays! (@waifuwed) (2015 Oct 28). “New upload featuring a collaboration between Messier and Aire! We hope you enjoy ヽ(・∀・ )ﾉ
+
+https://youtube.com/watch?v=e8rs_3eNePc”, Twitter. https://twitter.com/waifuwed/status/659326995004829696 (accessed 2023 May 20)
+[2] SoundCloud. https://soundcloud.com/lmlessier/sasameki (dead link, last checked 2023 May 20)
+[4] “君へのささめき  Messier, Aire feat. 初音ミク”. (2018 Jan 23). VocaDB. https://vocadb.net/S/103945 (accessed 2023 May 20)
+銀河鉄道のペンギン
+Other Names:
+* Penguin of Galactic Railroad (English [1][4])
+References/Links:
+[1] SoundCloud. https://soundcloud.com/aiobahn/penguin (dead link, last checked 2023 May 26)
+[2] Waifu Wednesdays! (@waifuwed) (2016 Feb 10). “Aiobahn and Yunomi are back at it with another super dope collab track! (๑•̀ㅁ•́๑)✧
+
+https://soundcloud.com/aiobahn/penguin”, Twitter. https://twitter.com/waifuwed/status/697322902321029121 (accessed 2023 May 26)
+[3] Waifu Wednesdays (201?). “”, YouTube. (TODO)
+[4] Waifu Wednesdays! (@waifuwed) (2016 Feb 17). “New upload : Penguin of Galactic Railroad by @Aiobahn, @iamyunomi, and @nicamoq 
+
+https://youtu.be/nf3WQ-iNtnE
+
+(｢・ω・)｢”, Twitter. https://twitter.com/waifuwed/status/699875693698621440 (accessed 2023 May 27)
+くるくるファンタジー
+Other Names:
+* Kuru Kuru Fantasy [2]
+Artist: 
+Song length (min:sec): 
+Curated by:
+* Waifu Wednesdays
+References/Links:
+[1] Waifu Wednesdays (201?). “”, YouTube. https://youtu.be/QIhU-dmMsHU (TODO)
+[2] Waifu Wednesdays! (@waifuwed) (2017 Apr 05). “New upload : Kuru Kuru Fantasy by @happy_krkr!
+
+Listen now! :”, Twitter. https://twitter.com/waifuwed/status/849492555129643008 (accessed 2023 May 29)
+サ・ク・ラ・サ・ク
+Other Names:
+* Sakura Saku [1]
+Artists:
+* Yunomi (producer; lyricist; primary artist)
+* nicamoq (vocalist; featured artist)
+Genre: Pop [1]
+Song length (min:sec): 04:06 [1]
+Label:
+ヴィレッジヴァンガードミュージック [1]
+Release date: 2016 Oct 12 [1]
+Lyrics [1]: (TODO: clean up)
+また今日も何も得ないままに日が暮れた
+まぁ凝りもせず、赤く染まる冬の西の空に背を向けた
+死んだ目をした家畜の餌で回る回る太陽
+いっそ明日昇らなければ、どれだけ楽なんでしょう
+
+
+悔しさ堪えて見る夢は、なんて理想的な運命
+怠惰と慢心とプライドとの葛藤の結果は、トゥー・レイト
+道ばたに落ちたゴミみたいなちっぽけな幸せを、
+ほらひとつ、またひとつ、かき集める毎日を
+
+
+あとどのくらい待てばやってくるんでしょう
+傷つくことに存外、ひどく疲れてしまったの
+何をするわけじゃない、私はここでただ桜の季節を、
+いつかやって来るあなたを待ちわびているのです
+
+
+そして、春がきて、夏がきて、秋と冬と、恋と別れ
+それじゃあいったい物語の鍵を握っているのは誰？
+手にした生活とかねてからの夢を秤に乗せず、
+ここはひとつ妥協して世知辛い現実のせいにしよう
+
+
+あとどのくらい、耐えればいいのでしょう
+頑張ることってなんだい、ひどく疲れてしまったの
+何をするわけじゃない、私はここでただ桜の季節を、
+いつかやって来るあなたを待ちわびているのです
+
+
+巡る 巡る またやってくる
+長い旅の途中 出会う
+
+
+桜咲く 今年もそう当然のように
+絶望を 何度となく飲み込んでは
+桜咲く 私もそういつかきっと
+出会う あなたを思うよ
+Part of Album: (TODO)
+* ゆのみっくにお茶して
+* ゆのもきゅ
+Remixes:
+* Sakura Saku (Omoshiroebi Remix)
+* サ・ク・ラ・サ・ク(Jun Kuroda Mix)
+References/Links:
+[1] Yunomi (2015 June 04). “サ・ク・ラ・サ・ク (feat. nicamoq)”, SoundCloud. https://soundcloud.com/tkrism/sakura-saku (accessed 2023 May 08)
+サ・ク・ラ・サ・ク(Jun Kuroda Mix)
+Remix of: サ・ク・ラ・サ・ク
+Remix Artist: Jun Kuroda
+Genre: Jazz [1], Pop [1]
+Song length (min:sec): 03:58 [1]
+References/Links:
+[1] Jun Kuroda (2015 Sept 03). “Yunomi - サ・ク・ラ・サ・ク(Jun Kuroda Mix)”, SoundCloud. https://soundcloud.com/jun_kuroda/yunomi-jun-kuroda-mixfree-dl (accessed 2023 May 20)
+[3] Waifu Wednesdays! (@waifuwed) (2015 Sept 13). “this is actually really nice (@_junkuroda)
+
+https://soundcloud.com/jun_kuroda/yunomi-jun-kuroda-mixfree-dl”, Twitter. https://twitter.com/waifuwed/status/643163175169429504 (accessed 2023 May 26)
+[2] ToneDen. https://www.toneden.io/jun-kuroda/post/yunomi-jun-kuroda-mixfree-dl (TODO)
 ジェリーフィッシュ
 Other Names:
 Romaji/English: Jellyfish
@@ -1542,6 +3481,27 @@ Artists:
 Appears in collection:
 * [神曲] Kawaii EDMオススメ10曲 [まとめ]
 Links: YouTube: https://www.youtube.com/watch?v=LtrB_8CejUA (TODO)
+守護霊
+守護霊 (Presti Remix)
+Artist: 
+Song length (min:sec): 
+Curated by:
+* Waifu Wednesdays
+References/Links:
+[1] Waifu Wednesdays (201?). “”, YouTube. (TODO)
+[2] Waifu Wednesdays! (@waifuwed) (2017 Oct 19). “New upload : Yunomi - 守護霊 feat. nicamoq (Presti remix)
+
+Listen now! : https://youtube.com/watch?v=Cttbq1ra9dM”, Twitter. https://twitter.com/waifuwed/status/921163718246969344 (accessed 2023 May 29)
+好き? Suki!
+Artist: 
+Song length (min:sec): 
+Curated by:
+* Waifu Wednesdays
+References/Links:
+[1] Waifu Wednesdays (201?). “”, YouTube. (TODO)
+[2] Waifu Wednesdays! (@waifuwed) (2017 Feb 08). “This week's upload! : 好き? Suki! by @nighttempo and @Tomggg! (Visuals by @BOINBOISBOS)!✨
+
+Listen now! : https://youtube.com/watch?v=S8pjExFdu7g”, Twitter. https://twitter.com/waifuwed/status/829312131090767872 (accessed 2023 May 28)
 過ぎゆく日と君へ
 Artists:
 * Aiobahn (producer; primary artist) [3]
@@ -1605,14 +3565,116 @@ Curated by:
 References/Links:
 [1] Waifu Wednesdays (2018 Jan 18 (TODO: check time zone)). “Aiobahn - 過ぎゆく日と君へ (feat. nayuta)”, YouTube. https://www.youtube.com/watch?v=MvHcqjcPZ1M (dead link, last checked 2023 Apr 07)
 [2] Internet Archive (2020 Feb 12). https://web.archive.org/web/20200212053720/https://www.youtube.com/watch?v=MvHcqjcPZ1M (accessed 2023 Apr 07)
+[9] Waifu Wednesdays! (@waifuwed) (2018 Jan 18). “New upload : @Aiobahn - 過ぎゆく日と君へ (feat. @7utauta)
+
+Listen now! : https://youtube.com/watch?v=MvHcqjcPZ1M”, Twitter. https://twitter.com/waifuwed/status/954038161759395840 (accessed 2023 May 29)
 [3] Aiobahn (2018 Jan 09). “Aiobahn - 過ぎゆく日と君へ (feat. nayuta) [Official Audio]”, YouTube. https://www.youtube.com/watch?v=n5Jv-FFhfDU (accessed 2023 Apr 07)
 [7] Aiobahn (2018 Jan 09) “過ぎゆく日と君へ (feat. nayuta)”, SoundCloud. https://soundcloud.com/aiobahn/four-seasons (dead link, last checked 2023 Apr 07)
 [8] Internet Archive (2019 Aug 15). https://web.archive.org/web/20190815180703/https://soundcloud.com/aiobahn/four-seasons (accessed 2023 Apr 08)
 [4] https://fanlink.to/four-seasons (replaced with [5], accessed 2023 Apr 07)
 [5] https://aiobahn.lnk.to/passing-days (TODO)
 [6] Aiobahn (2018 Feb 02). “過​ぎ​ゆ​く​日​と​君​へ (feat. nayuta)”, Bandcamp. https://aiobahn.bandcamp.com/track/feat-nayuta (accessed 2023 Apr 07)
+すとろべりーカルテ
+Artist: 
+Song length (min:sec): 
+Curated by:
+* Waifu Wednesdays
+References/Links:
+[1] Waifu Wednesdays (201?). “”, YouTube. (TODO)
+[2] Waifu Wednesdays! (@waifuwed) (2017 Aug 23). “New upload : すとろべりーカルテ (feat. @momobakobako) [Full ver♥] by @iamyunomi 
 
+Listen now! : https://youtube.com/watch?v=WgjcdDgzJ-4”, Twitter. https://twitter.com/waifuwed/status/900293954691715072 (accessed 2023 May 29)
+すれ違い僕と君の通信
+Artist: 
+Song length (min:sec): 
+Curated by:
+* Waifu Wednesdays
+References/Links:
+[1] Waifu Wednesdays (201?). “”, YouTube. (TODO)
+[2] Waifu Wednesdays! (@waifuwed) (2018 Feb 04). “New upload : すれ違い僕と君の通信 (nicamoq solo mix) by nicamoq!
 
+Listen now! : https://youtube.com/watch?v=f_hP7eX46Rg”, Twitter. https://twitter.com/waifuwed/status/960105400619089920 (accessed 2023 May 29)
+戦国HOP
+Artist: 
+Song length (min:sec): 
+Curated by:
+* Waifu Wednesdays
+References/Links:
+[1] Waifu Wednesdays (201?). “”, YouTube. (TODO)
+[2] Waifu Wednesdays! (@waifuwed) (2017 Jan 25). “New upload! : Sengoku Hop by @yuce_e!
+
+Listen now! : https://youtube.com/watch?v=G5bIBO81-uM
+
+✨✨✨”, Twitter. https://twitter.com/waifuwed/status/824234545432170496 (accessed 2023 May 28)
+そばが食べたい
+そばが食べたい (MMQX Remix)
+Artist: 
+Song length (min:sec): 
+Curated by:
+* Waifu Wednesdays
+References/Links:
+[1] Waifu Wednesdays (201?). “”, YouTube. (TODO)
+[2] Waifu Wednesdays! (@waifuwed) (2016 June 08). “New upload : Soba ga Tabetai by MMQX! (@mmqx0430)
+
+https://youtube.com/watch?v=9aONuTF1DnM
+
+We hope you enjoy! ( ・∀・)v”, Twitter. https://twitter.com/waifuwed/status/740399587362504704 (accessed 2023 May 27)
+東京シュノーケル
+Artist: 
+Song length (min:sec): 
+Curated by:
+* Waifu Wednesdays
+References/Links:
+[1] Waifu Wednesdays (201?). “”, YouTube. (TODO)
+[2] Waifu Wednesdays! (@waifuwed) (2017 Oct 24). “New upload : Yunomi - 東京シュノーケル (feat. nicamoq)! (Tokyo Snorkel)!
+
+Listen now! : https://youtube.com/watch?v=AvfuzNdUh5A”, Twitter. https://twitter.com/waifuwed/status/922781356203032576 (accessed 2023 May 29)
+ドリームCastle (Dream Castle)
+References/Links:
+[1] SoundCloud. https://soundcloud.com/ujico/dreamcastle (TODO)
+[2] Waifu Wednesdays! (@waifuwed) (2015 Dec 16). “ALSO UJICO* / SNAIL'S HOUSE (@loudnessfete) HAS A NEW AWESOME TRACK OUT
+
+https://soundcloud.com/ujico/dreamcastle”, Twitter. https://twitter.com/waifuwed/status/677031337925152768 (accessed 2023 May 27)
+ドリームCastle (Aire Remix)
+Artist: 
+Song length (min:sec): 
+Curated by:
+* Waifu Wednesdays
+References/Links:
+[1] Waifu Wednesdays (201?). “”, YouTube. (TODO)
+[2] Waifu Wednesdays! (@waifuwed) (2016 Aug 03). “New upload : Dream Castle (Remix) by @Aire_____!
+
+https://youtube.com/watch?v=hbcQWl3QfbE
+
+Have a great Wednesday!
+（ ・∀・）v”, Twitter. https://twitter.com/waifuwed/status/760798947724169217 (accessed 2023 May 27)
+永久の宴
+Other Names:
+* Towa no Utage (Romaji) [2]
+Artists:
+* Aiobahn (primary artist)
+* YUC'e (vocalist, lyricist, featured artist)
+Song length (min:sec): 
+Curated by:
+* Waifu Wednesdays
+References/Links:
+[1] Waifu Wednesdays (201?). “”, YouTube. (TODO)
+[2] Waifu Wednesdays! (@waifuwed) (2016 Dec 28). “New upload : "Towa no Utage" by @Aiobahn featuring @yuce_e!
+
+Listen now! : https://youtube.com/watch?v=wbsd_lfRPnM”, Twitter. https://twitter.com/waifuwed/status/813973826933493761 (accessed 2023 May 28)
+[3] YUC'e ゆーしえ (@yuce_e) (2016 Dec 28). “I did not only sing this song, but also i composed and wrote the lyrics. Enjoy!! 💖💖💖”, Twitter. https://twitter.com/yuce_e/status/813977768425725952 (accessed 2023 May 28)
+ナツゾラ
+Other Names:
+* Natsuzora (Romaji) [2]
+Artist: 
+Song length (min:sec): 
+Curated by:
+* Waifu Wednesdays
+References/Links:
+[1] Waifu Wednesdays (201?). “”, YouTube. (TODO)
+[2] Waifu Wednesdays! (@waifuwed) (2017 July 27). “New upload! : Natsuzora by @honeycomebear!
+
+Listen now! : https://youtube.com/watch?v=6tOnKPDtqlo”, Twitter. https://twitter.com/waifuwed/status/890641184040771584 (accessed 2023 May 29)
 夏の真夜中
 Other Names:
 * Midnight on Summer
@@ -1675,6 +3737,9 @@ Curated by:
 References/Links:
 [1] Waifu Wednesdays (2017 Aug 15 (TODO: check time zone)). “Aiobahn - Midnight on Summer (ft. Antenna Girl)”, YouTube. https://www.youtube.com/watch?v=FWJf9DBqZtk (dead link, last checked 2023 Apr 07)
 [2] Internet Archive (2017 Aug 16). https://web.archive.org/web/20170816073658/https://www.youtube.com/watch?v=FWJf9DBqZtk (accessed 2023 Apr 07)
+[7] Waifu Wednesdays! (@waifuwed) (2017 Aug 16). “New upload : Midnight of Summer by @Aiobahn (ft. @antenna0718)!
+
+Listen now! : https://youtube.com/watch?v=FWJf9DBqZtk”, Twitter. (accessed 2023 May 29)
 [3] Aiobahn (2017 August 08). “夏​の​真​夜​中 (feat. ア​ン​テ​ナ​ガ​ー​ル​)”, Bandcamp. https://aiobahn.bandcamp.com/track/feat (accessed 2023 Apr 07)
 [4] Aiobahn (2018 Aug 08). “夏の真夜中 (feat. アンテナガール)”, SoundCloud. https://soundcloud.com/aiobahn/midnight-on-summer (dead link, last checked 2023 Apr 08)
 [5] Internet Archive (2019 Aug 15). https://web.archive.org/web/20190815180716/https://soundcloud.com/aiobahn/midnight-on-summer (accessed 2023 Apr 08)
@@ -1687,6 +3752,16 @@ Appears in Collection:
 * [ Kawaii Future Bass Collection Vol.4 ]
 References/Links:
 [1] SoundCloud. https://soundcloud.com/street/free-dl-2 (TODO)
+ハートのGROOVE
+Artist: 
+Song length (min:sec): 
+Curated by:
+* Waifu Wednesdays
+References/Links:
+[1] Waifu Wednesdays (201?). “”, YouTube. (TODO)
+[2] Waifu Wednesdays! (@waifuwed) (2017 Oct 06). “New upload : ハートのGROOVE by @mikazukiBIGWAVE!
+
+Listen now! : https://youtube.com/watch?v=tf5evVP4iNE”, Twitter. https://twitter.com/waifuwed/status/916237264216190977 (accessed 2023 May 29)
 始める
 Other Names:
 * Hajimeru (Rōmaji)
@@ -1714,9 +3789,41 @@ Appears in collection:
 References/Links:
 [1] SoundCloud. https://soundcloud.com/realdreamhackers/happy-kuru-kuru-dream-hackers-remix (dead link, last checked 2023 Mar 19)
 [2] YouTube. https://www.youtube.com/watch?v=QbK6KkGQs6s (TODO)
+ファインダー
+ファインダー (KOTONOHOUSE Re:package)
+Artist: 
+Song length (min:sec): 
+Curated by:
+* Waifu Wednesdays
+References/Links:
+[1] Waifu Wednesdays (201?). “”, YouTube. (TODO)
+[2] Waifu Wednesdays! (@waifuwed) (2017 Nov 16). “New upload : livetune - ファインダー(@KOTONOHOUSE Re:package)
+
+Listen now! : https://youtube.com/watch?v=2brEjqK4BgQ”, Twitter. https://twitter.com/waifuwed/status/931028642506960896 (accessed 2023 May 29)
+ふ・れ・ん・ど・し・た・い
+(TODO)
+ふ・れ・ん・ど・し・た・い (kamaboko remix)
+https://soundcloud.com/thisiskamaboko/sakuramegumisan (TODO)
+ベッドルームの夢
+Other Names:
+* Bedroom Dream [2][3]
+Artist: 
+Song length (min:sec): 
+Curated by:
+* Waifu Wednesdays
+References/Links:
+[1] Waifu Wednesdays (201?). “”, YouTube. (TODO)
+[2] Waifu Wednesdays! (@waifuwed) (2016 May 04). “New upload : Bedroom Dream by @iamyunomi and @MAJIRESU_YAMETE!
+
+We hope you enjoy (๑•̀ㅁ•́๑)✧
+
+https://youtube.com/watch?v=9PJGq4nuOV4”, Twitter. https://twitter.com/waifuwed/status/727783404532584448 (accessed 2023 May 27)
+[3] Waifu Wednesdays! (@waifuwed) (2016 May 04). “The new upload featuring Yunomi and LovelySummer-Chan is up!
+
+https://youtube.com/watch?v=9PJGq4nuOV4”, Twitter. https://twitter.com/waifuwed/status/727914279572103168 (accessed 2023 May 27)
 枕元にゴースト
 Other Names:
-Romaji: Makuramoto ni Ghost
+Romaji: Makuramoto ni Ghost [5]
 Artists:
 * Aiobahn (composer; primary artist)[2]
 * Yunomi (lyricist; composer; primary artist)[2]
@@ -1777,12 +3884,20 @@ Lyrics [2]: (TODO: clean up)
 枕元で祈っているよ
 Part of Album:
 * ゆのもきゅ
+Curated by:
+* Waifu Wednesdays [5]
 Remixes:
 * 枕元にゴースト (KATOMORI Remix)
 References/Links:
 [1] Yunomi (2018 Oct 07). “枕元にゴースト (feat. nicamoq)”, YouTube. https://www.youtube.com/watch?v=I7-EWVVWFa8 (accessed 2023 Apr 02)
 [2] Yunomi (2017 Oct 18). “Aiobahn & Yunomi - 枕​元​に​ゴ​ー​ス​ト (feat. nicamoq)”, Bandcamp. https://iamyunomi.bandcamp.com/track/feat-nicamoq-9 (accessed 2023 Apr 02)
 [3] SoundCloud. https://soundcloud.com/aiobahn/ghost (dead link, last checked 2023 Apr 02)
+[4] Waifu Wednesdays (201?). “”, YouTube. (TODO)
+[5] Waifu Wednesdays! (@waifuwed) (2015 Dec 02). “New upload featuring @Aiobahn & @tkrism (Yunomi)! Enjoy B)
+
+枕元にゴースト (Makuramoto ni Ghost)
+
+https://youtube.com/watch?v=-bV4Sb932Z0”, Twitter. https://twitter.com/waifuwed/status/671932511661006848 (accessed 2023 May 21)
 枕元にゴースト (KATOMORI Remix)
 Remix of: 枕元にゴースト
 Remix Artist: KATOMORI
@@ -1839,8 +3954,62 @@ Appears in Collection:
 * Anime Moe!~♫Most Beautiful & Cutest EDM | Kawaii Music♫
 References/Links:
 [1] Waifu Wednesdays (2017 Mar 14). “Katomori - Makuramoto ni Ghost Remix”, YouTube. https://www.youtube.com/watch?v=7zGbTKrYXgQ (accessed 2023 Apr 02)
+[4] Waifu Wednesdays! (@waifuwed) (2017 Mar 15). “New upload : Makuramoto ni Ghost Remix by @katomori10!
+
+Listen now! : https://youtube.com/watch?v=7zGbTKrYXgQ”, Twitter. https://twitter.com/waifuwed/status/842010197879070721 (accessed 2023 May 28)
 [2] KATOMORI_Archive (2020 May 25). “枕元にゴースト(KATOMORI Remix)”, SoundCloud. https://soundcloud.com/katomori10/aiobahn-yunomi-katomori-remix (TODO)
 [3] ToneDen. https://www.toneden.io/katomori/post/aiobahn-yunomi-katomori-remix (TODO)
+マジカルスイートケーキ
+Artist: 
+Song length (min:sec): 
+Curated by:
+* Waifu Wednesdays
+References/Links:
+[1] Waifu Wednesdays (201?). “”, YouTube. (TODO)
+[2] Waifu Wednesdays! (@waifuwed) (2017 Apr 19). “New upload : マジカルスイートケーキ (w/ Yunomi + ボンジュール鈴木) Remix by @NOR0910!
+
+Listen now! : https://youtube.com/watch?v=URPyADFxw38”, Twitter. https://twitter.com/waifuwed/status/854658439376642048 (accessed 2023 May 29)
+マシュマロ・マキアート
+Artist: 
+Song length (min:sec): 
+Curated by:
+* Waifu Wednesdays
+References/Links:
+[1] Waifu Wednesdays (201?). “”, YouTube. (TODO)
+[2] Waifu Wednesdays! (@waifuwed) (2018 Jan 10). “New upload: @KOTONOHOUSE & @iamyunomi - マシュマロ・マキアート (feat.くいしんぼあかちゃん)
+
+Listen now! : https://youtube.com/watch?v=YkEn5OtAC60”, Twitter. https://twitter.com/waifuwed/status/951002873508151296 (accessed 2023 May 29)
+めんたいコズミック
+Artist: 
+Song length (min:sec): 
+Curated by:
+* Waifu Wednesdays
+References/Links:
+[1] Waifu Wednesdays (201?). “”, YouTube. (TODO)
+[2] Waifu Wednesdays! (@waifuwed) (2015 Nov 25). “New Upload : Mentai Cosmic by @tkrism (Yunomi)!
+
+We hope you enjoy (｀･ω･´)ゞ!
+
+https://youtube.com/watch?v=XrT8Fi0Gk9Q”, Twitter. https://twitter.com/waifuwed/status/669430658570313729 (accessed 2023 May 21)
+夢のかたち
+Artist: 
+Song length (min:sec): 
+Curated by:
+* Waifu Wednesdays
+References/Links:
+[1] Waifu Wednesdays (201?). “”, YouTube. (TODO)
+[2] Waifu Wednesdays! (@waifuwed) (2018 Sept 17). “New upload! : Elliot Hsu - 夢のかたち (ft. Yuca) [Flay! Remix]
+
+Listen now! : https://youtube.com/watch?v=dNaqojSz2Nc”, Twitter. https://twitter.com/waifuwed/status/1041660997822365696 (accessed 2023 May 29)
+夢際のパラレル
+夢際のパラレル (Yunomi Remix)
+Artist: 
+Song length (min:sec): 
+Curated by:
+* Waifu Wednesdays
+References/Links:
+[1] Waifu Wednesdays (201?). “”, YouTube. (TODO)
+[2] Waifu Wednesdays! (@waifuwed) (2018 Apr 08). “NEO JAPONISM - 夢際のパラレル (Yunomi Remix) [J-Pop]: http://youtu.be/rbrstUzGJLI?a via @YouTube”, Twitter. https://twitter.com/waifuwed/status/982945466370289664 (accessed 2023 May 30)
 夜空はなんでも知ってるの？
 Other Names:
 Romaji: Yozora wa Nandemo Shitteru no?
@@ -1858,6 +4027,42 @@ Remixes:
 References/Links:
 [1] Love Live! Wiki (2022 Aug 3) “Yozora wa Nandemo Shitteru no?”, Fandom. https://love-live.fandom.com/wiki/Yozora_wa_Nandemo_Shitteru_no%3F (accessed 2023 Mar 15)
 [2] CYaRon! - Topic (2020 Sept 17). “夜空はなんでも知ってるの?”, YouTube. https://www.youtube.com/watch?v=-ugxwDzsflE (accessed 2023 Apr 02)
+ラ・ム・ネ
+Artist: 
+Song length (min:sec): 
+Curated by:
+* Waifu Wednesdays
+References/Links:
+[1] Waifu Wednesdays (201?). “”, YouTube. (TODO)
+[2] Waifu Wednesdays! (@waifuwed) (2016 Feb 24). “New upload : ラ・ム・ネ (ra-mu-ne) by Ujico*/Snail's House! (@loudnessfete)
+
+We hope you enjoy!
+
+https://youtube.com/watch?v=RkVgc9RFg3U”, Twitter. https://twitter.com/waifuwed/status/702427184510672896 (accessed 2023 May 21)
+ロボティックガール
+Artist: 
+Song length (min:sec): 
+Curated by:
+* Waifu Wednesdays
+References/Links:
+[1] Waifu Wednesdays (201?). “”, YouTube. (TODO)
+[2] Waifu Wednesdays! (@waifuwed) (2016 Feb 10). “New upload : "Yunomi - Robotic Girl"! (by @iamyunomi and @nicamoq)
+
+https://youtube.com/watch?v=6FwGR-2csBg
+
+(๑•̀ㅁ•́๑)✧”, Twitter. https://twitter.com/waifuwed/status/697303552373432320 (accessed 2023 May 21)
+惑星ラビット
+Other Names:
+* Wakusei Rabbit (Romaji)
+Artist: 
+Song length (min:sec): 
+Curated by:
+* Waifu Wednesdays
+References/Links:
+[1] Waifu Wednesdays (201?). “”, YouTube. (TODO)
+[2] Waifu Wednesdays! (@waifuwed) (2016 July 27). “New upload : "Wakusei Rabbit" by @iamyunomi (ft. @toriena)!
+
+https://youtu.be/ii7dzCwmc6c”, Twitter. https://twitter.com/waifuwed/status/758173194792607744 (accessed 2023 May 27)
 Artist
 2ToneDisco
 Songs:
@@ -1880,17 +4085,27 @@ Songs:
 * 枕元にゴースト (with Yunomi; nicamoq)
 * 過ぎゆく日と君へ (with nayuta)
 * 夏の真夜中 (with アンテナガール)
+* Good Night (Aiobahn Remix)
 Links:
 Facebook: https://www.facebook.com/aiobahn (TODO)
 Instagram: https://www.instagram.com/aiobahn (TODO)
 Twitter: https://twitter.com/Aiobahn (TODO)
 YouTube: https://www.youtube.com/@Aiobahn (TODO)
 Website:
-* http://aiobahn.com (outdated link, replaced, last checked 2023 Apr 07)
+* http://aiobahn.com (dead link, replaced, last checked 2023 Apr 07)
 * https://www.aiobahn.net (TODO)
 Aire
 Songs:
 * Tea Time
+* 君へのささめき (with Messier et al.)
+Links:
+Facebook: https://www.facebook.com/shinobusuki (outdated link, last checked 2023 May 08)
+SoundCloud:
+* https://soundcloud.com/shinobusuki (outdated link, replaced, last checked 2023 May 08)
+* https://soundcloud.com/aire9803 (TODO)
+Twitter:
+* https://twitter.com/Aire_____ (outdated link, replaced, last checked 2023 May 08)
+* https://twitter.com/Aire__ (TODO)
 alpha
 Songs:
 * Night Parade
@@ -1899,6 +4114,7 @@ Songs:
 * Chuuni (with Tecchi; Kagi)
 Links:
 SoundCloud: https://soundcloud.com/amacchi (TODO)
+Twitter: https://twitter.com/amacchikun (dead link, last checked 2023 May 20)
 Ancraft
 Songs:
 * LiLac Box
@@ -1907,14 +4123,27 @@ SoundCloud: https://soundcloud.com/ancraft (dead link, last checked 2023 Mar 11)
 YouTube: https://www.youtube.com/channel/UClQlebRDDFbTAi-Qc1CjarQ (dead link, last checked 2023 Mar 11)
 ANDROID52
 Songs:
-* Links:
+* The New Shrimp Groove
+* Super Anime Groove [3D World]
+Links:
+Bandcamp:
+* https://baq5.bandcamp.com (outdated link, replaced, last checked 2023 May 10)
+* https://android52.bandcamp.com (TODO)
 Facebook: https://www.facebook.com/thebaq5 (dead link, last checked 2023 Mar 07)
 SoundCloud: https://soundcloud.com/android52 (TODO)
-Twitter: https://twitter.com/thebaq5 (dead link, last checked 2023 Mar 07)
-YouTube: https://www.youtube.com/c/FabianImbri (dead link, last checked 2023 Mar 07)
+Spotify: https://open.spotify.com/artist/3D4WFT29xe0sfSkXNvpmRG (TODO)
+Twitter:
+* https://twitter.com/thebaq5 (dead link, replaced, last checked 2023 Mar 07)
+* https://twitter.com/_android52 (TODO)
+YouTube:
+* https://www.youtube.com/c/FabianImbri (dead link, replaced, last checked 2023 Mar 07)
+* https://www.youtube.com/@android52 (TODO)
 Antenna Girl
 Redirect:
 See: アンテナガール
+Aori
+Links:
+Twitter: https://twitter.com/_aoritsu (TODO)
 ARForest
 Songs:
 * Tomori
@@ -1933,6 +4162,7 @@ Songs:
 Links:
 SoundCloud: https://soundcloud.com/bbyukus (TODO)
 Spotify: https://open.spotify.com/artist/3LzYB0lXo2bNKWnAk867S9 (TODO)
+Twitter: https://twitter.com/bbyukus (TODO)
 Capchii
 Songs:
 * Teach Me How To
@@ -1940,6 +4170,9 @@ Links:
 SoundCloud: https://soundcloud.com/capchii (TODO)
 Twitter: https://twitter.com/capchii (TODO)
 Website: https://www.capchii.work (TODO)
+Cenji
+Links:
+Twitter: https://twitter.com/CenjiMusic (TODO)
 Cinders
 Songs:
 * BUBBLE TEA (with dark cat; juu)
@@ -1969,6 +4202,9 @@ Website: https://www.csgordie.com (dead link, last checked 2023 Apr 08)
 cute girls doing cute things
 Songs:
 * main heroine
+* Megu (with Seiun)
+Links:
+Twitter: https://twitter.com/cutegirlsmusic (TODO)
 dark cat
 Songs:
 * BUBBLE TEA (with juu; cinders)
@@ -1987,13 +4223,42 @@ Songs:
 * Cream Soda
 Links:
 SoundCloud: https://soundcloud.com/dartokki (TODO)
+Desired
+Links:
+Twitter: https://twitter.com/desiredomg (TODO)
 dextrust
 Songs:
 * Aire - Tea Time (dextrust Remix)
+Discandy
+Other Names:
+* TheRawestOtaku (Twitter, last checked 2023 May 20)
+* Shou (2015-? [1])
+Songs:
+* I Love You
+Albums:
+* All Night with Bae (TODO: https://discandy.bandcamp.com/album/-)
+References/Links:
+[1] Waifu Wednesdays! (@waifuwed) (2015 Sept 07). “Special Monday upload featuring Shou!
+
+Wednesday upload coming up!~”, Twitter. https://twitter.com/waifuwed/status/641017972832751616 (accessed 2023 May 20)
+Links:
+Bandcamp:
+* https://shoushou.bandcamp.com (dead link, last checked 2023 May 07)
+* https://discandy.bandcamp.com (TODO)
+Facebook: https://www.facebook.com/Discandy (TODO)
+SoundCloud:
+* https://soundcloud.com/the-rawest-otaku (dead link, replaced, last checked 2023 May 07)
+* https://soundcloud.com/discandy (TODO)
+Twitter: https://twitter.com/TheRawestOtaku (TODO)
 Dream Hackers
 Songs:
 * Yunomi & Happy Kuru Kuru - はんぶんこ花火 (Dream Hackers Remix)
 Notes: SoundCloud account defunct
+Electric Dad
+Songs:
+* Nosedive
+Links:
+Twitter: https://twitter.com/electric_Dad_ (TODO)
 Elkuu
 Links:
 SoundCloud: https://soundcloud.com/elkuu (TODO)
@@ -2024,10 +4289,14 @@ Twitter: https://twitter.com/foxfulmusic (TODO)
 Freezer
 Songs:
 * Dreamin’ Tonight (with 妃苺)
+Links:
+Twitter: https://twitter.com/freezer999 (TODO)
 fusq
 Songs:
+* Perfume
 * Blush (with MYLK)
 Albums:
+* Lost Station (EP)
 * Polarity (EP)
 Links:
 Facebook: https://www.facebook.com/fusqmusic (TODO)
@@ -2040,10 +4309,30 @@ Happy Kuru Kuru
 Songs:
 * はんぶんこ花火 (with Yunomi)
 Note: SoundCloud account defunct
+Links:
+Twitter: https://twitter.com/happy_krkr (dead link, last checked 2023 May 29)
+happy machine
+Links:
+Twitter: https://twitter.com/happy_machine (outdated link, last checked 2023 May 21)
 Harito
 Links:
 SoundCloud: https://soundcloud.com/harito (TODO)
 Twitter: https://twitter.com/Harito_0 (TODO)
+Hikari
+Links:
+Twitter: https://twitter.com/musicbyhikari (TODO)
+Hikaru Station
+Links:
+Twitter:
+* https://twitter.com/hikarustation (outdated link, last checked 2023 May 27)
+* https://twitter.com/baovtuber (TODO)
+Holder
+Songs:
+* Candy Rush
+Links:
+Facebook: https://www.facebook.com/MajorLeagueWobs (TODO)
+SoundCloud: https://soundcloud.com/majorleaguewobs (TODO)
+Twitter: https://twitter.com/MajorLeagueWobs (TODO)
 HoneyComeBear
 Other Names:
 * Japanese: ハニカムベアー
@@ -2061,6 +4350,9 @@ Twitter:
 * Kaako: https://twitter.com/kaako_HCB (TODO)
 * Monkey: https://twitter.com/Monkey_HCB (TODO)
 Website: https://www.honeycomebear.com (TODO)
+Hyleo
+Links:
+Twitter: https://twitter.com/_hyleo (TODO)
 Hyp3rsleep
 Songs:
 * First light
@@ -2070,12 +4362,16 @@ Links:
 SoundCloud: https://soundcloud.com/hyp3rsleep (TODO)
 Spotify: https://open.spotify.com/artist/3ciUzn5SBSMrpsRfXE37lq (TODO)
 Twitter: https://twitter.com/hyp3rsleep (TODO)
+Hyper Potions
+Links:
+Twitter: https://twitter.com/HyperPotions (TODO)
 ichika
 Songs:
 * Night Sky (with Neko Hacker; Mashilo)
 ikura
 Songs:
 * Takarabako
+* Coconut Cabana
 Links:
 Bandcamp: https://ikura.bandcamp.com (TODO)
 Facebook: https://www.facebook.com/ikuratunes (TODO)
@@ -2086,6 +4382,9 @@ YouTube: https://www.youtube.com/@ikuratunes (TODO)
 Ironami
 Songs:
 * Cocoro (with Milkoi)
+Jamie Paige
+Links:
+Twitter: https://twitter.com/jmpgi (dead link, last checked 2023 May 27)
 Jonty Kennedy
 Songs:
 * Intergalactic Space Rave
@@ -2097,6 +4396,8 @@ Jotori
 Songs:
 * Summer Rain
 Jun Kuroda
+Songs:
+* サ・ク・ラ・サ・ク(Jun Kuroda Mix)
 Links:
 SoundCloud: https://soundcloud.com/jun_kuroda (TODO)
 Twitter: https://twitter.com/_JunKuroda (TODO)
@@ -2117,7 +4418,14 @@ Links:
 SoundCloud: https://soundcloud.com/kagimusic (TODO)
 Twitch: https://www.twitch.tv/kagimusic (dead link, last checked 2023 Mar 30)
 Twitter: https://twitter.com/KagiMusic (TODO)
+Kaivaan
+Links:
+Twitter: https://twitter.com/iKaivaan (TODO)
 kamaboko
+Other Names:
+* ♡kamaboko♡ (SoundCloud, last checked 2023 May 10)
+Songs:
+* カラフル。 (kamaboko remix)
 Links:
 SoundCloud: https://soundcloud.com/thisiskamaboko (TODO)
 Twitter: https://twitter.com/___kamaboko (TODO)
@@ -2130,7 +4438,9 @@ Songs:
 Links:
 Facebook: https://www.facebook.com/katomori10 (TODO)
 SoundCloud: KATOMORI_Archive https://soundcloud.com/katomori10 (TODO)
-Twitter: https://twitter.com/katomori10 (dead link, last checked 2023 Apr 02)
+Twitter:
+* https://twitter.com/EVOL_SWONK (dead link, last checked 2023 May 27)
+* https://twitter.com/katomori10 (dead link, last checked 2023 Apr 02)
 Kazmasa
 Names:
 SoundCloud: K A Z M A S A
@@ -2146,6 +4456,9 @@ Kimii
 Songs:
 * Henshin
 * Metsuki
+kiraku
+Links:
+Twitter: https://twitter.com/kiraku_synthboy (TODO)
 Kirara Magic
 Songs:
 * Blue Square
@@ -2160,6 +4473,8 @@ Kocyamarü
 Songs:
 * Favorite Place
 * Hot & Cool
+Links:
+Twitter: https://twitter.com/kcmrunioi (TODO)
 KODOMOi
 Songs:
 * Holiday
@@ -2172,6 +4487,11 @@ Instagram: https://www.instagram.com/hellokodomoi/ (TODO)
 SoundCloud: https://soundcloud.com/kodomoimusic (TODO)
 Twitter: https://twitter.com/hellokodomoi (TODO)
 YouTube: https://www.youtube.com/@KODOMOiMusic (TODO)
+Koinu
+Status: Retired
+Notes: Alias of Varien
+Links:
+Twitter: https://twitter.com/imkoinu (dead link, last checked 2023 May 21)
 KOTOKO
 Songs:
 * INTERNET OVERDOSE (with Aiobahn; にゃるら)
@@ -2179,6 +4499,16 @@ Songs:
 KOTONOHOUSE
 Songs:
 * Let's go boogie
+Links:
+Twitter: https://twitter.com/KOTONOHOUSE (TODO)
+Kotori
+Links:
+Twitter: https://twitter.com/imkotorimusic (TODO)
+kotu
+Other Names:
+* うさこ // kotu (Twitter, SoundCloud, last checked 2023 May 29)
+Links:
+Twitter: https://twitter.com/korewakotu (TODO)
 Kuccii
 Songs:
 * Sunset (with Lewis)
@@ -2194,6 +4524,9 @@ SoundCloud: https://soundcloud.com/kyotoblack (TODO)
 Spotify: https://open.spotify.com/artist/6Vw4k1mznvSYROrxQuTX93 (TODO)
 Twitter: https://twitter.com/kyoto_black (TODO)
 Website: https://www.kyoto.black (dead link, last checked 2023 Apr 08)
+LADY'S ONLY
+Links:
+Twitter: https://twitter.com/lady50nly (dead link, last checked 2023 May 29)
 Lafale
 Songs:
 * Afterglow
@@ -2214,6 +4547,9 @@ Songs:
 Links:
 SoundCloud: https://soundcloud.com/lois1104 (TODO)
 Twitter: https://twitter.com/Loismusic_ (TODO)
+lulu
+Links:
+Twitter: https://twitter.com/lilim___ (TODO)
 Lyrit
 Songs:
 * Green Tea (with Project Skylate)
@@ -2231,6 +4567,20 @@ Links:
 SoundCloud: https://soundcloud.com/immeeyo (TODO)
 Twitter: https://twitter.com/MeeyoThings (TODO)
 YouTube: https://www.youtube.com/@immeeyo (TODO)
+MEMODEMO
+Links:
+Twitter:
+* https://twitter.com/mem0dem0 (outdated link, replaced, last checked 2023 May 30)
+* https://twitter.com/MEMODEMO (TODO)
+Messier
+Songs:
+* 君へのささめき (with Aire et al.)
+Links:
+Bandcamp: https://messierlove2.bandcamp.com (TODO)
+SoundCloud: https://soundcloud.com/lmlessier (TODO)
+Twitter:
+* https://twitter.com/messier__ (outdated link, replaced, last checked 2023 May 20)
+* https://twitter.com/reissemevol (TODO)
 Mihka!
 Songs:
 * Kodokushi (孤独死) (with Kyoto Black)
@@ -2239,13 +4589,41 @@ Facebook: https://www.facebook.com/MihkaMusic (TODO)
 Instagram: https://www.instagram.com/mihkamusic (TODO)
 SoundCloud: https://soundcloud.com/mihkamusic (TODO)
 Twitter: https://twitter.com/MihkaMusic (TODO)
+Miiso
+Links:
+Twitter: https://twitter.com/MiisoMusic (dead link, last checked 2023 May 29)
+Mikeneko Homeless
+Links:
+Twitter:
+* https://twitter.com/hironica (TODO)
+* https://twitter.com/mochilon (TODO)
 Milkoi
 Songs:
 * Cocoro (with Ironami)
 * Kimii - Metsuki (Milkoi Remix)
+* Ruby (with Synthion)
+Links:
+Twitter:
+* https://twitter.com/milkoichan (dead link, replaced, last checked 2023 May 20)
+* https://twitter.com/milkoi_mp3 (TODO)
 Miruku
+Other Names:
+* m i r u k u (stylized, SoundCloud, last checked 2023 May 20)
 Songs:
 * After School
+Links:
+Bandcamp: https://mirukumusic.bandcamp.com (TODO)
+Facebook: https://www.facebook.com/mirukumusic (dead link, last checked 2023 May 20)
+Instagram:
+* https://www.instagram.com/mrkmsc_official (dead link, replaced, last checked 2023 May 20)
+* https://www.instagram.com/mirukumsc (TODO)
+SoundCloud: https://soundcloud.com/mirukumusic (TODO)
+Twitch: https://www.twitch.tv/mirukumusic (TODO)
+Twitter: https://twitter.com/miruku41693991 (dead link, last checked 2023 May 20)
+YouTube: https://www.youtube.com/@MirukuMusic (TODO)
+MMQX
+Links:
+Twitter: https://twitter.com/mmqx0430 (dead link, last checked 2023 May 27)
 Moe Loli
 Other Names:
 * Bubble Tea
@@ -2260,12 +4638,24 @@ SoundCloud: https://soundcloud.com/moeloli (dead link, last checked 2023 Apr 29)
 Twitter: https://twitter.com/korewarori (dead link, last checked 2023 Apr 29)
 YouTube: https://www.youtube.com/c/moeloli (dead link, last checked 2023 Apr 29)
 Moe Shop
+Songs:
+* Moestep
+* Want You
+* You Look So Good
+Albums:
+* Pure Pure
 Links:
 Bandcamp: https://moeshop.bandcamp.com (TODO)
 Facebook: https://www.facebook.com/moeshopmusic (TODO)
 Instagram: https://www.instagram.com/korewamoe (TODO)
-SoundCloud: https://soundcloud.com/moeshop (TODO)
-Twitter: https://twitter.com/korewamoe (TODO)
+Patreon: https://www.patreon.com/moeshop (dead link, last checked 2023 May 07)
+SoundCloud:
+* https://soundcloud.com/keyboard-kid-side-stuff (outdated link, replaced, last checked 2023 May 21)
+* https://soundcloud.com/moeshop (TODO)
+Twitch: https://www.twitch.tv/moeshoppu (dead link, last checked 2023 May 07)
+Twitter:
+* https://twitter.com/ItsKeyboardKid (outdated link, replaced, last checked 2023 May 20)
+* https://twitter.com/korewamoe (TODO)
 YouTube: https://www.youtube.com/@MoeShopMusic (TODO)
 MojiX!
 Songs:
@@ -2288,12 +4678,17 @@ Twitter:
 Mysteka
 Songs:
 * Feel My Emotions (Mysteka Remix)
+Links:
+Twitter: https://twitter.com/b_Mysteka (TODO)
 Nagase Yuuta
 Redirect:
 See: 永瀬 優太
 NaNa
 Songs:
 * Keep It Kawaii
+nanobii
+Links:
+Twitter: https://twitter.com/nanobii (TODO)
 Nansuke
 Songs:
 * Chrysoprase
@@ -2325,6 +4720,7 @@ YouTube: https://www.youtube.com/@NekoHacker (TODO)
 nicamoq
 Songs:
 * 枕元にゴースト (with Aiobahn; Yunomi)
+* サ・ク・ラ・サ・ク (with Yunomi)
 Links:
 Instagram:
 * https://www.instagram.com/nicamoq (outdated link, replaced, last checked 2023 Apr 02)
@@ -2338,14 +4734,20 @@ Songs:
 * Cocoa Blow
 Links:
 SoundCloud:
-* https://soundcloud.com/niewals (outdated link, replaced, last checked 2023 Mar 11)
+* https://soundcloud.com/niewals (dead link, replaced, last checked 2023 Mar 11)
 * https://soundcloud.com/niewalsound (TODO)
 Twitter:
 * https://twitter.com/niewals (outdated link, replaced, last checked 2023 Mar 11)
 * https://twitter.com/niewals_2wS (TODO)
+Night Tempo
+Links:
+Twitter: https://twitter.com/nighttempo (TODO)
 nikoi0227
 Songs:
 * Feel My Emotions
+Nor
+Links:
+Twitter: https://twitter.com/NOR0910 (TODO)
 nyankobrq
 Songs:
 * Good Day Sunshine
@@ -2384,6 +4786,14 @@ Instagram: https://www.instagram.com/omniboi (TODO)
 SoundCloud: https://soundcloud.com/omniboi (TODO)
 Spotify: https://open.spotify.com/artist/3I4kM4D2rNnlG8JwEH5bHx (TODO)
 Twitter: https://twitter.com/omniboi (TODO)
+Omoshiroebi
+Songs:
+* Sakura Saku (Omoshiroebi Remix)
+* Mille Feuille (Omoshiroebi Remix)
+Links:
+Facebook: https://www.facebook.com/omoshiroebi (dead link, last checked 2023 May 08)
+SoundCloud: https://soundcloud.com/omoshiroebi (dead link, last checked 2023 May 08)
+Twitter: https://twitter.com/omoshiroebi (outdated link, last checked 2023 May 08)
 osirasekita
 Songs:
 * Hanabi
@@ -2393,6 +4803,9 @@ Songs:
 Pandrezz
 Songs:
 * Stems (with PLEEG)
+pepensow
+Links:
+Twitter: https://twitter.com/pepensow (TODO)
 PIKASONIC
 Songs:
 * Miss You
@@ -2406,32 +4819,64 @@ PLEEG
 Songs:
 * Stems (with Pandrezz)
 * Sweet
+poplavor
+Links:
+Twitter: https://twitter.com/poplavor_ (TODO)
 Project Skylate
 Songs:
 * Green Tea (with Lyrit)
+Puniden
+Links:
+Twitter: https://twitter.com/puniden (TODO)
+Pure 100%
+Links:
+Twitter: https://twitter.com/wearepure100 (TODO)
+Pure Gem
+Songs:
+* Midnight Sea
+Links:
+Twitter: https://twitter.com/korewapurepure (TODO)
 r3n
 Songs:
 * Flyleaf
 Links:
 SoundCloud: https://soundcloud.com/r3_3_3n (TODO)
+RomTimney
+Links:
+Twitter: https://twitter.com/romtimney (TODO)
 RUQOA
 Songs:
 * Sweet Crepe
 Links:
 SoundCloud: https://soundcloud.com/ruqoa (TODO)
 Twitter: https://twitter.com/ruqoa_music (dead link, last checked 2023 Mar 07)
+Samme
+Links:
+Twitter: https://twitter.com/iamsamme (outdated link, last checked 2023 May 29)
 SaMZIng
 Songs:
 * Paper Planes
 Links:
 SoundCloud: https://soundcloud.com/samzingyeah (TODO)
 YouTube: https://www.youtube.com/@samzing1469 (TODO)
+Sefaro
+Links:
+Twitter: https://twitter.com/SefaroOfficial (dead link, last checked 2023 May 29)
 Sein & Music
 Songs:
 * Cotton Cloud
 Note: Social media accounts defunct
 Links:
 YouTube: Sein & Music Official https://www.youtube.com/@HangSangMarkEum (TODO)
+Seiun
+Songs:
+* Megu (with cute girls doing cute things)
+* Fubuki
+Shiroi-Ice
+Songs:
+* Ice soda
+Albums:
+* Shiroi-Ice's Selfreleased Collections Vol.1 (2023 May 01)
 Slappy
 Links:
 Instagram: https://www.instagram.com/slappyowo (TODO)
@@ -2445,8 +4890,11 @@ Songs:
 Snail's House
 Songs:
 * Hot Milk
+* Pixel Dream
+* Summertime Memory
 Links:
 Facebook: https://www.facebook.com/ujicosnaily (TODO)
+Patreon: https://www.patreon.com/ujico (outdated link, last checked  2023 May 20)
 SoundCloud: https://soundcloud.com/ujico (TODO)
 Twitter:
 * https://twitter.com/loudnessfete (outdated link, replaced, last checked 2023 Apr 05)
@@ -2462,9 +4910,13 @@ Instagram: https://www.instagram.com/iamsolush (TODO)
 SoundCloud: https://soundcloud.com/iamsolush (TODO)
 Spotify: https://open.spotify.com/artist/4warakaREUb68wqw3suiaw (TODO)
 YouTube: https://www.youtube.com/@SoLushMusic (TODO)
+stepic
+Links:
+Twitter: https://twitter.com/OMFGSTEPIC (TODO)
 Stereoman
 Songs:
 * Bubble Cat
+* Colorful Lemonade
 Contributed to album:
 * Kirara Anthems vol.3
 Links:
@@ -2498,11 +4950,14 @@ YouTube: https://www.youtube.com/@SweetDoveMusic (TODO)
 Synthion
 Songs:
 * Akiba
+* Ruby (with Milkoi)
 Links:
 Facebook: https://www.facebook.com/imsynthion (TODO)
 SoundCloud: https://soundcloud.com/synthion (TODO)
 Spotify: https://sptfy.com/synthion (dead link, last checked 2023 Mar 11)
-Twitter: https://twitter.com/synthionmusic (TODO)
+Twitter:
+* https://twitter.com/imsynthion (outdated link, replaced, last checked 2023 May 20)
+* https://twitter.com/synthionmusic (TODO)
 Website: https://synthion.space (TODO)
 YouTube: https://www.youtube.com/@synthion (TODO)
 Systile
@@ -2539,14 +4994,26 @@ Songs:
 Links:
 SoundCloud: https://soundcloud.com/tenma-tenma (TODO)
 Twitter: https://twitter.com/tenmaatenma (TODO)
+Toccoyaki
+Links:
+Twitter: https://twitter.com/toccoyaki (TODO)
 tokiwa
 Songs:
 * Gemini
 tomatoism
 Songs:
 * Naruhodo
+* Explosion
 Albums:
 * Ahoge EP
+Links:
+Twitter: https://twitter.com/tomatoism (TODO)
+Tomggg
+Links:
+Twitter: https://twitter.com/Tomggg (TODO)
+TORIENA
+Links:
+Twitter: https://twitter.com/toriena (TODO)
 Trifect
 Songs:
 * Light The Way! (with AIKA)
@@ -2557,9 +5024,20 @@ Facebook: https://www.facebook.com/trifectmusic (TODO)
 SoundCloud: https://soundcloud.com/trifectt (TODO)
 Twitter: https://twitter.com/Trifectt (TODO)
 YouTube: https://www.youtube.com/@trifectmusic (TODO)
+Tsundere Alley
+Other Names:
+* alleyy ✨ (Twitter, last checked 2023 May 28)
+Links:
+Twitter: https://twitter.com/whysotsunalley (TODO)
 unmo
 Links:
 YouTube: https://www.youtube.com/@unmo2850 (TODO)
+Voltz
+Links:
+Twitter: https://twitter.com/Voltz7788 (TODO)
+W-FU !!!
+Links:
+SoundCloud: https://soundcloud.com/w-fu (TODO)
 Wave Meow
 Songs:
 * Sunset (Wave Meow Remix)
@@ -2572,7 +5050,7 @@ Facebook: https://www.facebook.com/wispxmusic (TODO)
 Instagram: https://www.instagram.com/wispx_ (TODO)
 SoundCloud: https://soundcloud.com/wispx (TODO)
 Spotify: https://open.spotify.com/artist/6qxhZqIAvYzDVKIyyYtVlX (TODO)
-Twitter: https://twitter.com/wispx (TODO)
+Twitter: https://twitter.com/WispX (TODO)
 YouTube: https://www.youtube.com/@WispX (TODO)
 XVAN
 Links:
@@ -2588,24 +5066,40 @@ Links:
 SoundCloud: https://soundcloud.com/asuka_hou (TODO)
 Twitter: https://twitter.com/AskorAsuka (TODO)
 Yu-dachi
+Other Names:
+* Yu*Dachi
 Links:
 Bandcamp: https://yu-dachi.bandcamp.com (TODO)
 SoundCloud: https://soundcloud.com/yu-dachi (TODO)
 Twitter: https://twitter.com/thx_r308 (TODO)
 YouTube: https://www.youtube.com/@Yu-dachi (TODO)
+YUC'e
+Links:
+Twitter: https://twitter.com/yuce_e (TODO)
 Yunomi
 Songs:
 * はんぶんこ花火 (with Happy Kuru Kuru)
 * ジェリーフィッシュ (with ローラーガール)
 * 枕元にゴースト (with Aiobahn; nicamoq)
+* サ・ク・ラ・サ・ク (with nicamoq)
 Links:
 Apple Music: https://music.apple.com/jp/artist/yunomi/1167256583 (TODO)
 Bandcamp: https://iamyunomi.bandcamp.com (TODO)
 SoundCloud: https://soundcloud.com/tkrism (TODO)
 Spotify: https://open.spotify.com/artist/2j00CVYTPx6q9ANbmB2keb (TODO)
-Twitter: https://twitter.com/iamyunomi (TODO)
+Twitter:
+* https://twitter.com/tkrism (outdated link, replaced, last checked 2023 May 08)
+* https://twitter.com/iamyunomi (TODO)
 Website (Tumblr): https://www.yunomi.tokyo (TODO)
 YouTube: https://www.youtube.com/@Yunomichannel (TODO)
+yutsuki
+Links:
+Twitter: https://twitter.com/yutsukiofficial (dead link, last checked 2023 May 30)
+Zekk
+Links:
+Twitter:
+* https://twitter.com/zekkofficial (outdated link, last checked 2023 May 21)
+* https://twitter.com/zekk_wa_zetku (TODO)
 Zinnie
 Songs:
 * Kawaii Wave
@@ -2620,6 +5114,15 @@ Other Names:
 Romaji: Kiichigo
 Songs:
 * Dreamin’ Tonight (with Freezer)
+Links:
+Twitter: https://twitter.com/_kiichigo (TODO)
+くいしんぼあかちゃん
+Other Names:
+* きあと
+Notes:
+* Performing alias for きあと
+Links:
+Twitter: https://twitter.com/_kiato (TODO)
 永瀬 優太
 Other Names:
 * Nagase Yuuta (Romaji)
@@ -2627,14 +5130,44 @@ Songs:
 * speed cake
 Links:
 Twitter: https://twitter.com/SK_II2 (TODO)
+中野ジョジョ
+Other Names:
+* Nakanojojo (Romaji)
+Links:
+Twitter: https://twitter.com/nakanojojo (TODO)
+まさらP/masara
+Links:
+Twitter:
+* https://twitter.com/wishimblack (dead link, last checked 2023 May 27)
+ミカヅキBIGWAVE
+Links:
+Twitter: https://twitter.com/mikazukiBIGWAVE (TODO)
+桃箱
+Links:
+Twitter: https://twitter.com/momobakobako (outdated link, last checked 2023 May 29)
+ラブリーサマーちゃん
+Other Names:
+* Lovely Summer Chan
+Links:
+Twitter:
+* https://twitter.com/MAJIRESU_YAMETE (outdated link, last checked 2023 May 27)
 Label
 Chunchunmaru
+Status: Inactive
+Years active: 2017 Oct - 2020 Nov
 Released Songs:
 * Tecchi x Amacchi x Kagi - Chuuni (2017 Oct 02)
+* cute girls doing cute things - Megu (feat. Seiun) (2017 Oct 30)
+* Synthion & Milkoi - Ruby (2018 Jan 01)
+* Pure Gem - Midnight Sea
+* ikura - Coconut Cabana ()
+* Seiun - Fubuki ()
 * BB Yukus - Crimson (2019 Apr 01)
+* Electric Dad - Nosedive ()
+* tomatoism - Explosion (2020 Nov 27)
 Links:
-SoundCloud: https://soundcloud.com/chunchunmarudesu (TODO)
-Twitter: https://twitter.com/ChunchunmaruMoe (TODO)
+SoundCloud: https://soundcloud.com/chunchunmarudesu (last accessed 2023 May 20)
+Twitter: https://twitter.com/ChunchunmaruMoe (last accessed 2023 May 20)
 commune310
 Location: Japan
 Released Albums:
@@ -2643,12 +5176,17 @@ Links:
 Bandcamp: https://commune310.bandcamp.com (TODO)
 Website: https://commune310.com (TODO)
 Hanabira Bunko
+Status: Inactive
+Artist: Aiobahn
 Released Songs:
 * 夏の真夜中 (2017 Aug 09)
 * 過ぎゆく日と君へ (2018 Feb 02)
 Links:
-Facebook: https://www.facebook.com/HanabiraBunko (dead link, last checked 2023 Apr 07)
-Twitter: https://twitter.com/HanabiraBunko (dead link, last checked 2023 Apr 07)
+Facebook: https://www.facebook.com/HanabiraBunko (dead link, last checked 2023 May 20)
+Instagram: https://www.instagram.com/hanabirabunko (inactive, accessed 2023 May 20)
+SoundCloud: https://soundcloud.com/hanabirabunko (inactive, accessed 2023 May 20)
+Twitter: https://twitter.com/HanabiraBunko (dead link, last checked 2023 May 20)
+YouTube: https://www.youtube.com/@hanabirabunko311 (inactive, accessed 2023 May 20)
 Kirara Records
 Location: Japan
 Released Albums:
@@ -2742,17 +5280,41 @@ SoundCloud: https://soundcloud.com/kmusicsweet (TODO)
 YouTube: https://www.youtube.com/@kmusicsweet (TODO)
 Waifu Wednesdays
 Curated Songs:
-* Stereoman - Bubble Cat (2016 Aug 30)
+* Moe Shop - You Look So Good (2015 Sept 01)
+* Moe Shop - Moestep (2015 Sept 01)
+* Android52 - Super Anime Groove [3D World] (2015 Sept 01; removed)
+* Snail's House - Summertime Memory (2015 Sept 02)
+* Discandy - I Love You (2015 Sept 07)
+* Moe Shop - Want You (2015 Sept 09)
+* Good Night (Aiobahn Remix) (2017 Sept 16; removed)
+* Omoshiroebi - Sakura Saku Remix (orig. Yunomi) (2015 Sept 23)
+* Aire - Tea Time (2015 Sept 30)
+* Kamaboko - Colorful (2015 Oct 07)
+* Android 52 - The New Shrimp Groove (2015 Oct 14)
+* Omoshiroebi - Mille Feuille (Orig. Stepic) (2015 Oct 21)
+* Messier x Aire - Whisper To You (君へのささめき) (2015 Oct 28)
+* Ujico* / Snail's House - Pixel Dream (2015 Nov 04)
+* Fusq - Perfume [Lost Station EP] (2015 Nov 10; removed)
+* Holder - Candy Rush (2015 Nov 17)
+* * Aiobahn & Yunomi - 枕元にゴースト (Makuramoto ni Ghost) (removed)
+* Aiobahn & Yunomi - Penguin of Galactic Railroad (feat. nicamoq) (removed)
+* * Stereoman - Bubble Cat (2016 Aug 30)
 * Katomori - Makuramoto ni Ghost Remix (2017 Mar 14)
 * HoneyComeBear - Sneaker (2017 June 07)
 * Aiobahn - Midnight on Summer (ft. Antenna Girl) (2017 Aug; removed)
 * Tenma Tenma - September (2017 Oct 28)
 * Aiobahn - 過ぎゆく日と君へ (feat. nayuta) (2018 Jan; removed)
 * Neko Hacker - Night Sky (feat. Mashilo & ichika) (2018 Aug 19)
+References:
+[1] Waifu Wednesdays! (@waifuwed) (2016 Apr 27). “Experimenting with Instagram, will post upload cover arts weekly! Feel free to follow! 😎
+
+http://instagram.com/waifuwednesdays”, Twitter. https://twitter.com/waifuwed/status/725445290073964544 (accessed 2023 May 27)
 Links:
 Facebook: https://www.facebook.com/waifuwednesdays (TODO)
+Instagram: https://www.instagram.com/waifuwednesdays [1] (accessed 2023 May 26)
 Twitter: https://twitter.com/waifuwed (TODO)
 Website: https://www.waifuwednesdays.com (dead link, last checked 2023 Mar 07)
+YouTube: https://www.youtube.com/@WaifuWednesdays (TODO)
 YUUKI MUSIC
 Curated Songs:
 * r3n - Flyleaf
@@ -2810,6 +5372,14 @@ Tracklist: (TODO: fill in information)
 References/Links:
 [1] https://fanlink.to/DioImiKawaii (TODO)
 [2] SoundCloud. https://soundcloud.com/sweetdove/sets/dionysian-imitatio-kawaii (TODO)
+Future Cαndy
+Other Names:
+* Future Candy
+References/Links:
+[1] SoundCloud. https://soundcloud.com/yuce-2/future-candy-xfade (TODO)
+[2] Waifu Wednesdays! (@waifuwed) (2016 Oct 26). “.@yuce_e has a new cross-fade demo for her amazing sounding upcoming "Future Candy EP" release!
+
+Listen now! : https://soundcloud.com/yuce-2/future-candy-xfade”, Twitter. https://twitter.com/waifuwed/status/791126654093582336 (accessed 2023 May 28)
 Kirara Anthems vol.3
 Code: KRCD-003
 Release date: 2016 Apr 24 [2][3]
@@ -2850,6 +5420,20 @@ References/Links:
 [1] Website: https://krr-rec-tokusetu.sakura.ne.jp/krcd003 (dead link, last checked 2023 Mar 11)
 [2] Stereoman_jpn (2016 Apr 18). “Stereoman - Bubble Cat[F/C Kirara Anthems vol.3 (A-22a)]”, SoundCloud. https://soundcloud.com/5tereomanjpn/stereoman-bubble-catfc-kirara-anthems-vol3-a-22a (accessed 2023 Mar 11)
 [3] Various Artists - Topic (2021 Apr 05). “Bubble Cat”, YouTube. https://www.youtube.com/watch?v=02OH87mHDko (accessed 2023 Mar 11)
+Lost Station
+Artist: fusq
+Tracklist: (TODO)
+1. Perfume
+Moshi Moshi
+Artist: Moe Shop
+(TODO)
+[1] https://soundcloud.com/keyboard-kid-side-stuff/sets/moshi-moshi-ep (dead link, replaced, last checked 2023 May 21)
+[2] Waifu Wednesdays! (@waifuwed) (2016 Mar 26). “MOE SHOP'S NEW EP "MOSHI MOSHI" IS OUT NOW!
+
+GIVE IT A LISTEN, GUARANTEED MOE
+
+https://soundcloud.com/keyboard-kid-side-stuff/sets/moshi-moshi-ep”, Twitter. https://twitter.com/waifuwed/status/713529967598931969 (accessed 2023 May 21)
+[3] SoundCloud. https://soundcloud.com/moeshop/sets/moshi-moshi-ep (TODO)
 Ordinary Songs 2
 Tracklist [1]:
 1. introduction
@@ -2870,6 +5454,18 @@ References/Links:
 [1] https://smarturl.it/PolarityEP (TODO)
 [2] https://open.spotify.com/album/0oppzlIYZu2rH4Y4MbZ8C4 (TODO)
 [3] https://fusq.bandcamp.com/album/polarity (TODO)
+Pure Pure
+Artist: Moe Shop
+Release date: 2015 Aug 11 [1]
+Tracklist [1]:
+1. Intro
+2. You Look So Good
+3. Crush
+4. Say
+5. Kawaii Desho
+6. Outro
+References/Links:
+[1] Bandcamp. https://moeshop.bandcamp.com/album/pure-pure (TODO)
 Rocket League X RLBU Vol.3
 Tracklist [1]:
 1. KO3 - In My Heart
@@ -2881,6 +5477,24 @@ Tracklist [1]:
 7. Lafale - Afterglow
 References/Links:
 [1] Website (Tumblr): https://rlbu-vol3.tumblr.com (TODO)
+Sailor Flex!
+Artist: 
+Tracklist: 
+Curated by:
+* Waifu Wednesdays
+References/Links:
+[1] Waifu Wednesdays (201?). “”, YouTube. https://youtu.be/lyUr1aFAeC4 (TODO)
+[2] Waifu Wednesdays! (@waifuwed) (2018 Apr 16). “New release : @korewakotu - Sailor Flex! EP!”, Twitter. https://twitter.com/waifuwed/status/985835453222936577 (accessed 2023 May 29)
+[3] Waifu Wednesdays! (@waifuwed) (2018 Apr 19). “We're excited to announce our first official release under the "Waifu Wednesdays" label! ✨
+
+"Sailor Flex EP" by @korewakotu is now available on Spotify, iTunes, and all major streaming platforms!
+
+Listen on YouTube now! :”, Twitter. https://twitter.com/waifuwed/status/986899969071169536 (accessed 2023 May 29)
+Shiroi-Ice's Selfreleased Collections Vol.1
+Artist: Shiroi-Ice
+Release date: 2023 May 01
+Tracklist: (TODO)
+1. Ice soda
 Snowlight Vol. 2
 Label: Synthikate
 Release date: 2017 Dec 25
@@ -2902,9 +5516,17 @@ Tracklist: (TODO)
 1. 夜空はなんでも知ってるの？
 References/Links:
 [2] CYaRon! - Topic (2020 Sept 17). “夜空はなんでも知ってるの?”, YouTube. https://www.youtube.com/watch?v=-ugxwDzsflE (accessed 2023 Apr 02)
+ゆのみっくにお茶して
+References/Links:
+[1] SoundCloud. https://soundcloud.com/tkrism/sets/yunomicep (TODO)
+[2] Waifu Wednesdays! (@waifuwed) (2016 Oct 15). “Yunomi (@iamyunomi) recently released a new EP!
+
+Yunomic Ni Ocha Shite!
+
+Listen now! : https://soundcloud.com/tkrism/sets/yunomicep”, Twitter. https://twitter.com/waifuwed/status/787283614828494848 (accessed 2023 May 28)
 ゆのもきゅ
 Release date: 2017 Oct 18 [1][2]
-Tracklist:
+Tracklist: (TODO: complete tracklist)
 1. Yunomi - 枕元にゴースト (feat. nicamoq)
 References/Links:
 [1] Yunomi (2018 Oct 07). “枕元にゴースト (feat. nicamoq)”, YouTube. https://www.youtube.com/watch?v=I7-EWVVWFa8 (accessed 2023 Apr 02)
