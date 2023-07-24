@@ -15,7 +15,7 @@ Exported data is available in `archive` folder in the following file formats:
 * RTF (Rich Text Format)
 * TXT (plain text)
 
-Most recent archive date: 2023 June 05 (UTC)
+Most recent archive date: 2023 July 24 (UTC)
 
 ---
 
